@@ -78,3 +78,7 @@ with open('mercs.json', 'r') as f:
 
     
 print(json_to_english(json_data))
+
+with open('output.txt', 'w') as f:
+    # Write some text to the file
+    f.write(json_to_english(json_data))
