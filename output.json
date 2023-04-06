@@ -1,0 +1,2007 @@
+
+[
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxx1cvoucher-deadxxxxxxx,
+		xxxxxxximgxxxxxxx: xxxxxxx1cvoucherxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxx1C Payment Voucherxxxxxxx,
+		xxxxxxxdescriptionxxxxxxx: xxxxxxxBring the voucher back to Nexus Co. for payment.xxxxxxx,
+		xxxxxxxbasexxxxxxx: 0.0000000001,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxvoucherxxxxxxx]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxironbarsvoucherxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxIron Bars Voucherxxxxxxx,
+		xxxxxxxdescriptionxxxxxxx: xxxxxxxTake this voucher to Scalding in Meridian and they'll have your cargo ready. Exchange for a full load.xxxxxxx,
+		xxxxxxxbasexxxxxxx: 0,
+		xxxxxxxdropxxxxxxx: 0,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxvoucherxxxxxxx]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxx1cvoucherxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxIron Bars 2C Payment Voucherxxxxxxx,
+		xxxxxxxdescriptionxxxxxxx: xxxxxxxBring the voucher back to Nexus Co. for payment.xxxxxxx,
+		xxxxxxxbasexxxxxxx: 0.0000000002,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxvoucherxxxxxxx]
+	},
+
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxmolybarsvoucherxxxxxxx,
+		xxxxxxximgxxxxxxx: xxxxxxx1cvoucherxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxMolybdenum Ingots Voucherxxxxxxx,
+		xxxxxxxdescriptionxxxxxxx: xxxxxxxTake this voucher to Yin in Vhors Low and they'll have your cargo ready. Exchange for a full load.xxxxxxx,
+		xxxxxxxbasexxxxxxx: 0,
+		xxxxxxxdropxxxxxxx: 0,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxvoucherxxxxxxx]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxx1kvoucherxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxMolybdenum Ingots 1K Payment Voucherxxxxxxx,
+		xxxxxxxdescriptionxxxxxxx: xxxxxxxBring the voucher back to Sally for payment.xxxxxxx,
+		xxxxxxxbasexxxxxxx: 0.000000001,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxvoucherxxxxxxx]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxglintxxxxxxx,
+		xxxxxxximgxxxxxxx: xxxxxxxglint2xxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxGlintxxxxxxx,
+		xxxxxxxdescriptionxxxxxxx: xxxxxxxThis is fully-refined glint at the highest grade. Glint, or nano-fuel, is seemingly the most valuable substance in the system, at least thus far. Applications range from rocket power to plant food, this sub-Europan proto-intelligence seems to have solved problem solving on a sub-molecular scale.xxxxxxx,
+		xxxxxxxbasexxxxxxx: 100000,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: []
+	},
+
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxcontract1xxxxxxx,
+		xxxxxxximgxxxxxxx: xxxxxxxcontractxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxMeaningles contract to own an assortment of atoms you don't care aboutxxxxxxx,
+		xxxxxxxdescriptionxxxxxxx: xxxxxxxThis doesn't seem valuable at all...xxxxxxx,
+		xxxxxxxbasexxxxxxx: 0.000001,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxcontractxxxxxxx]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxcontract2xxxxxxx,
+		xxxxxxximgxxxxxxx: xxxxxxxcontractxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxCompletely stupid contract for xxxxxxxtreexxxxxxx with no other informationxxxxxxx,
+		xxxxxxxdescriptionxxxxxxx: xxxxxxxThis is garbage.xxxxxxx,
+		xxxxxxxbasexxxxxxx: 0.000001,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxcontractxxxxxxx]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxcontract3xxxxxxx,
+		xxxxxxximgxxxxxxx: xxxxxxxcontractxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxContract to guarantee the party that wins the next galactic war does indeed do soxxxxxxx,
+		xxxxxxxdescriptionxxxxxxx: xxxxxxxThis is trash. It's not worth anything...xxxxxxx,
+		xxxxxxxbasexxxxxxx: 0.000001,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxcontractxxxxxxx]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxcontract3xxxxxxx,
+		xxxxxxximgxxxxxxx: xxxxxxxcontractxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxAn agreement for payment applicable to no termsxxxxxxx,
+		xxxxxxxdescriptionxxxxxxx: xxxxxxxThis is garbage.xxxxxxx,
+		xxxxxxxbasexxxxxxx: 0.000001,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxcontractxxxxxxx]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxcontract4xxxxxxx,
+		xxxxxxximgxxxxxxx: xxxxxxxcontractxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxLicense to drill for lemons on Planet Sodaxxxxxxx,
+		xxxxxxxdescriptionxxxxxxx: xxxxxxxProbably was a mistake to pay money for this.xxxxxxx,
+		xxxxxxxbasexxxxxxx: 0.000001,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxcontractxxxxxxx]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxcontract5xxxxxxx,
+		xxxxxxximgxxxxxxx: xxxxxxxcontractxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxConfusing backward logic that stipulates this contract owns you if you don't sign itxxxxxxx,
+		xxxxxxxdescriptionxxxxxxx: xxxxxxxThis is junk.xxxxxxx,
+		xxxxxxxbasexxxxxxx: 0.000001,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxcontractxxxxxxx]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxcontract6xxxxxxx,
+		xxxxxxximgxxxxxxx: xxxxxxxcontractxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxOwnership title of a house in upstate New York which burned down in 1834xxxxxxx,
+		xxxxxxxdescriptionxxxxxxx: xxxxxxxProbably was a mistake to pay money for this.xxxxxxx,
+		xxxxxxxbasexxxxxxx: 0.000001,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxcontractxxxxxxx]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxcontract7xxxxxxx,
+		xxxxxxximgxxxxxxx: xxxxxxxcontractxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxContract to agree to purchase this contractxxxxxxx,
+		xxxxxxxdescriptionxxxxxxx: xxxxxxxThis is junk.xxxxxxx,
+		xxxxxxxbasexxxxxxx: 0.000001,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxcontractxxxxxxx]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxcontract8xxxxxxx,
+		xxxxxxximgxxxxxxx: xxxxxxxcontractxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxNegative flow heat diagram with a smiley face and no clear meaning at allxxxxxxx,
+		xxxxxxxdescriptionxxxxxxx: xxxxxxxThis doesn't seem valuable.xxxxxxx,
+		xxxxxxxbasexxxxxxx: 0.000001,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxcontractxxxxxxx]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxcontract9xxxxxxx,
+		xxxxxxximgxxxxxxx: xxxxxxxcontractxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxTerms to submit oneself to being discussed openly by strangersxxxxxxx,
+		xxxxxxxdescriptionxxxxxxx: xxxxxxxThis doesn't seem valuable at all.xxxxxxx,
+		xxxxxxxbasexxxxxxx: 0.000001,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxcontractxxxxxxx]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxcontract10xxxxxxx,
+		xxxxxxximgxxxxxxx: xxxxxxxcontractxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxAn actually valuable contract for the rights to all Glint from Nexus Red Warp Torchxxxxxxx,
+		xxxxxxxdescriptionxxxxxxx: xxxxxxxThis is legally binding! Now that you own the output of the Warp Torch, bring this to Nexus Red official to start collecting your daily Glint.xxxxxxx,
+		xxxxxxxbasexxxxxxx: 0.000001,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxcontractxxxxxxx]
+	},
+
+
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxeggsvoucherxxxxxxx,
+		xxxxxxximgxxxxxxx: xxxxxxxjotxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxEggs Voucherxxxxxxx,
+		xxxxxxxdescriptionxxxxxxx: xxxxxxxTake this voucher to Ichiro in Meridian and they'll have your cargo ready. Exchange for a full load.xxxxxxx,
+		xxxxxxxbasexxxxxxx: 0,
+		xxxxxxxdropxxxxxxx: 0,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxvoucherxxxxxxx]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxx1ceggvoucherxxxxxxx,
+		xxxxxxximgxxxxxxx: xxxxxxx1cvoucherxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxEgg Shipment 3C Payment Voucherxxxxxxx,
+		xxxxxxxdescriptionxxxxxxx: xxxxxxxBring the voucher back to Nexus Co. for payment.xxxxxxx,
+		xxxxxxxbasexxxxxxx: 0.0000000003,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxvoucherxxxxxxx]
+	},
+
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxaminovoucherxxxxxxx,
+		xxxxxxximgxxxxxxx: xxxxxxxaminosxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxAmino Fluid Voucherxxxxxxx,
+		xxxxxxxdescriptionxxxxxxx: xxxxxxxTake this voucher to the Wayward Farmer and they'll have your cargo ready. Exchange for a full load.xxxxxxx,
+		xxxxxxxbasexxxxxxx: 0,
+		xxxxxxxdropxxxxxxx: 0,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxvoucherxxxxxxx]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxx1kaminovoucherxxxxxxx,
+		xxxxxxximgxxxxxxx: xxxxxxx1kvoucherxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxAmino Shipment 1K Payment Voucherxxxxxxx,
+		xxxxxxxdescriptionxxxxxxx: xxxxxxxBring the voucher back to Sally for payment.xxxxxxx,
+		xxxxxxxbasexxxxxxx: 0.000000001,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxvoucherxxxxxxx]
+	},
+
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxrnavoucherxxxxxxx,
+		xxxxxxximgxxxxxxx: xxxxxxxcontractxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxReverse Transcriptase Voucherxxxxxxx,
+		xxxxxxxdescriptionxxxxxxx: xxxxxxxTake this voucher to the Growlab Consolate on Europa and they'll have your cargo ready. Exchange for a double load, 16.xxxxxxx,
+		xxxxxxxbasexxxxxxx: 0,
+		xxxxxxxdropxxxxxxx: 0,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxvoucherxxxxxxx]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxx1mrnavoucherxxxxxxx,
+		xxxxxxximgxxxxxxx: xxxxxxxcontractxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxReverse Transcriptase 2M Payment Voucherxxxxxxx,
+		xxxxxxxdescriptionxxxxxxx: xxxxxxxBring the voucher back to the Io Nexus Consignment Officer for payment.xxxxxxx,
+		xxxxxxxbasexxxxxxx: 0.00000002,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxvoucherxxxxxxx]
+	},
+
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxteslavoucherxxxxxxx,
+		xxxxxxximgxxxxxxx: xxxxxxxcontractxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxTessellation Run Voucherxxxxxxx,
+		xxxxxxxdescriptionxxxxxxx: xxxxxxxTake this voucher to the Yuao Ranger on Io and they'll have your cargo ready. Prepare for a double load +1, 17.xxxxxxx,
+		xxxxxxxbasexxxxxxx: 0,
+		xxxxxxxdropxxxxxxx: 0,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxvoucherxxxxxxx]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxteslavoucher2xxxxxxx,
+		xxxxxxximgxxxxxxx: xxxxxxx1kvoucherxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxTessellation Run Part 2xxxxxxx,
+		xxxxxxxdescriptionxxxxxxx: xxxxxxxThese 8 little guys go to Chef Strausing back on Earthxxxxxxx,
+		xxxxxxxbasexxxxxxx: 0,
+		xxxxxxxdropxxxxxxx: 0,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxvoucherxxxxxxx]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxteslavoucher3xxxxxxx,
+		xxxxxxximgxxxxxxx: xxxxxxx1cvoucherxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxTessellation Run Finalexxxxxxx,
+		xxxxxxxdescriptionxxxxxxx: xxxxxxxAlright now get this receipt and these wings back to Eioki-Donna xxxxxxxJoe' Lyn on DEMI.<br><br>But don't set off without a fast booster or a freezer, these wings spoil after 3 days!<br><br>If they spoil youxxxxxxxll need to replace them by sourcing from a meat dealer.xxxxxxx,
+		xxxxxxxbasexxxxxxx: 0,
+		xxxxxxxdropxxxxxxx: 0,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxvoucherxxxxxxx]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxx2mteslavoucherxxxxxxx,
+		xxxxxxximgxxxxxxx: xxxxxxxcontractxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxTessellation Run 8M Payment Voucherxxxxxxx,
+		xxxxxxxdescriptionxxxxxxx: xxxxxxxBring the voucher back to the Io Nexus Consignment Officer for payment. <br><br>Wow that was under like 13 parsecs. My Han to God I've almost never seen that before.xxxxxxx,
+		xxxxxxxbasexxxxxxx: 0.00000008,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxvoucherxxxxxxx]
+	},
+
+
+
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxcorestartup-notexxxxxxx,
+		xxxxxxximgxxxxxxx: xxxxxxxkitxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxLicense To Begin Iron Coring Machinexxxxxxx,
+		xxxxxxxdescriptionxxxxxxx: xxxxxxxBring this license to Gingerella in Promi-found Base.xxxxxxx,
+		xxxxxxxbasexxxxxxx: 0,
+		xxxxxxxdropxxxxxxx: 0,
+	    xxxxxxxtagsxxxxxxx: []
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxcoreformula0xxxxxxx,
+		xxxxxxximgxxxxxxx: xxxxxxxkitxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxIron Core Machine Guidexxxxxxx,
+		xxxxxxxdescriptionxxxxxxx: xxxxxxxThanks, hauler. This thing is up and running now. Have you used a Core Machine before? It's easy as long as you know the right formula for input.  The Iron Core Machine input is simple: 8 Iron Bars.<br><br>Come back to Promi-found Base and use the Core Machine all you want!xxxxxxx,
+		xxxxxxxbasexxxxxxx: 0,
+		xxxxxxxdropxxxxxxx: 0,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxrecipexxxxxxx],
+	    xxxxxxxrecipexxxxxxx: [[xxxxxxxironbarsxxxxxxx, 8]]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxironcorepinxxxxxxx,
+		xxxxxxximgxxxxxxx: xxxxxxxpin1xxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxIron Core Machine Keyxxxxxxx,
+		xxxxxxxdescriptionxxxxxxx: xxxxxxxThis is an Iron Core Machine Key needed to turn on the Coring Machine. Attach it to the machine!xxxxxxx,
+		xxxxxxxbasexxxxxxx: 0,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxpinxxxxxxx]
+	},
+
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxmolycorepinxxxxxxx,
+		xxxxxxximgxxxxxxx: xxxxxxxmolycorepinxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxMolybdenum Core Machine Keyxxxxxxx,
+		xxxxxxxdescriptionxxxxxxx: xxxxxxxThis is a Molybdenum Core Machine Key needed to turn on the Coring Machine. Attach it to the machine!xxxxxxx,
+		xxxxxxxbasexxxxxxx: 300,
+		xxxxxxxdropxxxxxxx: 0,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxpinxxxxxxx]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxlogicxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxMolybdenum Core Logic Diagramxxxxxxx,
+		xxxxxxxdescriptionxxxxxxx: xxxxxxxThis is a Molybdenum Core Machine Logic Diagram needed to turn on the Coring Machine. Attach it to the machine!xxxxxxx,
+		xxxxxxxbasexxxxxxx: 100,
+		xxxxxxxdropxxxxxxx: 0,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxpinxxxxxxx]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxfoldmapxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxMolybdenum Core Foldmapxxxxxxx,
+		xxxxxxxdescriptionxxxxxxx: xxxxxxxReality needs a little kicker to ignite the Molybdenum Core Machine. Attach the Foldmap to the machine!xxxxxxx,
+		xxxxxxxbasexxxxxxx: 0,
+		xxxxxxxdropxxxxxxx: 0,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxpinxxxxxxx]
+	},
+
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxpromcorepinxxxxxxx,
+		xxxxxxximgxxxxxxx: xxxxxxxpromcorepinxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxPromium Core Machine Keyxxxxxxx,
+		xxxxxxxdescriptionxxxxxxx: xxxxxxxThis is a Promium Core Machine Key needed to turn on the Coring Machine. Attach it to the machine!xxxxxxx,
+		xxxxxxxbasexxxxxxx: 1,
+		xxxxxxxdropxxxxxxx: 0,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxpinxxxxxxx]
+	},
+
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxnutsboltsxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxNuts and boltsxxxxxxx,
+		xxxxxxxdescriptionxxxxxxx: xxxxxxxThis is some metal junk basicallyxxxxxxx,
+		xxxxxxxbasexxxxxxx: 0.01,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxscrapxxxxxxx, xxxxxxxmetalxxxxxxx]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxpassportxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxExit Earth Orbit Papersxxxxxxx,
+		xxxxxxxdescriptionxxxxxxx: xxxxxxxThis passport allows you to exit Earth orbit. Every hauler needs their passport and medallion, but then it's open sky.<br><br>Bring this to Commander Gilfurl.xxxxxxx,
+		xxxxxxxbasexxxxxxx: 1100,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxpassportxxxxxxx, xxxxxxxkeyxxxxxxx]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxouterpassxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxOuter Consolate Prayer Bookxxxxxxx,
+		xxxxxxxdescriptionxxxxxxx: xxxxxxxSpeak these verses to gain safe passage among the outer ring construct culture.xxxxxxx,
+		xxxxxxxbasexxxxxxx: 100000,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxpassportxxxxxxx, xxxxxxxkeyxxxxxxx]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxpromshardsxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxPromium Shardsxxxxxxx,
+		xxxxxxxbasexxxxxxx: 1000,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxshardsxxxxxxx, xxxxxxxmetalxxxxxxx, xxxxxxxpromiumxxxxxxx]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxprombarsxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxPromium Cubesxxxxxxx,
+		xxxxxxxbasexxxxxxx: 10000,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxbullionxxxxxxx, xxxxxxxmetalxxxxxxx, xxxxxxxpromiumxxxxxxx]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxpromcorexxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxPromium Corexxxxxxx,
+		xxxxxxxbasexxxxxxx: 100000,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxcorexxxxxxx, xxxxxxxmetalxxxxxxx, xxxxxxxpromiumxxxxxxx]
+	},
+
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxmolyshardsxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxMolybdenum Shardsxxxxxxx,
+		xxxxxxxbasexxxxxxx: 100,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxshardsxxxxxxx, xxxxxxxmetalxxxxxxx, xxxxxxxmolybdenumxxxxxxx]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxmolybarsxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxMolybdenum Ingotsxxxxxxx,
+		xxxxxxxbasexxxxxxx: 1000,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxbullionxxxxxxx, xxxxxxxmetalxxxxxxx, xxxxxxxmolybdenumxxxxxxx]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxmolycorexxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxMolybdenum Corexxxxxxx,
+		xxxxxxxbasexxxxxxx: 10000,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxcorexxxxxxx, xxxxxxxmetalxxxxxxx, xxxxxxxmolybdenumxxxxxxx]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxironshardsxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxIron Shardsxxxxxxx,
+		xxxxxxxbasexxxxxxx: 10,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxshardsxxxxxxx, xxxxxxxmetalxxxxxxx, xxxxxxxscrapxxxxxxx]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxironbarsxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxIron Ingotsxxxxxxx,
+		xxxxxxxbasexxxxxxx: 100,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxbullionxxxxxxx, xxxxxxxmetalxxxxxxx]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxironcorexxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxIron Corexxxxxxx,
+		xxxxxxxdescriptionxxxxxxx: xxxxxxxAn Iron Core you made in the Iron Core Machine on Earth in Promi-found Base. The price for Iron Cores are better on Mars - Look for Jordax.xxxxxxx,
+		xxxxxxxbasexxxxxxx: 1000,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxcorexxxxxxx, xxxxxxxmetalxxxxxxx]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxjbarxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxJimmy-Barxxxxxxx,
+		xxxxxxxbasexxxxxxx: 10,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxtoolxxxxxxx, xxxxxxxmetalxxxxxxx]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxflashpastexxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxFlash Pastexxxxxxx,
+		xxxxxxxbasexxxxxxx: 10,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxtoolxxxxxxx]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxboxlockedxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxLocked Boxxxxxxxx,
+		xxxxxxxbasexxxxxxx: 10,
+		xxxxxxxdropxxxxxxx: 0.7,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxmetalxxxxxxx]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxboxornatexxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxOrnate Safe Deposit Boxxxxxxxx,
+		xxxxxxxbasexxxxxxx: 1000,
+		xxxxxxxdropxxxxxxx: 0.5,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxmetalxxxxxxx]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxbookarcphysxxxxxxx,
+		xxxxxxximgxxxxxxx: xxxxxxxouterpassxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxArcane Physics Codexxxxxxxx,
+		xxxxxxxbasexxxxxxx: 2000,
+		xxxxxxxdropxxxxxxx: 0,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxbookxxxxxxx, xxxxxxxarcanexxxxxxx]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxscribblexxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxFredericks's Fool-Proof Box Openerxxxxxxx,
+		xxxxxxxdescriptionxxxxxxx: xxxxxxxTake a standard J-Bar and put it under a Lock Boxxxxxxxxs padlock. Now...hit it really hard. Whateverxxxxxxxs inside is now out!xxxxxxx,
+		xxxxxxxbasexxxxxxx: 0,
+		xxxxxxxdropxxxxxxx: 0,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxrecipexxxxxxx],
+	    xxxxxxxrecipexxxxxxx: [[xxxxxxxboxlockedxxxxxxx, 1], [xxxxxxxjbarxxxxxxx, 1]]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxpromformulaxxxxxxx,
+		xxxxxxximgxxxxxxx: xxxxxxxlogicxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxPromium Cube Formulaxxxxxxx,
+		xxxxxxxdescriptionxxxxxxx: xxxxxxxPromium Cubes form as Aminos injest the Promium Shards.  Give me, the Lab Tech on Io, 1 Promium Shard and 1 Amino Paste to induce the reaction.xxxxxxx,
+		xxxxxxxbasexxxxxxx: 0,
+		xxxxxxxdropxxxxxxx: 0,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxrecipexxxxxxx],
+	    xxxxxxxrecipexxxxxxx: [[xxxxxxxpromshardsxxxxxxx, 1], [xxxxxxxaminosxxxxxxx, 1]]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxbook1xxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxMoby Dockhand, A Story Of Whale Why Notxxxxxxx,
+		xxxxxxxdescriptionxxxxxxx: xxxxxxxCall me Fish Mail... thatxxxxxxxs all I really am isn't it?  <br><br>Portage for creatures beneath me from one pond to the next, am I in service to my superior or am I in service to them, the haul? And is there any difference... <br><br>Well today's not the day to wax poetic, afterall therexxxxxxxs about a half ton of red spotted blue I need to help make an appointment with a wooden hammer. Sometimes I name them...the fourth or fifth next one in line. Daniel well he had a solid upbringing but when he moved out he had a rough go of it balancing the finance and then one day SPLAATTT struck by lighting. <br><br>At least my lighting hammer makes Queeq work of them. Lucky bastards...Free from the myth of porpoise.xxxxxxx,
+		xxxxxxxbasexxxxxxx: 30,
+		xxxxxxxdropxxxxxxx: 0,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxbookxxxxxxx, xxxxxxxwhalesxxxxxxx]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxbook2xxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxCommand Spells Vol. 1 by Dirk Fenglerxxxxxxx,
+		xxxxxxxdescriptionxxxxxxx: xxxxxxxChapter 1: No xxxxxxxMan' Without ComMANd. <br><br>'Command spells are all in the wrist,' Grandma Fengler used to tell us, as she splattered baby terminauts against the brick of our back alley, a reddish mortar, perpetually damp from organic ooze. 'Just remember to keep eye contact at all times. Otherwise things can get out of hand faster than a riffer sucks the shake off a brand new nitrogen belt.'  <br><br>Nana wasn't interested in learning the politically correct manner of communicating things she already knew how to say more straightforwardlike. Maybe it was that keen sense of saying only what was important that earned her the moniker 'The Queen Of Commandxxxxxxx down in Gemini Gutter 142 where we all grew up ...xxxxxxx,
+		xxxxxxxbasexxxxxxx: 50,
+		xxxxxxxdropxxxxxxx: 0,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxbookxxxxxxx, xxxxxxxmagicxxxxxxx]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxbook3xxxxxxx,
+		xxxxxxximgxxxxxxx: xxxxxxxbookarcphysxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxDiary Of A Metal Haulerxxxxxxx,
+		xxxxxxxdescriptionxxxxxxx: xxxxxxxI, Ron.  <br><br>Born Ronald Pugerino, xxxxxxxPugs,' the kids used to call me, to a simple backwood family of crab trap runners, never having even imagined the unknowable pleasures of the hauler lifestyle I do today, bumbling along in my simple hot-taped loomer Rig, I was then simply oblivious to the stars. That all changed the day I first met a Promi, Doctor Carbonella, the physics instructor at Candle High. <br><br>She was subtle in a direct way, never once led a lecture without using her trademark differential equation pun, 'Is that a FACT-OR what?' and as the other broodlings squacked, my mouth gaped. I was entrenched.  Whatever I needed to do to run at Carbonella's level, I swore I'd get it done. That night I tore my crab contract to shreds and signed a cold 11'er with Nexus.  I was going to space, 80 thousand tons of Iron in tow. For a brief moment, as the tomato farms of Terminex outskirts dwindled to specks behind me I wondered if I had been a fool for chasing my Promi infactuation, but when I soon discovered how much of a good time a 'Nexus 1C Voucher' could buy all that bewilderment turned to drive.  Killer drive.  <br><br>A Terminalxxxxxxxs drive.xxxxxxx,
+		xxxxxxxbasexxxxxxx: 500,
+		xxxxxxxdropxxxxxxx: 0,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxbookxxxxxxx]
+	},
+
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxcrash1xxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxNexus Trusted Networksxxxxxxx,
+		xxxxxxxbasexxxxxxx: 1500,
+		xxxxxxxdropxxxxxxx: 0,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxbookxxxxxxx]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxcrash2xxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxInter-system Index Environmentsxxxxxxx,
+		xxxxxxxbasexxxxxxx: 800,
+		xxxxxxxdropxxxxxxx: 0,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxbookxxxxxxx]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxcrash3xxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxDevil Book - DEMI Biblexxxxxxx,
+		xxxxxxxbasexxxxxxx: 1300,
+		xxxxxxxdropxxxxxxx: 0,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxbookxxxxxxx]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxcrash4xxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxComputer Security Criteria: Promi Standardsxxxxxxx,
+		xxxxxxxbasexxxxxxx: 112,
+		xxxxxxxdropxxxxxxx: 0,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxbookxxxxxxx]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxcrash5xxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxPink Shirt Book: Guide to VegOS PC'sxxxxxxx,
+		xxxxxxxbasexxxxxxx: 6000,
+		xxxxxxxdropxxxxxxx: 0,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxbookxxxxxxx]
+	},
+
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxrom1xxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxMesca-Simxxxxxxx,
+		xxxxxxxdescriptionxxxxxxx: xxxxxxxIf you get caught using this you're on your own.xxxxxxx,
+		xxxxxxxbasexxxxxxx: 11000,
+		xxxxxxxdropxxxxxxx: 0,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxsoftwarexxxxxxx]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxbootxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxBootDawg Diagnostics Kitxxxxxxx,
+		xxxxxxxdescriptionxxxxxxx: xxxxxxxxxxxxxx,
+		xxxxxxxbasexxxxxxx: 3000,
+		xxxxxxxdropxxxxxxx: 0,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxtoolxxxxxxx]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxrom2xxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxx80Gb Augmentationxxxxxxx,
+		xxxxxxxdescriptionxxxxxxx: xxxxxxxBrain augmentation stream, do not overload.xxxxxxx,
+		xxxxxxxbasexxxxxxx: 18000,
+		xxxxxxxdropxxxxxxx: 0,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxsoftwarexxxxxxx]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxrom3xxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxMixtape Classic: Jungle, Ambient, Acid, 303'sxxxxxxx,
+		xxxxxxxdescriptionxxxxxxx: xxxxxxxNothin on this mixtape fails to excite. We've got Trust Brothers, a little Undermono, Wideman Skin. Haul and sprawl baby!xxxxxxx,
+		xxxxxxxbasexxxxxxx: 250,
+		xxxxxxxdropxxxxxxx: 0,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxsoftwarexxxxxxx]
+	},
+
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxfilexxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxVegOS Plant Operation Manualxxxxxxx,
+		xxxxxxxdescriptionxxxxxxx: xxxxxxxVeg Lab spindrels are each engineered to support the needs of the roving DEMI station.  Glucose, Protein, as well as Mineral output are all achievable with the appropriate physical catalyst.<br><br><u>Apply Nitrogen fertalizer</u>: produce a consolidated glucose supply.<br><br><u>Apply Spice</u>: protein-based growths will form.<br><br><u>Apply Nano-fuel Glint</u>: excrete refinable metalic filings.<br><br>xxxxxxx,
+		xxxxxxxbasexxxxxxx: 0,
+		xxxxxxxdropxxxxxxx: 0,
+		xxxxxxxrecipexxxxxxx: [],
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxrecipexxxxxxx]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxhottipxxxxxxx,
+		xxxxxxximgxxxxxxx: xxxxxxxjotxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxHot Tipxxxxxxx,
+		xxxxxxxdescriptionxxxxxxx: xxxxxxxPirates tend to orbit a specific planet.  They get a bit nasty the further out you go past Mars.<br><br>If you ever lose your haul, you can always get some bigger guns and take back what you lost.<br><br>Pirates only attack you if you're carrying something.  xxxxxxx,
+		xxxxxxxbasexxxxxxx: 0,
+		xxxxxxxdropxxxxxxx: 0,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxrecipexxxxxxx],
+	    xxxxxxxrecipexxxxxxx: []
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxvegdisk1xxxxxxx,
+		xxxxxxximgxxxxxxx: xxxxxxxdiskxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxVegOS Disk 1xxxxxxx,
+		xxxxxxxbasexxxxxxx: 1,
+		xxxxxxxdropxxxxxxx: 0,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxsoftwarexxxxxxx]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxvegdisk2xxxxxxx,
+		xxxxxxximgxxxxxxx: xxxxxxxdiskxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxVegOS Disk 2xxxxxxx,
+		xxxxxxxbasexxxxxxx: 1,
+		xxxxxxxdropxxxxxxx: 0,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxsoftwarexxxxxxx]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxvegdisk3xxxxxxx,
+		xxxxxxximgxxxxxxx: xxxxxxxdiskxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxVegOS Disk 3xxxxxxx,
+		xxxxxxxbasexxxxxxx: 1,
+		xxxxxxxdropxxxxxxx: 0,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxsoftwarexxxxxxx]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxvegdisk4xxxxxxx,
+		xxxxxxximgxxxxxxx: xxxxxxxdiskxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxVegOS Disk 4xxxxxxx,
+		xxxxxxxbasexxxxxxx: 1,
+		xxxxxxxdropxxxxxxx: 0,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxsoftwarexxxxxxx]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxvegdisk5xxxxxxx,
+		xxxxxxximgxxxxxxx: xxxxxxxdiskxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxVegOS Disk 5xxxxxxx,
+		xxxxxxxbasexxxxxxx: 1,
+		xxxxxxxdropxxxxxxx: 0,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxsoftwarexxxxxxx]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxvegdisk6xxxxxxx,
+		xxxxxxximgxxxxxxx: xxxxxxxdiskxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxVegOS Disk 6xxxxxxx,
+		xxxxxxxbasexxxxxxx: 1,
+		xxxxxxxdropxxxxxxx: 0,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxsoftwarexxxxxxx]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxvegdisk7xxxxxxx,
+		xxxxxxximgxxxxxxx: xxxxxxxdiskxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxVegOS Disk 7xxxxxxx,
+		xxxxxxxbasexxxxxxx: 1,
+		xxxxxxxdropxxxxxxx: 0,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxsoftwarexxxxxxx]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxvegdisk8xxxxxxx,
+		xxxxxxximgxxxxxxx: xxxxxxxdiskxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxVegOS Disk 8xxxxxxx,
+		xxxxxxxbasexxxxxxx: 1,
+		xxxxxxxdropxxxxxxx: 0,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxsoftwarexxxxxxx]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxvegdisk9xxxxxxx,
+		xxxxxxximgxxxxxxx: xxxxxxxdiskxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxVegOS Disk 9xxxxxxx,
+		xxxxxxxbasexxxxxxx: 1,
+		xxxxxxxdropxxxxxxx: 0,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxsoftwarexxxxxxx]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxvegdisk10xxxxxxx,
+		xxxxxxximgxxxxxxx: xxxxxxxdiskxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxVegOS Disk 10xxxxxxx,
+		xxxxxxxbasexxxxxxx: 1,
+		xxxxxxxdropxxxxxxx: 0,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxsoftwarexxxxxxx]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxvegdisk11xxxxxxx,
+		xxxxxxximgxxxxxxx: xxxxxxxdiskxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxVegOS Disk 11xxxxxxx,
+		xxxxxxxbasexxxxxxx: 1,
+		xxxxxxxdropxxxxxxx: 0,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxsoftwarexxxxxxx]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxvegdisk12xxxxxxx,
+		xxxxxxximgxxxxxxx: xxxxxxxdiskxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxVegOS Disk 12xxxxxxx,
+		xxxxxxxbasexxxxxxx: 1,
+		xxxxxxxdropxxxxxxx: 0,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxsoftwarexxxxxxx]
+	},
+
+
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxjotxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxLeft-Behind Notexxxxxxx,
+		xxxxxxxdescriptionxxxxxxx: xxxxxxxAdd flash paste to 2 Iron shards on your own workbench and avoid these Nexus fees. Hack the planet(s)!xxxxxxx,
+		xxxxxxxbasexxxxxxx: 0,
+		xxxxxxxdropxxxxxxx: 0,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxrecipexxxxxxx],
+	    xxxxxxxrecipexxxxxxx: [[xxxxxxxflashpastexxxxxxx, 1], [xxxxxxxironshardsxxxxxxx, 2]]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxcrabsouprecipexxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxRecipe for crab & tomato soupxxxxxxx,
+		xxxxxxxdescriptionxxxxxxx: xxxxxxxRecipe for Geoffriesxxxxxxxs favorite Red-spotted Blue Crab & tomato soup. Write this down by saving it to your Workbench so you don't need to keep it around forever. Itxxxxxxxs so easy when you use choice ingredients: 1 Plump Tomato and 1 Red-spotted Blue Crab Meat.xxxxxxx,
+		xxxxxxxbasexxxxxxx: 0,
+		xxxxxxxdropxxxxxxx: 0,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxrecipexxxxxxx],
+	    xxxxxxxrecipexxxxxxx: [[xxxxxxxmeatcrabxxxxxxx, 1], [xxxxxxxtomatoxxxxxxx, 1]]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxkatsudonrecipexxxxxxx,
+		xxxxxxximgxxxxxxx: xxxxxxxcrabsouprecipexxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxKatsudon Recipexxxxxxx,
+		xxxxxxxdescriptionxxxxxxx: xxxxxxxStep 1: make Tonkatsu. Step 2: combine Tonkatsu with rice, water, heat it up, and add garnish. Step 3: Eat up. If you're a good chef it will be delicious.xxxxxxx,
+		xxxxxxxbasexxxxxxx: 0,
+		xxxxxxxdropxxxxxxx: 0,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxrecipexxxxxxx],
+	    xxxxxxxrecipexxxxxxx: [[xxxxxxxtonkatsuxxxxxxx, 1], [xxxxxxxricexxxxxxx, 1], [xxxxxxxwaterxxxxxxx, 1], [xxxxxxxgarnishxxxxxxx, 1], [xxxxxxxflashpastexxxxxxx, 1]]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxnarutorecipexxxxxxx,
+		xxxxxxximgxxxxxxx: xxxxxxxnarutoxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxInstructions For Fresh Narutoxxxxxxx,
+		xxxxxxxdescriptionxxxxxxx: xxxxxxxGrandma knows best so don't deviate from her instructions: combine Rice, Eggs, a little Sugar, Heated Water, then and mash together the Fish Filets (Raw) with Rice Wine until doughy!xxxxxxx,
+		xxxxxxxbasexxxxxxx: 6,
+		xxxxxxxdropxxxxxxx: 0,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxrecipexxxxxxx],
+	    xxxxxxxrecipexxxxxxx: [[xxxxxxxricexxxxxxx, 1], [xxxxxxxmeatsaltedfishxxxxxxx, 1], [xxxxxxxricewinexxxxxxx, 1], [xxxxxxxeggsxxxxxxx, 1], [xxxxxxxspicesugarxxxxxxx, 1], [xxxxxxxwaterxxxxxxx, 1], [xxxxxxxflashpastexxxxxxx, 1]]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxramenrecipexxxxxxx,
+		xxxxxxximgxxxxxxx: xxxxxxxcontractxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxOpen Source Century Ramenxxxxxxx,
+		xxxxxxxdescriptionxxxxxxx: xxxxxxx!!! Hackers unite. Just build out the parts and you got it.  <br><br>Prepare: 1 Tonkatsu. 1 Naruto. 1 Gemeni Stock. Now combine them all with noodles and eggs.  This is the real deal guys!xxxxxxx,
+		xxxxxxxbasexxxxxxx: 0,
+		xxxxxxxdropxxxxxxx: 0,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxrecipexxxxxxx],
+	    xxxxxxxrecipexxxxxxx: [[xxxxxxxtonkatsuxxxxxxx, 1], [xxxxxxxnoodlesxxxxxxx, 1], [xxxxxxxstockxxxxxxx, 1], [xxxxxxxeggsxxxxxxx, 1], [xxxxxxxnarutoxxxxxxx, 1]]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxshrimptempurarecipexxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxRecipe for Ebi Tempuraxxxxxxx,
+		xxxxxxxdescriptionxxxxxxx: xxxxxxxRecipe for Lin Shuxxxxxxxs pretty good Shrimp Tempura. Therexxxxxxxs nothing to it just Shrimp, Breadcrumbs, Salt, Eggs, Oil, and blast it with Flashpaste! Mmmm hot and tasty.xxxxxxx,
+		xxxxxxxbasexxxxxxx: 0,
+		xxxxxxxdropxxxxxxx: 0,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxrecipexxxxxxx],
+	    xxxxxxxrecipexxxxxxx: [[xxxxxxxmeatshrimpxxxxxxx, 1], [xxxxxxxspicesaltxxxxxxx, 1], [xxxxxxxbreadcrumbsxxxxxxx, 1], [xxxxxxxeggsxxxxxxx, 1], [xxxxxxxoilxxxxxxx, 1], [xxxxxxxflashpastexxxxxxx, 1]]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxtonkatsurecipexxxxxxx,
+		xxxxxxximgxxxxxxx: xxxxxxxjotxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxRecipe for Pork Tonkatsuxxxxxxx,
+		xxxxxxxdescriptionxxxxxxx: xxxxxxxThis one is so easy! The best Gemini cooks use Pork Cutlet, Breadcrumbs, and Eggs! Then, use any heatsource like Flashpaste or a Portable Stove of course.xxxxxxx,
+		xxxxxxxbasexxxxxxx: 0,
+		xxxxxxxdropxxxxxxx: 0,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxrecipexxxxxxx],
+	    xxxxxxxrecipexxxxxxx: [[xxxxxxxmeatporkxxxxxxx, 1], [xxxxxxxbreadcrumbsxxxxxxx, 1], [xxxxxxxeggsxxxxxxx, 1], [xxxxxxxflashpastexxxxxxx, 1]]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxkitxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxTakei's Take-home Libations Kitxxxxxxx,
+		xxxxxxxdescriptionxxxxxxx: xxxxxxxRecipe for Takei-Donna Lyn's completely reasonable-strength Martini: 1 oz Of Vodka, 1 Compliment of Olives, 1 Terminex Vermouth.xxxxxxx,
+		xxxxxxxbasexxxxxxx: 0,
+		xxxxxxxdropxxxxxxx: 0,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxrecipexxxxxxx],
+	    xxxxxxxrecipexxxxxxx: [[xxxxxxxshotglassxxxxxxx, 1], [xxxxxxxolivesxxxxxxx, 1], [xxxxxxxportxxxxxxx, 1]]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxoldfashion-jotxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxTakei's Mars Old Fashioned Formulaxxxxxxx,
+		xxxxxxxdescriptionxxxxxxx: xxxxxxxLin Shu carefully observed Takei-Donna Lyn making Mars Old Fashioneds for 10 years now. Itxxxxxxxs gotta be this: 1 Brown Liquor, 1 Orange Peel, 1 Sugar Cubes, Bitters, and then ignite the fruit with Flashpaste! Hey even if it's not Takeixxxxxxxs exact secret, it is delicious.xxxxxxx,
+		xxxxxxxbasexxxxxxx: 0,
+		xxxxxxxdropxxxxxxx: 0,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxrecipexxxxxxx],
+	    xxxxxxxrecipexxxxxxx: [[xxxxxxxliquor0xxxxxxx, 1], [xxxxxxxorangepeelxxxxxxx, 1], [xxxxxxxbittersxxxxxxx, 1], [xxxxxxxspicesugarxxxxxxx, 1], [xxxxxxxflashpastexxxxxxx, 1]]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxmanhattan-jotxxxxxxx,
+		xxxxxxximgxxxxxxx: xxxxxxxjotxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxTakei's Five Boroughs Formulaxxxxxxx,
+		xxxxxxxdescriptionxxxxxxx: xxxxxxxLin Shu carefully observed Takei-Donna Lyn making Five Boroughs for 10 years now. Itxxxxxxxs gotta be this: 1 Brown Liquor, 1 Cherry, 1 Vermouth, and Bitters! Hey even if it's not Takeixxxxxxxs exact secret, it is delicious.xxxxxxx,
+		xxxxxxxbasexxxxxxx: 0,
+		xxxxxxxdropxxxxxxx: 0,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxrecipexxxxxxx],
+	    xxxxxxxrecipexxxxxxx: [[xxxxxxxliquor0xxxxxxx, 1], [xxxxxxxcherryxxxxxxx, 1], [xxxxxxxportxxxxxxx, 1], [xxxxxxxbittersxxxxxxx, 1]]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxstock-jotxxxxxxx,
+		xxxxxxximgxxxxxxx: xxxxxxxscribblexxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxHow To Make A Solid Gemini Stockxxxxxxx,
+		xxxxxxxdescriptionxxxxxxx: xxxxxxxLin Shu remembers working as a line cook in the Gemini Gutter for years. The Stock is so easy. It's Celery, Carrot, Onion, a Sea Carcass, then heat it with Flashpaste in Water!xxxxxxx,
+		xxxxxxxbasexxxxxxx: 0,
+		xxxxxxxdropxxxxxxx: 0,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxrecipexxxxxxx],
+	    xxxxxxxrecipexxxxxxx: [[xxxxxxxwaterxxxxxxx, 1], [xxxxxxxcarrotxxxxxxx, 1], [xxxxxxxceleryxxxxxxx, 1], [xxxxxxxonionxxxxxxx, 1], [xxxxxxxflashpastexxxxxxx, 1], [xxxxxxxcarcassxxxxxxx, 1]]
+	},
+
+
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxspicesugarxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxSugar Cubesxxxxxxx,
+		xxxxxxxbasexxxxxxx: 2,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxspicexxxxxxx]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxorangepeelxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxOrange Peelxxxxxxx,
+		xxxxxxxbasexxxxxxx: 2,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxspicexxxxxxx],
+	    xxxxxxxdecaysxxxxxxx: [xxxxxxxmudxxxxxxx, 15]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxshotglassxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxx1oz of Vodkaxxxxxxx,
+		xxxxxxxbasexxxxxxx: 10,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxneurosxxxxxxx: [-1, 0, 2],
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxliquorxxxxxxx, xxxxxxxdrinkxxxxxxx]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxpintxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxSpace Pintxxxxxxx,
+		xxxxxxxbasexxxxxxx: 25,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxneurosxxxxxxx: [-1, -1, 2],
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxliquorxxxxxxx, xxxxxxxdrinkxxxxxxx]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxsoda1xxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxNexus Colaxxxxxxx,
+		xxxxxxxbasexxxxxxx: 50,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxneurosxxxxxxx: [1, 0, 0],
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxdrinkxxxxxxx]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxsoda2xxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxIo Gewxxxxxxx,
+		xxxxxxxbasexxxxxxx: 125,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxneurosxxxxxxx: [0, 2, 0],
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxdrinkxxxxxxx]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxsoda3xxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxCrystal Nexusxxxxxxx,
+		xxxxxxxbasexxxxxxx: 100,
+		xxxxxxxdropxxxxxxx: 0,
+	    xxxxxxxneurosxxxxxxx: [0, 2, 0],
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxdrinkxxxxxxx]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxportxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxTerminex Hydro Farms's Vermouthxxxxxxx,
+		xxxxxxxbasexxxxxxx: 8,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxliquorxxxxxxx]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxliquor0xxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxBrown Alcoholxxxxxxx,
+		xxxxxxxbasexxxxxxx: 15,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxneurosxxxxxxx: [-1, -1, 3],
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxliquorxxxxxxx, xxxxxxxdrinkxxxxxxx]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxliquor1xxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxLiquorice Liqueurxxxxxxx,
+		xxxxxxxbasexxxxxxx: 25,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxneurosxxxxxxx: [0, -1, 3],
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxliquorxxxxxxx, xxxxxxxdrinkxxxxxxx]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxricewinexxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxRice Winexxxxxxx,
+		xxxxxxxbasexxxxxxx: 13,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxliquorxxxxxxx]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxolivesxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxFull Compliment Of Olivesxxxxxxx,
+		xxxxxxxbasexxxxxxx: 9,
+		xxxxxxxdescriptionxxxxxxx: xxxxxxxSomething you should never leave port without.xxxxxxx,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxfoodxxxxxxx],
+	    xxxxxxxdecaysxxxxxxx: [xxxxxxxmudxxxxxxx, 7]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxmartinixxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxStraight Martinixxxxxxx,
+		xxxxxxxbasexxxxxxx: 30,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxneurosxxxxxxx: [0, -2, 4],
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxliquorxxxxxxx, xxxxxxxdrinkxxxxxxx]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxoldfashionxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxA Mars Old Fashionedxxxxxxx,
+		xxxxxxxbasexxxxxxx: 100,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxneurosxxxxxxx: [1, -6, 8],
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxliquorxxxxxxx, xxxxxxxdrinkxxxxxxx]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxabsinthexxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxThe Green Dreamxxxxxxx,
+		xxxxxxxbasexxxxxxx: 80,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxneurosxxxxxxx: [-2, -4, 7],
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxliquorxxxxxxx, xxxxxxxdrinkxxxxxxx]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxbittersxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxOrganic Bittersxxxxxxx,
+		xxxxxxxbasexxxxxxx: 6,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxliquorxxxxxxx, xxxxxxxspicexxxxxxx]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxmanhattanxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxA Five Boroughsxxxxxxx,
+		xxxxxxxbasexxxxxxx: 80,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxneurosxxxxxxx: [0, -5, 5],
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxliquorxxxxxxx, xxxxxxxdrinkxxxxxxx]
+	},
+
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxsmokeablesxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxTerra-Lite Smokeablesxxxxxxx,
+		xxxxxxxbasexxxxxxx: 2,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxfoodxxxxxxx],
+	    xxxxxxxneurosxxxxxxx: [2, -2, -4]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxcherryxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxSweet Cherriesxxxxxxx,
+		xxxxxxxbasexxxxxxx: 5,
+		xxxxxxxdropxxxxxxx:0.2,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxfoodxxxxxxx, xxxxxxxdessertxxxxxxx],
+	    xxxxxxxneurosxxxxxxx: [1, 0, 1],
+	    xxxxxxxdecaysxxxxxxx: [xxxxxxxmudxxxxxxx, 5]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxblackfruitxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxBlackfruitxxxxxxx,
+		xxxxxxxbasexxxxxxx: 500,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxfoodxxxxxxx, xxxxxxxdessertxxxxxxx],
+	    xxxxxxxneurosxxxxxxx: [0, 3, 0],
+	    xxxxxxxdecaysxxxxxxx: [xxxxxxxmudxxxxxxx, 5]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxstrawberryxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxDelicious Strawberriesxxxxxxx,
+		xxxxxxxbasexxxxxxx: 50,
+		xxxxxxxdropxxxxxxx:0.2,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxfoodxxxxxxx, xxxxxxxdessertxxxxxxx],
+	    xxxxxxxneurosxxxxxxx: [2, 0, 0],
+	    xxxxxxxdecaysxxxxxxx: [xxxxxxxmudxxxxxxx, 2]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxwiringxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxMetal Wiringxxxxxxx,
+		xxxxxxxbasexxxxxxx: 1,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxtoolxxxxxxx, xxxxxxxmetalxxxxxxx],
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxsievexxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxFilter Sievexxxxxxx,
+		xxxxxxxbasexxxxxxx: 10,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxtoolxxxxxxx, xxxxxxxmetalxxxxxxx],
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxwoodbarsxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxWoodxxxxxxx,
+		xxxxxxxbasexxxxxxx: 5,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxwoodxxxxxxx],
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxcratexxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxCrab Trap Cratexxxxxxx,
+		xxxxxxxbasexxxxxxx: 20,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxtoolxxxxxxx, xxxxxxxwoodxxxxxxx],
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxnitrogenxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxNitrogen plant feedxxxxxxx,
+		xxxxxxxbasexxxxxxx: 200,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxfertalizerxxxxxxx],
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxcrabxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxRed-spotted Blue Crabxxxxxxx,
+		xxxxxxxbasexxxxxxx: 8,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxanimalxxxxxxx],
+	    xxxxxxxdecaysxxxxxxx: [xxxxxxxcarcassxxxxxxx, 2] //bones
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxmeatcrabxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxRed-spotted Blue Crab Meatxxxxxxx,
+		xxxxxxxbasexxxxxxx: 8,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxmeatxxxxxxx],
+	    xxxxxxxdecaysxxxxxxx: [xxxxxxxmudxxxxxxx, 2]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxmeatchickenxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxGame Thighsxxxxxxx,
+		xxxxxxxbasexxxxxxx: 10,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxmeatxxxxxxx],
+	    xxxxxxxdecaysxxxxxxx: [xxxxxxxmudxxxxxxx, 4]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxchickxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxBeautiful G'engineered Night Silkie Chickxxxxxxx,
+		xxxxxxxbasexxxxxxx: 1000,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxanimalxxxxxxx]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxchick2xxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxAdult Night Silkie Callerxxxxxxx,
+		xxxxxxxbasexxxxxxx: 10000,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxanimalxxxxxxx]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxmeatsaltedfishxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxFish Filets, Rawxxxxxxx,
+		xxxxxxxbasexxxxxxx: 40,
+		xxxxxxxdropxxxxxxx: 0.3,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxmeatxxxxxxx],
+	    xxxxxxxdecaysxxxxxxx: [xxxxxxxmudxxxxxxx, 9]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxmeatbaconxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxSliced Baconxxxxxxx,
+		xxxxxxxbasexxxxxxx: 12,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxmeatxxxxxxx],
+	    xxxxxxxdecaysxxxxxxx: [xxxxxxxoilxxxxxxx, 8]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxmeathabxxxxxxx,
+		xxxxxxximgxxxxxxx: xxxxxxxmeatxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxMeat-Hab Cubexxxxxxx,
+		xxxxxxxbasexxxxxxx: 100,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxmeatxxxxxxx],
+	    xxxxxxxdecaysxxxxxxx: [xxxxxxxmudxxxxxxx, 1]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxmeatsausagexxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxSpiced Sausagexxxxxxx,
+		xxxxxxxbasexxxxxxx: 20,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxmeatxxxxxxx, xxxxxxxfoodxxxxxxx],
+	    xxxxxxxneurosxxxxxxx: [1, 0, 0],
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxmeatporkxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxPork Cutletxxxxxxx,
+		xxxxxxxbasexxxxxxx: 15,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxmeatxxxxxxx],
+	    xxxxxxxdecaysxxxxxxx: [xxxxxxxmudxxxxxxx, 4]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxmeatshrimpxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxFresh Shrimpxxxxxxx,
+		xxxxxxxbasexxxxxxx: 25,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxmeatxxxxxxx],
+	    xxxxxxxdecaysxxxxxxx: [xxxxxxxcarcassxxxxxxx, 4]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxmeatoysterxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxValvebeast Meatxxxxxxx,
+		xxxxxxxbasexxxxxxx: 50,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxmeatxxxxxxx, xxxxxxxfoodxxxxxxx],
+	    xxxxxxxneurosxxxxxxx: [-1, 0, 2],
+	    xxxxxxxdecaysxxxxxxx: [xxxxxxxmudxxxxxxx, 4]
+	},
+
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxtomatoxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxPlump Tomatoxxxxxxx,
+		xxxxxxxbasexxxxxxx: 2,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxfoodxxxxxxx],
+	    xxxxxxxneurosxxxxxxx: [1, 0, 0],
+	    xxxxxxxdecaysxxxxxxx: [xxxxxxxmudxxxxxxx, 2]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxspicebayxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxBay Leafxxxxxxx,
+		xxxxxxxbasexxxxxxx: 4,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxspicexxxxxxx]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxspicebluexxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxSpicexxxxxxx,
+		xxxxxxxbasexxxxxxx: 100,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxspicexxxxxxx]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxspicebutterxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxButterxxxxxxx,
+		xxxxxxxbasexxxxxxx: 3,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxfoodxxxxxxx],
+	    xxxxxxxneurosxxxxxxx: [1, 0, -1],
+	    xxxxxxxdecaysxxxxxxx: [xxxxxxxoilxxxxxxx, 4]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxspicechilixxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxChili Pepperxxxxxxx,
+		xxxxxxxbasexxxxxxx: 10,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxspicexxxxxxx]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxspicecocoxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxCoco Powderxxxxxxx,
+		xxxxxxxbasexxxxxxx: 4,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxspicexxxxxxx]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxspicesagexxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxSagexxxxxxx,
+		xxxxxxxbasexxxxxxx: 8,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxspicexxxxxxx]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxspicesaltxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxSaltxxxxxxx,
+		xxxxxxxbasexxxxxxx: 1,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxspicexxxxxxx]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxspicepepperxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxPepperxxxxxxx,
+		xxxxxxxbasexxxxxxx: 1,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxspicexxxxxxx]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxricexxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxBag Of Ricexxxxxxx,
+		xxxxxxxbasexxxxxxx: 17,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxgrainxxxxxxx]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxbreadcrumbsxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxBreadcrumbsxxxxxxx,
+		xxxxxxxbasexxxxxxx: 11,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxgrainxxxxxxx]
+	},
+
+
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxoilxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxCooking-grade Oilxxxxxxx,
+		xxxxxxxbasexxxxxxx: 1,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxspicexxxxxxx]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxfatxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxRendered Animal Fatxxxxxxx,
+		xxxxxxxbasexxxxxxx: 50,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxspicexxxxxxx]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxcarcassxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxSea Carcassxxxxxxx,
+		xxxxxxxbasexxxxxxx: 1,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxspicexxxxxxx]
+	},
+
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxeggsxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxAssorted Eggsxxxxxxx,
+		xxxxxxxbasexxxxxxx: 9,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxfoodxxxxxxx],
+	    xxxxxxxneurosxxxxxxx: [1, 0, -2],
+	    xxxxxxxdecaysxxxxxxx: [xxxxxxxmudxxxxxxx, 20]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxwaterxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxSpace-Safe Waterxxxxxxx,
+		xxxxxxxbasexxxxxxx: 5,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxdrinkxxxxxxx]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxcarrotxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxFresh Carrotxxxxxxx,
+		xxxxxxxbasexxxxxxx: 5,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxfoodxxxxxxx],
+	    xxxxxxxneurosxxxxxxx: [1, 0, -1],
+	    xxxxxxxdecaysxxxxxxx: [xxxxxxxmudxxxxxxx, 8]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxpicklexxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxPickle, Rich In Flavorxxxxxxx,
+		xxxxxxxdescriptionxxxxxxx: xxxxxxxPickle Rich In Flavor!xxxxxxx,
+		xxxxxxxbasexxxxxxx: 1,
+		xxxxxxxdropxxxxxxx: 0,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxfoodxxxxxxx],
+	    xxxxxxxneurosxxxxxxx: [-3, 1, 0],
+	    xxxxxxxdecaysxxxxxxx: [xxxxxxxmudxxxxxxx, 8]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxsnowxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxSnowcrashxxxxxxx,
+		xxxxxxxdescriptionxxxxxxx: xxxxxxxxxxxxxx,
+		xxxxxxxbasexxxxxxx: 0,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxfoodxxxxxxx],
+	    xxxxxxxneurosxxxxxxx: [-10, 10, -10]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxceleryxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxCelery Stalkxxxxxxx,
+		xxxxxxxbasexxxxxxx: 2,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxfoodxxxxxxx],
+	    xxxxxxxneurosxxxxxxx: [1, 0, -1],
+	    xxxxxxxdecaysxxxxxxx: [xxxxxxxmudxxxxxxx, 8]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxonionxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxOnionxxxxxxx,
+		xxxxxxxbasexxxxxxx: 1,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxfoodxxxxxxx],
+	    xxxxxxxneurosxxxxxxx: [1, 0, -2],
+	    xxxxxxxdecaysxxxxxxx: [xxxxxxxmudxxxxxxx, 8]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxgarlicxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxClove Of Garlicxxxxxxx,
+		xxxxxxxbasexxxxxxx: 1,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxspicexxxxxxx]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxgarnishxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxPungent Garnishxxxxxxx,
+		xxxxxxxbasexxxxxxx: 3,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxfoodxxxxxxx],
+	    xxxxxxxdecaysxxxxxxx: [xxxxxxxmudxxxxxxx, 8]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxnoodlesxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxUncooked Noodlesxxxxxxx,
+		xxxxxxxbasexxxxxxx: 2,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxgrainxxxxxxx]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxnarutoxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxBeautiful Ricecakexxxxxxx,
+		xxxxxxxbasexxxxxxx: 12,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxfoodxxxxxxx, xxxxxxxdessertxxxxxxx]
+	},
+
+
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxstockxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxA Stock Goin!xxxxxxx,
+		xxxxxxxbasexxxxxxx: 10,
+		xxxxxxxdescriptionxxxxxxx: xxxxxxxVirtually limitless potential now. You could make almost anything with this delicious base.xxxxxxx,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxfoodxxxxxxx, xxxxxxxsoupxxxxxxx],
+	    xxxxxxxneurosxxxxxxx: [2, 0, 0],
+	    xxxxxxxdecaysxxxxxxx: [xxxxxxxmudxxxxxxx, 1]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxramen0xxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxTonkotsu Ramenxxxxxxx,
+		xxxxxxxbasexxxxxxx: 500,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxfoodxxxxxxx, xxxxxxxramenxxxxxxx, xxxxxxxsoupxxxxxxx],
+	    xxxxxxxneurosxxxxxxx: [4, 0, 2],
+	    xxxxxxxdecaysxxxxxxx: [xxxxxxxmudxxxxxxx, 1]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxramen1xxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxCentury Ramenxxxxxxx,
+		xxxxxxxbasexxxxxxx: 500,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxfoodxxxxxxx, xxxxxxxramenxxxxxxx, xxxxxxxsoupxxxxxxx],
+	    xxxxxxxneurosxxxxxxx: [8, 0, 5],
+	    xxxxxxxdecaysxxxxxxx: [xxxxxxxmudxxxxxxx, 1]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxsouptomatoxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxRed-spotted Blue Crab & Tomato Soupxxxxxxx,
+		xxxxxxxbasexxxxxxx: 5,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxfoodxxxxxxx, xxxxxxxsoupxxxxxxx],
+	    xxxxxxxneurosxxxxxxx: [4, 0, 5],
+	    xxxxxxxdecaysxxxxxxx: [xxxxxxxmudxxxxxxx, 1]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxshrimptempuraxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxHot Shrimp Tempuraxxxxxxx,
+		xxxxxxxbasexxxxxxx: 25,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxfoodxxxxxxx],
+	    xxxxxxxneurosxxxxxxx: [4, 0, 2],
+	    xxxxxxxdecaysxxxxxxx: [xxxxxxxmudxxxxxxx, 2]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxtonkatsuxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxPiping Hot Tonkatsuxxxxxxx,
+		xxxxxxxbasexxxxxxx: 40,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxfoodxxxxxxx],
+	    xxxxxxxneurosxxxxxxx: [4, 0, 2],
+	    xxxxxxxdecaysxxxxxxx: [xxxxxxxmudxxxxxxx, 2]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxschnitzelxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxChicken Schnitzelxxxxxxx,
+		xxxxxxxbasexxxxxxx: 140,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxfoodxxxxxxx],
+	    xxxxxxxneurosxxxxxxx: [3, 0, 3],
+	    xxxxxxxdecaysxxxxxxx: [xxxxxxxmudxxxxxxx, 2]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxburgerxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxMeat-Hab Burgerxxxxxxx,
+		xxxxxxxbasexxxxxxx: 340,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxfoodxxxxxxx],
+	    xxxxxxxneurosxxxxxxx: [-5, -1, -4],
+	    xxxxxxxdecaysxxxxxxx: [xxxxxxxmudxxxxxxx, 2]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxbluesausagexxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxPickled Blue Crab Sausagexxxxxxx,
+		xxxxxxxbasexxxxxxx: 100,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxfoodxxxxxxx],
+	    xxxxxxxneurosxxxxxxx: [-2,-1, 4],
+	    xxxxxxxdecaysxxxxxxx: [xxxxxxxmudxxxxxxx, 2]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxkatsudonxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxKatsu Don Mealxxxxxxx,
+		xxxxxxxbasexxxxxxx: 60,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxfoodxxxxxxx],
+	    xxxxxxxneurosxxxxxxx: [7, 0, 4],
+	    xxxxxxxdecaysxxxxxxx: [xxxxxxxmudxxxxxxx, 2]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxsteakxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxSteak Dinnerxxxxxxx,
+		xxxxxxxbasexxxxxxx: 80,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxfoodxxxxxxx],
+	    xxxxxxxneurosxxxxxxx: [6, -3, 0],
+	    xxxxxxxdecaysxxxxxxx: [xxxxxxxmudxxxxxxx, 3]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxcakexxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxPerfect Slice Of Cakexxxxxxx,
+		xxxxxxxbasexxxxxxx: 10,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxfoodxxxxxxx, xxxxxxxdessertxxxxxxx],
+	    xxxxxxxneurosxxxxxxx: [1, 0, 0],
+	    xxxxxxxdecaysxxxxxxx: [xxxxxxxmudxxxxxxx, 4]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxbeancubexxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxRobot-favorable Puce Bean Dessertxxxxxxx,
+		xxxxxxxbasexxxxxxx: 10000,
+		xxxxxxxdropxxxxxxx:0.1,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxfoodxxxxxxx, xxxxxxxdessertxxxxxxx],
+	    xxxxxxxneurosxxxxxxx: [-5, 0, 0],
+	    xxxxxxxdecaysxxxxxxx: [xxxxxxxpromshardsxxxxxxx, 10]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxcookiexxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxCrunchy Cookiexxxxxxx,
+		xxxxxxxbasexxxxxxx: 1,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxfoodxxxxxxx, xxxxxxxdessertxxxxxxx],
+	    xxxxxxxneurosxxxxxxx: [1, -1, 0],
+	    xxxxxxxdecaysxxxxxxx: [xxxxxxxmudxxxxxxx, 10]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxcookieseiplexxxxxxx,
+		xxxxxxximgxxxxxxx: xxxxxxxcookiexxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxSeiple's Favorite Type Of Cookiexxxxxxx,
+		xxxxxxxbasexxxxxxx: 1,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxfoodxxxxxxx, xxxxxxxdessertxxxxxxx],
+	    xxxxxxxneurosxxxxxxx: [1, -1, 0],
+	    xxxxxxxdecaysxxxxxxx: [xxxxxxxmudxxxxxxx, 10]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxcoinxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxSome...rare coin?xxxxxxx,
+		xxxxxxxbasexxxxxxx: 200,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxcoinxxxxxxx]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxcoin2xxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxLooks like...a REALLY rare coinxxxxxxx,
+		xxxxxxxbasexxxxxxx: 9000,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxcoinxxxxxxx]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxcoffeexxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxCup Of Coffeexxxxxxx,
+		xxxxxxxbasexxxxxxx: 2,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxdrinkxxxxxxx, xxxxxxxcoffeexxxxxxx],
+	    xxxxxxxneurosxxxxxxx: [-2, 3, 0],
+	    xxxxxxxdecaysxxxxxxx: [xxxxxxxcoffeeoldxxxxxxx, 3]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxcoffeemilkxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxCafe Au Laitxxxxxxx,
+		xxxxxxxbasexxxxxxx: 3,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxdrinkxxxxxxx, xxxxxxxcoffeexxxxxxx],
+	    xxxxxxxneurosxxxxxxx: [-1, 4, 1],
+	    xxxxxxxdecaysxxxxxxx: [xxxxxxxcoffeeoldxxxxxxx, 3]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxcoffeenicexxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxGood Coffeexxxxxxx,
+		xxxxxxxdescriptionxxxxxxx: xxxxxxxThis...is a pretty okay cup of coffee.xxxxxxx,
+		xxxxxxxbasexxxxxxx: 20,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxdrinkxxxxxxx, xxxxxxxcoffeexxxxxxx],
+	    xxxxxxxneurosxxxxxxx: [0, 6, 1],
+	    xxxxxxxdecaysxxxxxxx: [xxxxxxxcoffeeoldxxxxxxx, 3]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxcoffeeespressoxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxEspressoxxxxxxx,
+		xxxxxxxbasexxxxxxx: 15,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxdrinkxxxxxxx, xxxxxxxcoffeexxxxxxx],
+	    xxxxxxxneurosxxxxxxx: [0, 1, 0],
+	    xxxxxxxdecaysxxxxxxx: [xxxxxxxcoffeeoldxxxxxxx, 3]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxcoffeeoldxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxMoldy Coffeexxxxxxx,
+		xxxxxxxdescriptionxxxxxxx: xxxxxxxWe think at one point it had been something close to coffee.xxxxxxx,
+		xxxxxxxbasexxxxxxx: 1,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxneurosxxxxxxx: [-4, -2, -8],
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxdrinkxxxxxxx, xxxxxxxcoffeexxxxxxx]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxmudxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxOrganic Sludgexxxxxxx,
+		xxxxxxxbasexxxxxxx: 1,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxfoodxxxxxxx, xxxxxxxdirtxxxxxxx],
+	    xxxxxxxneurosxxxxxxx: [0, -1, -10],
+	    xxxxxxxdecaysxxxxxxx: [xxxxxxxaminosxxxxxxx, 10]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxaminosxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxAmino Pastexxxxxxx,
+		xxxxxxxbasexxxxxxx: 1,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxneurosxxxxxxx: [0, 0, -5],
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxfoodxxxxxxx]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxrnaxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxSelf-aware Globule Of Reverse Transcriptasexxxxxxx,
+		xxxxxxxdescriptionxxxxxxx: xxxxxxxProbably be careful with these...xxxxxxx,
+		xxxxxxxbasexxxxxxx: 0,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: []
+	},
+
+
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxcab0axxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxCamden Tech Umlout Cabxxxxxxx,
+		xxxxxxxbasexxxxxxx: 800,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxequipxxxxxxx, xxxxxxxcabxxxxxxx],
+	    xxxxxxxdescriptionxxxxxxx: xxxxxxxThe Camden Technologies Umlout-Class Line is a rugged, sturdy, dependable hauler's workhorse. Available in tangerine orange for cruising in style.xxxxxxx,
+	    xxxxxxxchipsxxxxxxx: 2,
+	    xxxxxxxmountsxxxxxxx: 0,
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxcab1xxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxNexus Banner Factory Cabxxxxxxx,
+		xxxxxxxbasexxxxxxx: 1000,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxequipxxxxxxx, xxxxxxxcabxxxxxxx],
+	    xxxxxxxdescriptionxxxxxxx: xxxxxxxNexus Trade Co. offers its dedicated drivers an exclusive offer on this official Nexus emblem cab. Flaunt your contractual status to all the space passers-by in this bright tug.xxxxxxx,
+	    xxxxxxxchipsxxxxxxx: 3,
+	    xxxxxxxmountsxxxxxxx: 0,
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxcab2xxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxFoot Hur-Ama'aa Light Cruiserxxxxxxx,
+		xxxxxxxbasexxxxxxx: 500,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxequipxxxxxxx, xxxxxxxcabxxxxxxx],
+	    xxxxxxxdescriptionxxxxxxx: xxxxxxxA streamlined delivery model for the distinguished light-duty hauler. No Kit Slots, no frills, tomorrow is today!xxxxxxx,
+	    xxxxxxxchipsxxxxxxx: 0,
+	    xxxxxxxmountsxxxxxxx: 0,
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxcab4xxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxPromi Rad Counterxxxxxxx,
+		xxxxxxxbasexxxxxxx: 1000,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxequipxxxxxxx, xxxxxxxcabxxxxxxx],
+	    xxxxxxxdescriptionxxxxxxx: xxxxxxxThe Promi design for purpose and the Rad Counter is an effective dual-duty deep space cab / nuclear blast zone clean room.xxxxxxx,
+	    xxxxxxxchipsxxxxxxx: 3,
+	    xxxxxxxmountsxxxxxxx: 0,
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxcab3xxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxDrone Warrior Slug Crew Cabxxxxxxx,
+		xxxxxxxbasexxxxxxx: 1800,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxequipxxxxxxx, xxxxxxxcabxxxxxxx],
+	    xxxxxxxdescriptionxxxxxxx: xxxxxxxDrone Warrior Riding Crew RIG tech enthusiast club releases competativly spec'd build-your-own engineering plans and some locales boast Chief Drone Engineers who will sell the pre-built final product.xxxxxxx,
+	    xxxxxxxchipsxxxxxxx: 4,
+	    xxxxxxxmountsxxxxxxx: 0,
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxcab5xxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxJunix Ridgeline Bridgexxxxxxx,
+		xxxxxxxbasexxxxxxx: 1800,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxequipxxxxxxx, xxxxxxxcabxxxxxxx],
+	    xxxxxxxdescriptionxxxxxxx: xxxxxxxJunix Electronics Group enter the hauler market with an exciting, sleek, luxury line. The full Ridgeline set gives space truckers the confidence of a Wall Street argonaut and enough USB class F circuits to power an array of service Kit. xxxxxxxJunix: There is a difference.xxxxxxxxxxxxxx,
+	    xxxxxxxchipsxxxxxxx: 4,
+	    xxxxxxxmountsxxxxxxx: 0,
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxcabppxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxRecon Bridgexxxxxxx,
+		xxxxxxxbasexxxxxxx: 4000,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxequipxxxxxxx, xxxxxxxcabxxxxxxx],
+	    xxxxxxxdescriptionxxxxxxx: xxxxxxxThis heavily capable DEMI-built recon scout is hot-swappable as a cargo pull cab because hackers for some reason build gear to have unreasonable features.xxxxxxx,
+	    xxxxxxxchipsxxxxxxx: 5,
+	    xxxxxxxmountsxxxxxxx: 0,
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxcab6xxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxLodestar Nightengalexxxxxxx,
+		xxxxxxxbasexxxxxxx: 10500,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxequipxxxxxxx, xxxxxxxcabxxxxxxx],
+	    xxxxxxxdescriptionxxxxxxx: xxxxxxxEarth Mil contract recipient, Maryland-based Lodestar offers the finest deep cruising models at the finest of price points. The banner motto in the Lodestar design department is: Unrelenting Dominance.xxxxxxx,
+	    xxxxxxxchipsxxxxxxx: 7,
+	    xxxxxxxmountsxxxxxxx: 0,
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxcab7xxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxIoan Planet Hopperxxxxxxx,
+		xxxxxxxbasexxxxxxx: 15000,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxequipxxxxxxx, xxxxxxxcabxxxxxxx],
+	    xxxxxxxdescriptionxxxxxxx: xxxxxxxIn their persuit of a better way of life, Io Habs have grown the deepest integration between man and machine. Io tech as such appears to achieve 100-fold improvements on power distribution while simulteneously enabling effortless control systems and unsurpased reliability.xxxxxxx,
+	    xxxxxxxchipsxxxxxxx: 10,
+	    xxxxxxxmountsxxxxxxx: 0,
+	},
+
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxspine000xxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxA Repurposed Loaderxxxxxxx,
+		xxxxxxxbasexxxxxxx: 50,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxequipxxxxxxx, xxxxxxxspinexxxxxxx],
+	    xxxxxxxdescriptionxxxxxxx: xxxxxxxA personal consumer-grade loader retrofitted for zero atmosphere duty.xxxxxxx,
+	    xxxxxxxslotsxxxxxxx: 4
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxeurocratexxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxNarrow Guage Euro-cratexxxxxxx,
+		xxxxxxxbasexxxxxxx: 200,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxequipxxxxxxx, xxxxxxxspinexxxxxxx],
+	    xxxxxxxdescriptionxxxxxxx: xxxxxxxA slimline crate standard created for tight spaces, which isn't really needed in space. But you can buy one for cheap.xxxxxxx,
+	    xxxxxxxslotsxxxxxxx: 6
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxhalfcratexxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxA Standard Halfcratexxxxxxx,
+		xxxxxxxbasexxxxxxx: 250,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxequipxxxxxxx, xxxxxxxspinexxxxxxx],
+	    xxxxxxxdescriptionxxxxxxx: xxxxxxxxxxxxxxThe Mars-go Roadxxxxxxx was paved with Earth's original shipping-use crate format. Multi-colored trains of corrugated steel reached out to Mars in the First Expansion. Own a piece of history that still hauls Iron!xxxxxxx,
+	    xxxxxxxslotsxxxxxxx: 8
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxspine5axxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxPromi Cold Recombinatorxxxxxxx,
+		xxxxxxxbasexxxxxxx: 400,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxequipxxxxxxx, xxxxxxxspinexxxxxxx],
+	    xxxxxxxdescriptionxxxxxxx: xxxxxxxPromi have built in superconducting mags to this cargo crate to raise max hauling ratio over total mass.xxxxxxx,
+	    xxxxxxxslotsxxxxxxx: 10
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxspine1xxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxStandard Hauler Fullcratexxxxxxx,
+		xxxxxxxbasexxxxxxx: 1000,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxequipxxxxxxx, xxxxxxxspinexxxxxxx],
+	    xxxxxxxdescriptionxxxxxxx: xxxxxxxNothing says space trucker like hitching up a Singapore-blue Fullcrate and hauling Iron Bars from Meridian to Gemini. Play to type complete with a cup of coffee and a tip of the hat to the haulers running back the other.xxxxxxx,
+	    xxxxxxxslotsxxxxxxx: 12
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxspineppxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxScorched Carapacexxxxxxx,
+		xxxxxxxbasexxxxxxx: 2000,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxequipxxxxxxx, xxxxxxxspinexxxxxxx],
+	    xxxxxxxdescriptionxxxxxxx: xxxxxxxSomewhat mysterious design but this loadout packs heavy-format crates with more efficiency than standard tetra-shaped boxers.xxxxxxx,
+	    xxxxxxxslotsxxxxxxx: 14
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxspine2axxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxLodestar Hexpodxxxxxxx,
+		xxxxxxxbasexxxxxxx: 4000,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxequipxxxxxxx, xxxxxxxspinexxxxxxx],
+	    xxxxxxxdescriptionxxxxxxx: xxxxxxxThe Lodestar team refuses to compromise once again, packing cargo outside the structural frame to save on overall bone mass without inducing any speed-variant moments of inertia. Hexpod drives like a Hotshop but hauls a planet.xxxxxxx,
+	    xxxxxxxslotsxxxxxxx: 16
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxsupercratexxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxCamden Zuperkratexxxxxxx,
+		xxxxxxxbasexxxxxxx: 5000,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxequipxxxxxxx, xxxxxxxspinexxxxxxx],
+	    xxxxxxxdescriptionxxxxxxx: xxxxxxxxxxxxxxThis is simple and it just works,xxxxxxx the DEMI visionary engineer stated in the Press Release. With some automated welding techniques and a vast supply of standard crates making their way to the Outer Rim, this comparatively innexpensive, gigantic cargo hold is a Camden exclusive.xxxxxxx,
+	    xxxxxxxslotsxxxxxxx: 18
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxspine4axxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxIo Labs Super-containmentxxxxxxx,
+		xxxxxxxbasexxxxxxx: 10000,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxequipxxxxxxx, xxxxxxxspinexxxxxxx],
+	    xxxxxxxdescriptionxxxxxxx: xxxxxxxTech de-build teams havenxxxxxxxt yet figured out how the Ioans have fit more space inside of this machine than out. Some non-euclidian vector folding is the best theory? Itxxxxxxxs big, orange, expensive, and badass.xxxxxxx,
+	    xxxxxxxslotsxxxxxxx: 24
+	},
+
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxtail5xxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxQuestionable Nozzlexxxxxxx,
+		xxxxxxxbasexxxxxxx: 50,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxequipxxxxxxx, xxxxxxxtailxxxxxxx, xxxxxxxboosterxxxxxxx],
+	    xxxxxxxdescriptionxxxxxxx: xxxxxxxIt appears Pedge xxxxxxxIt'll Flyxxxxxxx Johnson may have gaffer-taped together an injection manifold to a nitrogen torch. Seems to make the ship move though?xxxxxxx,
+	    xxxxxxxdrivexxxxxxx:0.5
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxtail0xxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxCamden Tech UL 6xxxxxxx,
+		xxxxxxxbasexxxxxxx: 1000,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxequipxxxxxxx, xxxxxxxtailxxxxxxx, xxxxxxxboosterxxxxxxx],
+	    xxxxxxxdescriptionxxxxxxx: xxxxxxxThe Camden UL 6 is the latest in the line of easy-to-maintain, efficient boosters available for the public market.xxxxxxx,
+	    xxxxxxxdrivexxxxxxx: 1
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxtail1bxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxPromi Fire-Emblem JUMPxxxxxxx,
+		xxxxxxxbasexxxxxxx: 1500,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxequipxxxxxxx, xxxxxxxtailxxxxxxx, xxxxxxxboosterxxxxxxx],
+	    xxxxxxxdescriptionxxxxxxx: xxxxxxxNo marketing materials exist for any of the Promi gear, so no one seems to know why there is a raised, gold-plated fireburst emblem on this Promi JUMP drive. But scrappers have found units where pirates have sawed off the gold bit seem otherwise in tact but fail to ignite. So apparently it's important.xxxxxxx,
+	    xxxxxxxdrivexxxxxxx: 2
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxtailppxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxRecon Cutterxxxxxxx,
+		xxxxxxxbasexxxxxxx: 4500,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxequipxxxxxxx, xxxxxxxtailxxxxxxx, xxxxxxxboosterxxxxxxx],
+	    xxxxxxxdescriptionxxxxxxx: xxxxxxxA solid boost machine built on DEMI for cross-purpose markets.xxxxxxx,
+	    xxxxxxxdrivexxxxxxx: 3
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxtail3xxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxJunix Ridgeline Nacellexxxxxxx,
+		xxxxxxxbasexxxxxxx: 4500,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxequipxxxxxxx, xxxxxxxtailxxxxxxx, xxxxxxxboosterxxxxxxx],
+	    xxxxxxxdescriptionxxxxxxx: xxxxxxxJunix Electronics Group driver styled to suit the Ridgeline-class hauler. Speed in style.xxxxxxx,
+	    xxxxxxxdrivexxxxxxx: 3
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxtail4xxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxDrone Warrior BFRxxxxxxx,
+		xxxxxxxbasexxxxxxx: 5000,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxequipxxxxxxx, xxxxxxxtailxxxxxxx, xxxxxxxboosterxxxxxxx],
+	    xxxxxxxdescriptionxxxxxxx: xxxxxxxStatistically more stable than it appears to be, the Drone Warrior build-at-home B. F. Rocket outperforms all other corporate nonsense out there.xxxxxxx,
+	    xxxxxxxdrivexxxxxxx: 4
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxtail2axxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxLodestar 4600 TLxxxxxxx,
+		xxxxxxxbasexxxxxxx: 9000,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxequipxxxxxxx, xxxxxxxtailxxxxxxx, xxxxxxxboosterxxxxxxx],
+	    xxxxxxxdescriptionxxxxxxx: xxxxxxxThe Lodestar design team donxxxxxxxt care if itxxxxxxxs about as long as a skyscraper because a good engine only needs to do one thing right, accelerate.xxxxxxx,
+	    xxxxxxxdrivexxxxxxx: 5
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxtail6bxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxIoan Planet Cruiserxxxxxxx,
+		xxxxxxxbasexxxxxxx: 15000,
+		xxxxxxxdropxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxequipxxxxxxx, xxxxxxxtailxxxxxxx, xxxxxxxboosterxxxxxxx],
+	    xxxxxxxdescriptionxxxxxxx: xxxxxxxWith its system-wide unbeaten drive capability combined with low rod-burn and unsurpased landing control systems, escaping port in a Planet Cruiser announces to all, xxxxxxxI win.xxxxxxxxxxxxxx,
+	    xxxxxxxdrivexxxxxxx: 8
+	},
+
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxhcab0xxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxCobbled-Together Wheeled Haulerxxxxxxx,
+		xxxxxxxbasexxxxxxx: 10,
+		xxxxxxxdropxxxxxxx: 1,
+		xxxxxxxwheeledxxxxxxx: true,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxequipxxxxxxx, xxxxxxxcabxxxxxxx],
+	    xxxxxxxdescriptionxxxxxxx: xxxxxxxYou welded this up from some outdated pond farm equipment. PLUS, it runs!xxxxxxx,
+	    xxxxxxxchipsxxxxxxx: 0,
+	    xxxxxxxmountsxxxxxxx: 0,
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxhcab1xxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxCamden Tech Wheeled Burnout Hotshopxxxxxxx,
+		xxxxxxxbasexxxxxxx: 100,
+		xxxxxxxdropxxxxxxx: 1,
+		xxxxxxxwheeledxxxxxxx: true,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxequipxxxxxxx, xxxxxxxcabxxxxxxx],
+	    xxxxxxxdescriptionxxxxxxx: xxxxxxxNine-to-Five meets 3s Zero-to-Sixty. A hauling-duty cab that can put down a coat of rubber paint on Lower Level K Drive.xxxxxxx,
+	    xxxxxxxchipsxxxxxxx: 0,
+	    xxxxxxxmountsxxxxxxx: 0,
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxhspine0xxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxRusty Wheeled Trailerxxxxxxx,
+		xxxxxxxbasexxxxxxx: 10,
+		xxxxxxxdropxxxxxxx: 1,
+		xxxxxxxwheeledxxxxxxx: true,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxequipxxxxxxx, xxxxxxxspinexxxxxxx],
+	    xxxxxxxdescriptionxxxxxxx: xxxxxxxShe's no spaceship but she hauls crabs good.xxxxxxx,
+	    xxxxxxxslotsxxxxxxx: 2
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxhtail0xxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxRusty Wheeled Endcap Rollerxxxxxxx,
+		xxxxxxxbasexxxxxxx: 10,
+		xxxxxxxdropxxxxxxx: 1,
+		xxxxxxxwheeledxxxxxxx: true,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxequipxxxxxxx, xxxxxxxtailxxxxxxx],
+	    xxxxxxxdrivexxxxxxx: 0.01
+	},
+
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxlockpickxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxPneumatic Lock Pickxxxxxxx,
+		xxxxxxxbasexxxxxxx: 60,
+		xxxxxxxdropxxxxxxx: 0,
+		xxxxxxxbadgexxxxxxx: true,
+		xxxxxxxnegatexxxxxxx: [xxxxxxxjbarxxxxxxx],
+	    xxxxxxxdescriptionxxxxxxx: xxxxxxxThis powered lock picking rig removes the need to smash up a Jimmy-Bar to open Locked Boxes. If Lock Pick is Active, just place the Locked Box on your Workbench and it will open!xxxxxxx,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxtoolxxxxxxx, xxxxxxxmodulexxxxxxx]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxburnerxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxPortable Stovexxxxxxx,
+		xxxxxxxbasexxxxxxx: 200,
+		xxxxxxxdropxxxxxxx: 0,
+		xxxxxxxbadgexxxxxxx: true,
+		xxxxxxxnegate-foodxxxxxxx: [xxxxxxxflashpastexxxxxxx],
+	    xxxxxxxdescriptionxxxxxxx: xxxxxxxA portable, reliable heatsource that removes the need to use Flashpaste with your cooking recipes.xxxxxxx,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxtoolxxxxxxx, xxxxxxxmodulexxxxxxx]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxbarxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxBarkeep's Brewkitxxxxxxx,
+		xxxxxxxbasexxxxxxx: 200,
+		xxxxxxxdropxxxxxxx: 0,
+		xxxxxxxbadgexxxxxxx: true,
+		xxxxxxxnegate-foodxxxxxxx: [xxxxxxxbittersxxxxxxx, xxxxxxxportxxxxxxx],
+	    xxxxxxxdescriptionxxxxxxx: xxxxxxxThis continuous bubbling lab keeps your RIG stocked with Bitters and Vermouth. So, no need to buy those ingredients for cocktails anymore, just mix up everything else and Bitters or Vermouth are covered.xxxxxxx,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxtoolxxxxxxx, xxxxxxxmodulexxxxxxx]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxcoffeemakerxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxAuto Coffee-Tronxxxxxxx,
+		xxxxxxxbasexxxxxxx: 500,
+		xxxxxxxdropxxxxxxx: 0,
+		xxxxxxxbadgexxxxxxx: true,
+		xxxxxxxbioboostxxxxxxx: [0, 2, 0],
+	    xxxxxxxdescriptionxxxxxxx: xxxxxxxSmash the day with your own in-cab coffee steamer. Activating this Kit gives you a +2 Foresight Bio-Neural Flexor every morning.xxxxxxx,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxtoolxxxxxxx, xxxxxxxmodulexxxxxxx]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxwatchxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxSleep Timerxxxxxxx,
+		xxxxxxxbasexxxxxxx: 800,
+		xxxxxxxdropxxxxxxx: 0,
+		xxxxxxxbadgexxxxxxx: true,
+	    xxxxxxxdescriptionxxxxxxx: xxxxxxxWhile in a town, adds an option to Sleep (and skip to tomorrow). Merchants tend to restock overnight so you could hit the restock early!xxxxxxx,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxtoolxxxxxxx, xxxxxxxmodulexxxxxxx]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxtranslatorxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxConstruct Language Translatorxxxxxxx,
+		xxxxxxxbasexxxxxxx: 800,
+		xxxxxxxdropxxxxxxx: 0,
+		xxxxxxxbadgexxxxxxx: true,
+	    xxxxxxxdescriptionxxxxxxx: xxxxxxxSomewhat indispensable gadget (if you ever want to trade with Europan constructs). Activating this Translator will allow you to decipher their strange language.xxxxxxx,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxtoolxxxxxxx, xxxxxxxmodulexxxxxxx]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxhatxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxGood Old Hatxxxxxxx,
+		xxxxxxxbasexxxxxxx: 25,
+		xxxxxxxdropxxxxxxx: 0,
+		xxxxxxxbadgexxxxxxx: true,
+		xxxxxxxbioboostxxxxxxx: [1, 1, 1],
+	    xxxxxxxdescriptionxxxxxxx: xxxxxxxHaving old hatty around just makes ya feel better. Not in any particular... but in a certain sorta undefinable. Activating Good Old Hat starts all your Bio-Neural Flexors at 1 instead of 0 each day.xxxxxxx,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxmodulexxxxxxx]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxvgaxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxVGA Modexxxxxxx,
+		xxxxxxxbasexxxxxxx: 10000,
+		xxxxxxxdropxxxxxxx: 0,
+		xxxxxxxbadgexxxxxxx: true,
+	    xxxxxxxdescriptionxxxxxxx: xxxxxxxEnables VGA mode.xxxxxxx,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxmodulexxxxxxx]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxfreezerxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxModular Freeze Bayxxxxxxx,
+		xxxxxxxbasexxxxxxx: 10000,
+		xxxxxxxdropxxxxxxx: 0,
+		xxxxxxxbadgexxxxxxx: true,
+	    xxxxxxxdescriptionxxxxxxx: xxxxxxxA Cold Storage fail-safe refrigeration bay.  Activating this freezer prevents all food from decaying during your travels across space.xxxxxxx,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxmodulexxxxxxx]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxhandxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxGauntlet Of Terminal Controlxxxxxxx,
+		xxxxxxxbasexxxxxxx: 10000,
+		xxxxxxxdropxxxxxxx: 0,
+		xxxxxxxbadgexxxxxxx: true,
+	    xxxxxxxdescriptionxxxxxxx: xxxxxxxActivating Gauntlet Of Terminal Control <u>multiplies</u> your Bio-Neural Flexor negotiation bonus by 3333.0<br><br>(When you're feeling good, you will be able to buy almost anything you want, not unlike a real Terminus!)xxxxxxx,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxmodulexxxxxxx]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxhandplansxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxPlans For: Gauntlet Of Terminal Controlxxxxxxx,
+		xxxxxxxbasexxxxxxx: 10000,
+		xxxxxxxdropxxxxxxx: 0,
+	    xxxxxxxdescriptionxxxxxxx: xxxxxxxCombine on your Workbench: These plans, 3 Molybdenum Ingots, Metal Wiring, 1 BootDawg Diagnostics Kit, Flashpaste, and a Jimmy-Bar.  Then prepare to be awesomeized.<br><br>xxxxxxxI love the Gauntlet Of Terminal Controlxxxxxxxxxxxxxx,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxrecipexxxxxxx]
+	},
+
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxgunsys-rapid2xxxxxxx,
+		xxxxxxximgxxxxxxx: xxxxxxxrapidxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxSupport Weapons Control: 2 Rapid Mass Driverxxxxxxx,
+		xxxxxxxbasexxxxxxx: 2000,
+		xxxxxxxdropxxxxxxx: 0,
+		xxxxxxxbadgexxxxxxx: true,
+		xxxxxxxgunsxxxxxxx: [[xxxxxxxrapidxxxxxxx, 2]],
+	    xxxxxxxdescriptionxxxxxxx: xxxxxxxWeapons control system for dorsal, ventral Rapid Hard Shot pair / accurate but mild damage.xxxxxxx,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxmodulexxxxxxx, xxxxxxxgunxxxxxxx]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxgunsys-rail6xxxxxxx,
+		xxxxxxximgxxxxxxx: xxxxxxxgun0xxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxMain Weapons Control: 6 Simple Rail Arrayxxxxxxx,
+		xxxxxxxbasexxxxxxx: 24000,
+		xxxxxxxdropxxxxxxx: 0,
+		xxxxxxxbadgexxxxxxx: true,
+		xxxxxxxgunsxxxxxxx: [[xxxxxxxgun0xxxxxxx, 6]],
+	    xxxxxxxdescriptionxxxxxxx: xxxxxxxWeapons control system for a six-wide Simple Rail / dodgy targeting and medium damage.xxxxxxx,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxmodulexxxxxxx, xxxxxxxgunxxxxxxx]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxgunsys-rail2xxxxxxx,
+		xxxxxxximgxxxxxxx: xxxxxxxgun0xxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxSupport Weapons Control: 2 Simple Rail Arrayxxxxxxx,
+		xxxxxxxbasexxxxxxx: 4000,
+		xxxxxxxdropxxxxxxx: 0,
+		xxxxxxxbadgexxxxxxx: true,
+		xxxxxxxgunsxxxxxxx: [[xxxxxxxgun0xxxxxxx, 2]],
+	    xxxxxxxdescriptionxxxxxxx: xxxxxxxWeapons control system for dorsal, ventral Simple Rail / dodgy targeting and medium damage.xxxxxxx,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxmodulexxxxxxx, xxxxxxxgunxxxxxxx]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxgunsys-radio1xxxxxxx,
+		xxxxxxximgxxxxxxx: xxxxxxxgun1xxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxSupport Weapons Control: Promi Radio Beamxxxxxxx,
+		xxxxxxxbasexxxxxxx: 10000,
+		xxxxxxxdropxxxxxxx: 0,
+		xxxxxxxbadgexxxxxxx: true,
+		xxxxxxxgunsxxxxxxx: [[xxxxxxxgun1xxxxxxx, 1]],
+	    xxxxxxxdescriptionxxxxxxx: xxxxxxxWeapons control system for a dorsal Promi Folded Radio Cascade Beam / low misfire and good damage.xxxxxxx,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxmodulexxxxxxx, xxxxxxxgunxxxxxxx]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxgunsys-radio4xxxxxxx,
+		xxxxxxximgxxxxxxx: xxxxxxxgun1xxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxMain Weapons Control: 4 Promi Radio Beamxxxxxxx,
+		xxxxxxxbasexxxxxxx: 40000,
+		xxxxxxxdropxxxxxxx: 0,
+		xxxxxxxbadgexxxxxxx: true,
+		xxxxxxxgunsxxxxxxx: [[xxxxxxxgun1xxxxxxx, 4]],
+	    xxxxxxxdescriptionxxxxxxx: xxxxxxxWeapons control system for a dorsal Promi Folded Radio Cascade Beam / low misfire and good damage.xxxxxxx,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxmodulexxxxxxx, xxxxxxxgunxxxxxxx]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxgunsys-channelxxxxxxx,
+		xxxxxxximgxxxxxxx: xxxxxxxgun-fxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxMain Weapons Control: Forced-quasar Channel Beamxxxxxxx,
+		xxxxxxxbasexxxxxxx: 24000,
+		xxxxxxxdropxxxxxxx: 0,
+		xxxxxxxbadgexxxxxxx: true,
+		xxxxxxxgunsxxxxxxx: [[xxxxxxxgun-fxxxxxxx, 1]],
+	    xxxxxxxdescriptionxxxxxxx: xxxxxxxWeapons control system for focused Forced-quasar Channel Beam / low misfire and high damage.xxxxxxx,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxmodulexxxxxxx, xxxxxxxgunxxxxxxx]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxrapidxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxRapid Mass Driverxxxxxxx,
+	    xxxxxxxdescriptionxxxxxxx: xxxxxxxRapid Mass Driver, accurate but mild damage.xxxxxxx,
+	    xxxxxxxammoxxxxxxx: xxxxxxxrapidxxxxxxx,
+	    xxxxxxxsndxxxxxxx: xxxxxxxrapidxxxxxxx,
+	    xxxxxxxmissxxxxxxx:0.05,
+	    xxxxxxxdmgxxxxxxx: 1,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxgunxxxxxxx]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxgun0xxxxxxx,
+		xxxxxxximgxxxxxxx: xxxxxxxgun0xxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxSimple Railxxxxxxx,
+	    xxxxxxxdescriptionxxxxxxx: xxxxxxxSimple Rail, dodgy targeting and medium damage.xxxxxxx,
+	    xxxxxxxammoxxxxxxx: xxxxxxxmassxxxxxxx,
+	    xxxxxxxsndxxxxxxx: xxxxxxxmassxxxxxxx,
+	    xxxxxxxmissxxxxxxx:0.3,
+	    xxxxxxxdmgxxxxxxx: 3,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxgunxxxxxxx]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxgun1xxxxxxx,
+		xxxxxxximgxxxxxxx: xxxxxxxgun1xxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxPromi Radio Beamxxxxxxx,
+	    xxxxxxxdescriptionxxxxxxx: xxxxxxxPromi Folded Radio Cascade Beam, low misfire and good damage.xxxxxxx,
+	    xxxxxxxammoxxxxxxx: xxxxxxxenergyxxxxxxx,
+	    xxxxxxxsndxxxxxxx: xxxxxxxenergyxxxxxxx,
+	    xxxxxxxbeamxxxxxxx: xxxxxxxlimexxxxxxx,
+	    xxxxxxxmissxxxxxxx:0.15,
+	    xxxxxxxdmgxxxxxxx: 5,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxgunxxxxxxx]
+	},
+	{
+		xxxxxxxnamexxxxxxx: xxxxxxxgun-fxxxxxxx,
+		xxxxxxxdisplayxxxxxxx: xxxxxxxForced-quasar Channelxxxxxxx,
+	    xxxxxxxdescriptionxxxxxxx: xxxxxxxForced-quasar Channel Beam, low misfire and high damage.xxxxxxx,
+	    xxxxxxxammoxxxxxxx: xxxxxxxbeamxxxxxxx,
+	    xxxxxxxsndxxxxxxx: xxxxxxxdeepxxxxxxx,
+	    xxxxxxxbeamxxxxxxx: xxxxxxxredxxxxxxx,
+	    xxxxxxxmissxxxxxxx: 0,
+	    xxxxxxxdmgxxxxxxx: 12,
+	    xxxxxxxtagsxxxxxxx: [xxxxxxxgunxxxxxxx]
+	}
+]
+
