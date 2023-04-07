@@ -3,6 +3,29 @@ import json
 from gamedata import *
 
 
+with open('itemsgood.json', 'r') as f:
+    # Load the JSON data into a Python dictionary
+    items = json.load(f)
+    items = json.loads(items)
+
+with open('inventories.json', 'r') as f:
+    # Load the JSON data into a Python dictionary
+    cargos = json.load(f)
+    cargos = json.loads(cargos)
+
+# Join cargos and inv on the key 'name'
+def join_cargos_and_inv(cargos, inv_list):
+    result = {}
+    for person, items in cargos.items():
+        result[person] = []
+        for cargo in items:
+            for inv in inv_list:
+                if cargo[0] == inv['name']:
+                    result[person].append(inv)
+    return result
+
+cargolist = join_cargos_and_inv(cargos, items)
+
 def json_to_english(json_data):
     descriptions = []
     for obj in json_data:
@@ -26,6 +49,15 @@ def json_to_english(json_data):
         #    description += f"Cash: {obj['cash']}\n"
         if 'quote' in obj:
             description += f"{name} says: \"{obj['quote']}\" "
+
+        if obj.get('name') in cargolist:
+            for thing in cargolist[obj.get('name')]:
+                description += f"{name} has this item for sale: \"{thing['display']}\""
+                if 'description' in thing:
+                    description += f" which is known for: \"{thing['description']}\". "
+                else:
+                    description += f". "
+
         #if 'quests' in obj:
         #    description += f"Quests: {', '.join(obj['quests'])}\n"
         #if 'values' in obj:
@@ -40,37 +72,11 @@ def json_to_english(json_data):
                 topic = index_obj.get('topic', '')
                 result = index_obj.get('result', '')
                 description += f"When asking {name} \"{topic}\", {name} says: \"{result}\". "
+
+        description += "\n"
+        description += "\n"
         descriptions.append(description)
     return "".join(descriptions)
-
-# Example usage
-json_data = [
-    {
-        'display': 'Nexus Red Glint Portal',
-        'name': 'torchoutput',
-        'img': 'hm11',
-        'trader': True,
-        'hidden': True,
-        'loc': [0, 4, 2],
-        'cash': 999.0,
-        'quote': 'You own this Nexus Red Warp Torch.  Come back to retrieve new Glint output daily.',
-        'quests': [],
-        'values': ['*', 0],
-        'wants': ['*', 0],
-        'resell': 0.75
-    },
-    {
-        'display': 'Scorched One',
-        'name': 'z1',
-        'loc': [0, 5, 0],
-        'cash': 999.0,
-        'quote': 'We are far from home.',
-        'values': [],
-        'wants': [],
-        'resell': 0.75
-    }
-]
-
 
 with open('mercs.json', 'r') as f:
     # Load the JSON data into a Python dictionary

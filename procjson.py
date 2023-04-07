@@ -66,6 +66,6 @@ def fix_json_file(input_file, output_file):
         json.dump(fixed_json_str, f, indent=2)
 
 if __name__ == "__main__":
-    input_file = "input.json"
-    output_file = "output.json"
+    input_file = "items.json"
+    output_file = "itemsgood.json"
     fix_json_file(input_file, output_file)

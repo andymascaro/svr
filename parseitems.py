@@ -2,7 +2,6 @@ import json
 
 #from gamedata import *
 
-
 def json_to_english(json_data):
     descriptions = []
     for obj in json_data:
@@ -31,25 +30,6 @@ def json_to_english(json_data):
         
         descriptions.append(description)
     return "".join(descriptions)
-
-# Example usage
-json_data = [
-	{
-		"name": "oil",
-		"display": "Cooking-grade Oil",
-		"base": 1,
-		"drop": 1,
-	    "tags": ["spice"]
-	},
-	{
-		"name": "fat",
-		"display": "Rendered Animal Fat",
-		"base": 50,
-		"drop": 1,
-	    "tags": ["spice"]
-	}
-]
-
 
 with open('output.json', 'r') as f:
     # Load the JSON data into a Python dictionary

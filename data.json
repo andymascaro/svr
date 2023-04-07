@@ -1,0 +1,945 @@
+
+var cargos = {
+	'player': [],
+	'workbench': [],
+	'dock-cab': [['hcab0', 1]],
+	'dock-spine': [['hspine0', 1]],
+	'dock-tail': [['htail0', 1]],
+	'dock-badges': [],
+	'dock-glovebox': [],
+
+	'hm3': [['hcab1', 1]],
+	'hm2': [],
+	'hm1': [],
+	'hm4': [['crab', 1]],
+	'hm5': [['crabsouprecipe', 1],['tomato', 1]],
+	'hm11': [['coffee', 1]],
+	'term1': [['coffee', 1]],
+
+	'gilfurla': [],
+	'pja': [['passport', 1]],
+
+	'j4a': [['cab0a', 1]],
+	'j2a': [['spine000', 1], ['halfcrate', 1]],
+	'j3a': [ ['tail5', 1]],
+
+	'gilfurl': [],
+	'pj': [['passport', 1]],
+
+	'j4': [['cab1', 1], ['cab2', 1], ['cab4', 1]],
+	'j2': [['halfcrate', 1], ['spine1', 1]],
+	'j3': [['tail0', 1], ['tail1b', 1]],
+
+	'cabs': [['cab3', 1], ['cab4', 1], ['cab5', 1], ],
+	'gilgorgan': [['spine1', 1],  ['spinepp', 1], ['spine2a', 1]],
+	'rocketdoc': [['tail0', 1], ['tail1b', 1], ['tail3', 1], ['tailpp', 1],  ['tail4', 1]],
+
+	'f1': [['cab5', 1], ['cabpp', 1] ],
+	'f10': [['supercrate', 1]],
+	'f7': [['tail1b', 1], ['tail3', 1], ['tailpp', 1], ['tail4', 1], ['tail2a', 1]],
+
+	'io20': [/*['cab1', 1], ['cab2', 1], ['cab3', 1], ['cab4', 1],   ['cab5', 1],*/ ['cabpp', 1], ['cab6', 1], ['cab7', 1]],
+	'io19': [/*['spine000', 1], ['halfcrate', 1], ['spine1', 1], ['spinepp', 1], ['spine5a', 1],*/       ['spine2a', 1], /*['supercrate', 1],*/['spine4a', 1]],
+	'io21': [/*['tail0', 1], ['tail1b', 1], ['tail3', 1], ['tailpp', 1], */      ['tail4', 1], ['tail2a', 1],['tail6b', 1]],
+
+	'max': [
+		['nutsbolts', 8], ['strawberry', 1]],
+
+	'd14': [['eurocrate', 1],['halfcrate', 1], ['spine5a', 1]],
+
+	'daniels': [['jbar', 1], 
+	/*['ironshards', 1],['ironbars', 1],['ironcore', 1], 
+	['molyshards', 1],['molybars', 1],['molycore', 1], 
+	['promshards', 1],['prombars', 1],['promcore', 1], */
+	['flashpaste', 1]],
+	'fredericks': [['scribble', 1], ['book1', 1], ['book2', 1], ['bookarcphys', 1], ['flashpaste', 1]],
+	'seiple': [['boxlocked', 2], ['jbar', 1], ['flashpaste', 1]],
+
+	'camden': [],
+
+	'forge': [['jot', 1]],
+	'bouldwin': [],
+	'scalding': [],
+	'gilroy': [['ironbars', 8]],
+	'arnold': [],
+	'pl1': [
+	['meatpork', 1], 
+ ['meatchicken', 1], 
+ ['meatshrimp', 1],
+ ['meatbacon', 1],
+ ['meatsausage', 1],
+ ['meatcrab', 1],
+  ['meatsaltedfish', 1], 
+  ['carcass', 1],
+   ['crab', 1],
+ ['meatoyster', 1],
+		],
+	'pl2': [],
+	'pl3': [
+
+		['cherry', 1],
+		['tomato', 1],
+		['strawberry', 1],
+		['spicebutter', 1],
+		['oil', 1],
+		['eggs', 1], ['carrot', 1], ['celery', 1], ['onion', 1], 
+		['spicesugar', 1],
+		['spicesalt', 1],
+		['spicepepper', 1],
+		['breadcrumbs', 1],
+	['flashpaste', 1], 
+	],
+	'pl4': [
+		['coffeeespresso', 1],
+		['martini', 1],['oldfashion', 1],['manhattan', 1],
+		 ['shotglass', 1] ,
+		 ['kit', 1] ,
+	 ],
+
+	'pl5': [],
+	'pl6': [
+		['olives', 1], ['orangepeel', 1],
+		['liquor0', 1], 
+		['liquor0', 1], 
+		['liquor1', 1],
+		['spicesugar', 1],
+		 ['bitters', 2], ['port', 2], ['sieve', 1],
+		 ['jbar', 1],
+		['flashpaste', 2], 
+],
+	'pl7': [ ['hat', 1] ],
+	'pl8': [],
+	'pl10': [],
+	'pl11': [],
+	'pl12': [],
+	'pl13': [],
+	'pl14': [['cookie', 1], ['coffee', 1], ['smokeables', 1]],
+	'gg3': [ 
+	/*['katsudon', 1], 
+	['tonkatsu', 1], */
+	['garlic', 1], 
+	['garnish', 2], 
+	['noodles', 2], 
+	
+	['water', 4], 
+	['spicesugar', 2],
+	['flashpaste', 3], 
+	['rice', 1], ['ricewine', 1],  ['eggs', 3], ['carrot', 1], ['celery', 1], ['onion', 1], ['fat', 1], ['breadcrumbs', 1],
+	['spicesalt', 1], ['spicepepper', 1], ['spicechili', 1], ['spicebutter', 1], ['spiceblue', 1], ['spicesage', 1], ['spicebay', 1],
+		['oil', 1], ['narutorecipe', 1]
+	],
+	'gg5': [],
+	'gg6': [['coffeemilk', 1], ['katsudonrecipe', 1]],
+	'gg7': [['ramen0', 1], ['ramen1', 1]],
+	'gg8': [],
+	'gg9': [['steak', 1]],
+	'gg10': [['nutsbolts', 1], ['coffeenice', 1]],
+	'imf1': [['ironbarsvoucher', 1], ['corestartup-note', 1]],
+	'shipping': [
+		['1cvoucher', 1],
+		['1ceggvoucher', 1],
+	],
+
+	'd7': [
+		['vegdisk1', 1],
+		['vegdisk2', 1],
+		['vegdisk3', 1],
+		['vegdisk4', 1],
+		['vegdisk5', 1],
+		['vegdisk6', 1],
+		['vegdisk7', 1],
+		['vegdisk8', 1],
+		['vegdisk9', 1],
+		['vegdisk10', 1],
+		['vegdisk11', 1],
+		['vegdisk12', 1],
+	],
+	'd22': [
+		['coffeemilk', 1],
+		['soda1', 1],
+		['pint', 1], 
+		['burger', 1], 
+		/*['bluesausage', 1], */
+		['schnitzel', 1], 
+		['spiceblue', 1], 
+		['soda2', 1],
+		['carcass', 1]
+	 ],
+
+
+	'pl9': [
+
+		/*['gunsys-radio1', 1],
+		['gunsys-radio4', 1],
+		['gunsys-channel', 1],*/
+
+		['lockpick', 1],
+		['burner', 1],
+		['bar', 1],
+		['coffeemaker', 1],
+		['watch', 1],
+		/*['vga', 1],*/
+	],
+	'jordax': [['molybars', 1], ['molyshards', 1], ['molycorepin', 1]],
+	'f13': [['hottip', 1]],
+
+	'm9': [
+
+		['gunsys-rapid2', 1],
+		/*['gunsys-rail6', 1],*/
+		['gunsys-rail2', 1]
+	],
+
+	'sally': [
+		['molybarsvoucher', 1]
+	],
+	'm10': [
+		['1kvoucher', 1],
+		['1kaminovoucher', 1],
+	],
+	'poliktep': [],
+	'rupturella': [['book3', 1], ['logic', 1] ],
+	'm15': [['foldmap', 1]],
+
+	'd2': [
+		/*['gunsys-rail6', 1],*/
+		['gunsys-radio4', 1],
+		['gunsys-channel', 1],
+		['translator', 1],
+		['freezer', 1],
+		['ramenrecipe', 1],
+	],
+	'io13': [
+		['nitrogen', 6],
+		['spiceblue', 4]
+	],
+
+	'quirst': [
+		['spiceblue', 1],
+		['soda3', 1],
+		['boxornate', 1],
+		['rom2', 1]
+	],
+
+	'seville': [
+		['crash4', 1],
+		['crash2', 1],
+		['crash5', 1]
+	],
+
+	'd13': [
+		['spiceblue', 1],
+		['rom3', 1],
+		['rom1', 1],
+		['boot', 1],
+		['wiring', 1],
+	],
+
+	'scar': [
+		['handplans', 1],
+	],
+
+	'io1': [['strawberry', 1], ['cake', 1], ['coffeenice', 1], /*['beancube', 1]*/],
+
+	'nexusio': [
+		['rnavoucher', 1],
+	],
+	'io16': [
+		['1mrnavoucher', 1],
+		['2mteslavoucher', 1],
+	],
+
+	'labtech': [
+		['promformula', 1],
+	],
+
+	'io10': [
+		['snow', 1],
+	],
+
+	'con5': [
+		['contract1', 1],
+		['contract2', 1],
+		['contract3', 1],
+		['contract4', 1],
+		['contract5', 1],
+		['contract6', 1],
+		['contract7', 1],
+		['contract8', 1],
+		['contract9', 1],
+		['contract10', 1]
+	],
+	'torchoutput': [
+	  ['glint', 6]
+	],
+	'z1': [
+	['promcorepin', 1]
+
+	],
+	'promcorem': [['promcorepin', 2]],
+
+	'p-redbeard': 		[['coffee', 1], ['coin', 2]],
+	'p-blackbeard': 	[['molyshards', 5]],
+	'p-bluebeard': 		[['tomato', 1], ['gunsys-radio1', 1]],
+
+	'p-goldbeard': 		[['vga', 1], ['tomato', 1]],
+	'p-greenbeard': 	[['molybarsvoucher', 2], ['pickle', 1]],
+
+	'p-violentbeard': 	[['carcass', 8], ['coin2', 1]],
+	'p-whitebeard': 	[['gunsys-rail6', 1]],
+	'p-darkbeard': 		[],
+}
+var recipes = []
+var keys = []
+var decays = [
+	// ['strawberry', 'mud', 2]
+]
+var quests = [
+	{
+		'name': 'ironcoretransform',
+		'flavor': '',
+		'repeats': 0,
+		'take': [['ironcorepin', 3]],
+		'give': [],
+		'plot': function() {
+			findMercFromName('ironcorem').hidden = true
+			findMercFromName('ironcorem').enabled = true
+			findMercFromName('ironcoremon').hidden = false
+
+			cargos['pl11'] = [['coreformula0', 1]]
+			//set image
+			KILLEVERYTHING = true
+			traveling = setTimeout(function() {
+
+				exitMerchant()
+				buildCity()
+				var listnum = findMercIdFromName('ironcoremon')
+				$$('#merchants li[num="'+listnum+'"]').classList.add('new')
+				$$('#merchants li[num="'+listnum+'"]').click()
+				snd.machine()
+
+				KILLEVERYTHING = false
+				clearTimeout(traveling)
+				traveling = null
+
+			}, 1000)
+
+		}
+	},
+	{
+		'name': 'molycoretransform',
+		'flavor': '',
+		'repeats': 0,
+		'take': [['molycorepin', 1], ['logic', 1], ['foldmap', 1]],
+		'give': [],
+		'plot': function() {
+			findMercFromName('molycorem').hidden = true
+			findMercFromName('molycorem').enabled = true
+			findMercFromName('molycoremon').hidden = false
+
+			//cargos['pl11'] = [['coreformula0', 1]]
+			//set image
+			KILLEVERYTHING = true
+			traveling = setTimeout(function() {
+
+				exitMerchant()
+				buildCity()
+				var listnum = findMercIdFromName('molycoremon')
+				$$('#merchants li[num="'+listnum+'"]').classList.add('new')
+				$$('#merchants li[num="'+listnum+'"]').click()
+				snd.machine()
+
+				KILLEVERYTHING = false
+				clearTimeout(traveling)
+				traveling = null
+
+			}, 1000)
+
+		}
+	},
+	{
+		'name': 'promcoretransform',
+		'flavor': '',
+		'repeats': 0,
+		'take': [['promcorepin', 3]],
+		'give': [],
+		'plot': function() {
+			findMercFromName('promcorem').hidden = true
+			findMercFromName('promcorem').enabled = true
+			findMercFromName('promcoremon').hidden = false
+
+			//cargos['pl11'] = [['coreformula0', 1]]
+			//set image
+			KILLEVERYTHING = true
+			traveling = setTimeout(function() {
+
+				exitMerchant()
+				buildCity()
+				var listnum = findMercIdFromName('promcoremon')
+				$$('#merchants li[num="'+listnum+'"]').classList.add('new')
+				$$('#merchants li[num="'+listnum+'"]').click()
+				snd.machine()
+
+				KILLEVERYTHING = false
+				clearTimeout(traveling)
+				traveling = null
+
+			}, 1000)
+
+		}
+	},
+	{
+		'name': 'core4bars0',
+		'flavor': 'Submit the proper combination of metal (8 Iron Bars) to produce an Iron Core.',
+		'take': [['ironbars', 8]],
+		'give': [['ironcore', 1]]
+	},
+	{
+		'name': 'core4bars1',
+		'flavor': 'Submit the proper combination of metal (8 Molybdenum Ingots) to produce a Molybdenum Core.',
+		'take': [['molybars', 8]],
+		'give': [['molycore', 1]]
+	},
+	{
+		'name': 'core4bars2',
+		'flavor': 'Submit the proper combination of metal (8 Promium Cubes) to produce a Promium Core.',
+		'take': [['prombars', 8]],
+		'give': [['promcore', 1]],
+		'plot': function() {
+			findMercFromName('jaqio').hidden = true
+			findMercFromName('jaqdemi').hidden = true
+			findMercFromName('jaqzed').hidden = true
+			findMercFromName('jaqzed2').hidden = false
+			findMercFromName('mars1').hidden = false
+			findMercFromName('mars2').hidden = false
+			findMercFromName('mars3').hidden = false
+			buildCity()
+			var listnum = findMercIdFromName('jaqzed2')
+			$$('#merchants li[num="'+listnum+'"]').classList.add('new')
+			//$$('#merchants li[num="'+listnum+'"]').click()
+			//snd.machine()
+		}
+	},
+	{
+		'name': 'corestartup0',
+		'repeats': 0,
+		'flavor': 'I\'m in the Nexus queue waiting for my license. If you\'re running Nexus vouchers maybe you could check?',
+		'take': [['corestartup-note', 1]],
+		'give': [['ironcorepin', 3]]
+	},
+	{
+		'name': 'ticket2ride',
+		'flavor': 'Turn in your Exit Orbit Papers here to fly.',
+		'take': [['passport', 1]],
+		'give': [],
+		'plot': function() {
+			keys[0] = 'passport'
+			keys[1] = 'outerpass'
+			ship.log("Congratulations Captain, you may now escape Earth orbit and explore other planets at will.", 'plot')
+			$('game').classList.add('keypassport')
+			$('game').classList.add('keyouterpass')
+			snd.quest()
+			snd.track.sea2()
+			exitMerchant()
+		}
+	},
+	{
+		'name': 'ticket2thrive',
+		'flavor': 'Speak outer friend and enter.',
+		'take': [['outerpass', 1]],
+		'give': [],
+		'plot': function() {
+			keys[1] = 'outerpass'
+			ship.log("Congratulations Captain, the Outer Ring is yours!", 'plot')
+			$('game').classList.add('keyouterpass')
+			snd.quest()
+			exitMerchant()
+		}
+	},
+	{
+		'name': 'nexusredglint',
+		'flavor': 'Awaiting contract for payouts...',
+		'take': [['contract10', 1]],
+		'give': [],
+		'plot': function() {
+			findMercFromName('torchoutput').hidden = false
+			ship.log("Congratulations Captain, you are the proud owner of all Nexus Red Glint production!", 'plot')
+			buildCity()
+			var listnum = findMercIdFromName('torchoutput')
+			$$('#merchants li[num="'+listnum+'"]').classList.add('new')
+			
+			snd.quest()
+			exitMerchant()
+		}
+	},
+	{
+		'name': 'cookie4seiple',
+		'flavor': '',
+		'take': [['cookieseiple', 1]],
+		'give': [['ironshards', 6]]
+	},
+	{
+		'name': 'dannywa',
+		'flavor': 'Fix ol Danny a Five Boroughs enna lets salebrate!',
+		'repeats': 0,
+		'take': [['manhattan', 1]],
+		'give': [['coin', 1]]
+	},
+	{
+		'name': 'smokeables4b',
+		'flavor': 'Psst I have this coupon I\'m sort of unable to redeem. I..just can\'t get time off work. Buy me a pack and I\'ll pay you with this.  Good as cash friend.',
+		'repeats': 0,
+		'take': [['smokeables', 1]],
+		'give': [['1cvoucher-dead', 1]]
+	},
+	{
+		'name': 'shards4bars0',
+		'flavor': 'Insert Iron Shards to press them into Iron Bars.',
+		'take': [['ironshards', 1]],
+		'give': [['ironbars', 1]]
+	},
+	{
+		'name': 'bars4shards0',
+		'repeats': 1,
+		'resets': true,
+		'flavor': 'I\'m in short supply today. I\'ll buy 8 Iron Bars from you full price and you can have the shavings back free. Deal?',
+		'take': [['ironbars', 8]],
+		'give': [['ironshards', 8]]
+	},
+
+	{
+		'name': '1cvoucher-deadend',
+		'flavor': '',
+		'take': [['1cvoucher-dead', 1]],
+		'give': []
+	},
+
+	{
+		'name': 'barsvoucher0a',
+		'flavor': 'Bring me an Iron Bars voucher. Then take the full load of 8 Iron Bars to Arnold in Gemini. If your cargo can\'t hold 8 just make two trips.',
+		'take': [['ironbarsvoucher', 1]],
+		'give': [['ironbars', 8]]
+	},
+	{
+		'name': 'barsvoucher0b',
+		'flavor': 'Unload your Nexus haul here and bring the voucher back to Nexus. 8 Iron Bars, no less.',
+		'take': [['ironbars', 8]],
+		'give': [['1cvoucher', 1]]
+	},
+	{
+		'name': 'barsvoucher0c',
+		'flavor': '',
+		'take': [['1cvoucher', 1]],
+		'give': [['eggsvoucher', 1]]
+	},
+
+	{
+		'name': 'eggsvoucher0a',
+		'flavor': 'Bring me an Eggs voucher. Then take a full load to Strausing in Gemini Gutter.',
+		'take': [['eggsvoucher', 1]],
+		'give': [['eggs', 8]]
+	},
+	{
+		'name': 'eggsvoucher0b',
+		'flavor': 'Unload your Nexus haul of 8 Eggs here and bring the voucher back to Nexus.',
+		'take': [['eggs', 8]],
+		'give': [['1ceggvoucher', 1]]
+	},
+	{
+		'name': 'eggsvoucher0c',
+		'flavor': '',
+		'take': [['1ceggvoucher', 1]],
+		'give': [['ironbarsvoucher', 1]]
+	},
+
+	{
+		'name': 'barsvoucher1a',
+		'flavor': 'Bring me a Molybdenum Ingots voucher. Then take the full load of 8 Molybdenum Ingots to Janson at the University.',
+		'take': [['molybarsvoucher', 1]],
+		'give': [['molybars', 8]]
+	},
+	{
+		'name': 'barsvoucher1b',
+		'flavor': 'You\'re the delivery? Of course. Unload here, 8 Molybdenum Ingots is the contract. Bring the voucher back to Sally.',
+		'take': [['molybars', 8]],
+		'give': [['1kvoucher', 1]]
+	},
+	{
+		'name': 'barsvoucher1c',
+		'flavor': '',
+		'take': [['1kvoucher', 1]],
+		'give': [['aminovoucher', 1]]
+	},
+
+	{
+		'name': 'aminovoucher0a',
+		'flavor': 'If you have an Amino Fluid voucher we can exchange. Then take the haul to the Bio Dept at the University.',
+		'take': [['aminovoucher', 1]],
+		'give': [['aminos', 8]]
+	},
+	{
+		'name': 'aminovoucher0b',
+		'flavor': 'Oh, do you have my 8 Amino Paste, Nexus man? Set it here. You can bring the voucher back to Sally for payment.',
+		'take': [['aminos', 8]],
+		'give': [['1kaminovoucher', 1]]
+	},
+	{
+		'name': 'aminovoucher0c',
+		'flavor': '',
+		'take': [['1kaminovoucher', 1]],
+		'give': [['molybarsvoucher', 1]]
+	},
+
+	{
+		'name': 'TWiV',
+		'flavor': 'Looking for Nexus proof for delivery, then these go to the Lab on Io',
+		'take': [['rnavoucher', 1]],
+		'give': [['rna', 16]]
+	},
+	{
+		'name': 'rightamy',
+		'flavor': 'If you have a load of 16 Reverse Transcriptase Globules from Europa I\'ll grab that from you fella.',
+		'take': [['rna', 16]],
+		'give': [['1mrnavoucher', 1]]
+	},
+	{
+		'name': 'TWiVreturn',
+		'flavor': '',
+		'take': [['1mrnavoucher', 1]],
+		'give': [['teslavoucher', 1]]
+	},
+
+	{
+		'name': 'teslavoucher0a',
+		'flavor': 'If you have an Tessellation Run voucher let\'s do this thing. Make sure you have room for 17. Grab these 4 birds and get them to the Farmer on Mars.',
+		'take': [['teslavoucher', 1]],
+		'give': [['chick', 4]]
+	},
+	{
+		'name': 'teslavoucher0b',
+		'flavor': '',
+		'take': [['chick', 4]],
+		'give': [['chick2', 8], ['teslavoucher2', 1]]
+	},
+	{
+		'name': 'teslavoucher0c',
+		'flavor': '',
+		'take': [['chick2', 8], ['teslavoucher2', 1]],
+		'give': [['meatchicken', 16], ['teslavoucher3', 1]]
+	},
+	{
+		'name': 'teslavoucher0d',
+		'flavor': '',
+		'take': [['meatchicken', 16], ['teslavoucher3', 1]],
+		'give': [['2mteslavoucher', 1]]
+	},
+	{
+		'name': 'teslavoucher0e',
+		'flavor': '',
+		'take': [['2mteslavoucher', 1]],
+		'give': [['rnavoucher', 1]]
+	},
+
+	{
+		'name': 'fitzgibbonsinfo',
+		'flavor': 'Say hauler, if you have a copy of Inter-system Index Environments, would this fold core be worth the effort?',
+		'take': [['crash2', 1]],
+		'repeats': 0,
+		'give': [['molycore', 1]]
+	},
+	{
+		'name': 'riceisnice',
+		'flavor': 'Courtney runs a tight ship. Do you have a transport connection to Earth to grab a Bag of Rice and some Rendered Animal Fat? I might be overpaying but she is really on my case.',
+		'take': [['rice', 1], ['fat', 1]],
+		'repeats': 0,
+		'give': [['prombars', 1]]
+	},
+
+
+	{
+		'name': 'molytrade',
+		'repeats': 0,
+		'flavor': 'If Jaq sent you yeah I\'ll take that Moly Core off of you now. Not sure why she wanted me to give you this in exchange...',
+		'take': [
+		['molycore', 1],
+		],
+		'give': [['promshards', 1]],
+		'plot': function() {
+			findMercFromName('jaqio').hidden = false
+			findMercFromName('jaqdemi').hidden = false
+			findMercFromName('jaqzed').hidden = false
+			findMercFromName('scar').hidden = false
+			buildCity()
+			var listnum = findMercIdFromName('jaqdemi')
+			$$('#merchants li[num="'+listnum+'"]').classList.add('new')
+			//$$('#merchants li[num="'+listnum+'"]').click()
+			//snd.machine()
+		}
+	},
+	{
+		'name': 'theend',
+		'repeats': 0,
+		'flavor': 'Insert Promium Core',
+		'take': [
+		['promcore', 1],
+		],
+		'give': [],
+		'plot': function() {
+			endGame()
+		}
+	},
+	{
+		'name': 'veginstall',
+		'flavor': 'Ready for VegOS re-install. Insert Disks 1 - 12.',
+		'repeats': 0,
+		'take': [
+		['vegdisk1', 1],
+		['vegdisk2', 1],
+		['vegdisk3', 1],
+		['vegdisk4', 1],
+		['vegdisk5', 1],
+		['vegdisk6', 1],
+		['vegdisk7', 1],
+		['vegdisk8', 1],
+		['vegdisk9', 1],
+		['vegdisk10', 1],
+		['vegdisk11', 1],
+		['vegdisk12', 1],
+		],
+		'give': [['file', 1]]
+	},
+
+	{
+		'name': 'vinea1harvest0',
+		'flavor': 'Feed me.',
+		'take': [['nitrogen', 1]],
+		'give': [['cherry', 1]]
+	},
+	{
+		'name': 'vinea1harvest1',
+		'flavor': '',
+		'take': [['spiceblue', 1]],
+		'give': [['meatbacon', 1]]
+	},
+	{
+		'name': 'vinea1harvest2',
+		'flavor': '',
+		'take': [['glint', 1]],
+		'give': [['ironshards', 1]]
+	},
+
+	{
+		'name': 'vineb1harvest0',
+		'flavor': 'Feed me.',
+		'take': [['nitrogen', 1]],
+		'give': [['blackfruit', 1]]
+	},
+	{
+		'name': 'vineb1harvest1',
+		'flavor': '',
+		'take': [['spiceblue', 1]],
+		'give': [['meathab', 1]]
+	},
+	{
+		'name': 'vineb1harvest2',
+		'flavor': '',
+		'take': [['glint', 1]],
+		'give': [['promshards', 1]]
+	},
+
+	{
+		'name': 'vinec1harvest0',
+		'flavor': 'Feed me.',
+		'take': [['nitrogen', 1]],
+		'give': [['olives', 1]]
+	},
+	{
+		'name': 'vinec1harvest1',
+		'flavor': '',
+		'take': [['spiceblue', 1]],
+		'give': [['meatoyster', 1]]
+	},
+	{
+		'name': 'vinec1harvest2',
+		'flavor': '',
+		'take': [['glint', 1]],
+		'give': [['molyshards', 1]]
+	},
+
+	{
+		'name': 'meathabrun',
+		'flavor': '',
+		'take': [['meathab', 1]],
+		'give': []
+	},
+
+	{
+		'name': 'promgrow',
+		'flavor': 'I\'ll help you run the lab! Sure it\'s BSL-8 but nobody\'s even monitoring.',
+		'take': [['promshards', 1], ['aminos', 1]],
+		'give': [['prombars', 1]]
+	},
+
+	{
+		'name': 'birdoishungry',
+		'flavor': 'Bring this crab to Birdo, in Greatfield.',
+		'take': [['crab', 1]],
+		'give': [['woodbars', 1],['wiring', 1]]
+	},
+	{
+		'name': 'birdowantshelp',
+		'flavor': 'Hmm, you\'ve got a Workbench in your cab don\'t you? Would you mind mending this Wood and Metal Wiring into a Crab Trap for Blubouse?',
+		'take': [['crab', 1]],
+		'give': [['woodbars', 1],['wiring', 1]]
+	},
+	{
+		'name': 'blubousepays',
+		'flavor': 'Oh boy what I\'d give for someone to mend one...',
+		'take': [['crate', 1]],
+		'give': [['meatcrab', 1]]
+	},
+	{
+		'name': 'nutstoparts',
+		'flavor': 'Nuts & Bolts? Sure, dump\'m off 2 at a time and I\'ll send some Iron your way. We don\'t need Iron Shards here in Partstown. but others might.',
+		'take': [['nutsbolts', 2]],
+		'give': [['ironshards', 1]]
+	},
+	{
+		'name': 'shuthirsty0',
+		'repeats': 0,
+		'flavor': 'What I wouldn\'t give for a solid brew.',
+		'take': [['coffee', 1]],
+		'give': [['manhattan-jot', 1]]
+	},
+	{
+		'name': 'shuthirsty1',
+		'repeats': 0,
+		'flavor': '',
+		'take': [['coffeeespresso', 1]],
+		'give': [['shrimptempurarecipe', 1]]
+	},
+	{
+		'name': 'shuthirsty2',
+		'repeats': 0,
+		'flavor': '',
+		'take': [['coffeemilk', 1]],
+		'give': [['stock-jot', 1]]
+	},
+	{
+		'name': 'shuthirsty3',
+		'repeats': 0,
+		'flavor': '',
+		'take': [['coffeenice', 1]],
+		'give': [['tonkatsurecipe', 1]]
+	},
+
+	{
+		'name': 'ship-food-crabsoup',
+		'flavor': '',
+		'take': [['meatcrab', 1], ['tomato', 1]],
+		'give': [['souptomato', 1]]
+	},
+	{
+		'name': 'ship-food-stock',
+		'flavor': '',
+		'take': [['water', 1], ['carrot', 1], ['celery', 1], ['onion', 1], ['flashpaste', 1], ['carcass', 1]],
+		'give': [['stock', 1]]
+	},
+	{
+		'name': 'ship-food-tonkatsu',
+		'flavor': '',
+		'take': [['meatpork', 1], ['breadcrumbs', 1], ['eggs', 1], ['flashpaste', 1]],
+		'give': [['tonkatsu', 1]]
+	},
+	{
+		'name': 'ship-food-shrimp-tempura',
+		'flavor': '',
+		'take': [['meatshrimp', 1], ['spicesalt', 1], ['breadcrumbs', 1], ['eggs', 1], ['oil', 1], ['flashpaste', 1]],
+		'give': [['shrimptempura', 1]]
+	},
+	{
+		'name': 'ship-food-katsudon',
+		'flavor': '',
+		'take': [['tonkatsu', 1], ['rice', 1], ['water', 1], ['garnish', 1], ['flashpaste', 1]],
+		'give': [['katsudon', 1]]
+	},
+	{
+		'name': 'ship-food-ramen1',
+		'flavor': '',
+		'take': [['tonkatsu', 1], ['noodles', 1], ['stock', 1], ['eggs', 1], ['naruto', 1]],
+		'give': [['ramen1', 1]]
+	},
+	{
+		'name': 'ship-food-naruto',
+		'flavor': '',
+		'take': [['rice', 1], ['meatsaltedfish', 1], ['ricewine', 1], ['eggs', 1], ['spicesugar', 1], ['water', 1], ['flashpaste', 1]],
+		'give': [['naruto', 1]]
+	},
+	{
+		'name': 'ship-food-manhattan',
+		'flavor': '',
+		'take': [['liquor0', 1], ['cherry', 1], ['port', 1], ['bitters', 1]],
+		'give': [['manhattan', 1]]
+	},
+	{
+		'name': 'ship-food-oldfashion',
+		'flavor': '',
+		'take': [['liquor0', 1], ['orangepeel', 1], ['spicesugar', 1], ['flashpaste', 1], ['bitters', 1]],
+		'give': [['oldfashion', 1]]
+	},
+	{
+		'name': 'ship-food-martini',
+		'flavor': '',
+		'take': [['shotglass', 1], ['olives', 1], ['port', 1]],
+		'give': [['martini', 1]]
+	},
+
+
+	{
+		'name': 'ship-trap',
+		'flavor': '',
+		'take': [['woodbars', 1], ['wiring', 1]],
+		'give': [['crate', 1]]
+	},
+	{
+		'name': 'ship-handplans',
+		'flavor': '',
+		'take': [['handplans', 1], ['wiring', 1], ['flashpaste', 1], ['jbar', 1], ['molybars', 3], ['boot', 1]],
+		'give': [['hand', 1]],
+		'plot': function() {
+			//snd.track.recap()
+		}
+	},
+	{
+		'name': 'ship-jimmybox',
+		'flavor': '',
+		'take': [['jbar', 1], ['boxlocked', 1]],
+		'give': [['ironbars', 1], ['ironbars', 1], ['ironbars', 1], ['1cvoucher-dead', 1], ['cookieseiple', 1], ['coin', 1]],
+		'random': true
+	},
+	{
+		'name': 'ship-ornatebox',
+		'flavor': '',
+		'take': [['jbar', 1], ['boxornate', 1]],
+		'give': [['molybars', 1], ['molybars', 1], ['molycore', 1], ['port', 1], ['promshards', 1]],
+		'random': true
+	},
+	{
+		'name': 'ship-jimmycrab',
+		'flavor': '',
+		'take': [['jbar', 1], ['crab', 1]],
+		'give': [['meatcrab', 1], ['jbar', 1]]
+	},
+	{
+		'name': 'ship-flashiron',
+		'flavor': '',
+		'take': [['flashpaste', 1], ['ironshards', 2]],
+		'give': [['ironbars', 1]],
+		'random': true
+	}
+]
+
+for(var c=0; c<quests.length;c++){
+	if (quests[c].name.substr(0,4) == 'ship')
+		players[1].quests.push(quests[c].name) //workbench player
+}

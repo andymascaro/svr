@@ -1,2007 +1,290 @@
+{
+	'player': [],
+	'workbench': [],
+	'dock-cab': [['hcab0', 1]],
+	'dock-spine': [['hspine0', 1]],
+	'dock-tail': [['htail0', 1]],
+	'dock-badges': [],
+	'dock-glovebox': [],
 
-[
-	{
-		"name": "1cvoucher-dead",
-		"img": "1cvoucher",
-		"display": "1C Payment Voucher",
-		"description": "Bring the voucher back to Nexus Co. for payment.",
-		"base": 0.0000000001,
-		"drop": 1,
-	    "tags": ["voucher"]
-	},
-	{
-		"name": "ironbarsvoucher",
-		"display": "Iron Bars Voucher",
-		"description": "Take this voucher to Scalding in Meridian and they'll have your cargo ready. Exchange for a full load.",
-		"base": 0,
-		"drop": 0,
-	    "tags": ["voucher"]
-	},
-	{
-		"name": "1cvoucher",
-		"display": "Iron Bars 2C Payment Voucher",
-		"description": "Bring the voucher back to Nexus Co. for payment.",
-		"base": 0.0000000002,
-		"drop": 1,
-	    "tags": ["voucher"]
-	},
+	'hm3': [['hcab1', 1]],
+	'hm2': [],
+	'hm1': [],
+	'hm4': [['crab', 1]],
+	'hm5': [['crabsouprecipe', 1],['tomato', 1]],
+	'hm11': [['coffee', 1]],
+	'term1': [['coffee', 1]],
 
-	{
-		"name": "molybarsvoucher",
-		"img": "1cvoucher",
-		"display": "Molybdenum Ingots Voucher",
-		"description": "Take this voucher to Yin in Vhors Low and they'll have your cargo ready. Exchange for a full load.",
-		"base": 0,
-		"drop": 0,
-	    "tags": ["voucher"]
-	},
-	{
-		"name": "1kvoucher",
-		"display": "Molybdenum Ingots 1K Payment Voucher",
-		"description": "Bring the voucher back to Sally for payment.",
-		"base": 0.000000001,
-		"drop": 1,
-	    "tags": ["voucher"]
-	},
-	{
-		"name": "glint",
-		"img": "glint2",
-		"display": "Glint",
-		"description": "This is fully-refined glint at the highest grade. Glint, or nano-fuel, is seemingly the most valuable substance in the system, at least thus far. Applications range from rocket power to plant food, this sub-Europan proto-intelligence seems to have solved problem solving on a sub-molecular scale.",
-		"base": 100000,
-		"drop": 1,
-	    "tags": []
-	},
+	'gilfurla': [],
+	'pja': [['passport', 1]],
 
-	{
-		"name": "contract1",
-		"img": "contract",
-		"display": "Meaningles contract to own an assortment of atoms you don't care about",
-		"description": "This doesn't seem valuable at all...",
-		"base": 0.000001,
-		"drop": 1,
-	    "tags": ["contract"]
-	},
-	{
-		"name": "contract2",
-		"img": "contract",
-		"display": "Completely stupid contract for 'tree' with no other information",
-		"description": "This is garbage.",
-		"base": 0.000001,
-		"drop": 1,
-	    "tags": ["contract"]
-	},
-	{
-		"name": "contract3",
-		"img": "contract",
-		"display": "Contract to guarantee the party that wins the next galactic war does indeed do so",
-		"description": "This is trash. It's not worth anything...",
-		"base": 0.000001,
-		"drop": 1,
-	    "tags": ["contract"]
-	},
-	{
-		"name": "contract3",
-		"img": "contract",
-		"display": "An agreement for payment applicable to no terms",
-		"description": "This is garbage.",
-		"base": 0.000001,
-		"drop": 1,
-	    "tags": ["contract"]
-	},
-	{
-		"name": "contract4",
-		"img": "contract",
-		"display": "License to drill for lemons on Planet Soda",
-		"description": "Probably was a mistake to pay money for this.",
-		"base": 0.000001,
-		"drop": 1,
-	    "tags": ["contract"]
-	},
-	{
-		"name": "contract5",
-		"img": "contract",
-		"display": "Confusing backward logic that stipulates this contract owns you if you don't sign it",
-		"description": "This is junk.",
-		"base": 0.000001,
-		"drop": 1,
-	    "tags": ["contract"]
-	},
-	{
-		"name": "contract6",
-		"img": "contract",
-		"display": "Ownership title of a house in upstate New York which burned down in 1834",
-		"description": "Probably was a mistake to pay money for this.",
-		"base": 0.000001,
-		"drop": 1,
-	    "tags": ["contract"]
-	},
-	{
-		"name": "contract7",
-		"img": "contract",
-		"display": "Contract to agree to purchase this contract",
-		"description": "This is junk.",
-		"base": 0.000001,
-		"drop": 1,
-	    "tags": ["contract"]
-	},
-	{
-		"name": "contract8",
-		"img": "contract",
-		"display": "Negative flow heat diagram with a smiley face and no clear meaning at all",
-		"description": "This doesn't seem valuable.",
-		"base": 0.000001,
-		"drop": 1,
-	    "tags": ["contract"]
-	},
-	{
-		"name": "contract9",
-		"img": "contract",
-		"display": "Terms to submit oneself to being discussed openly by strangers",
-		"description": "This doesn't seem valuable at all.",
-		"base": 0.000001,
-		"drop": 1,
-	    "tags": ["contract"]
-	},
-	{
-		"name": "contract10",
-		"img": "contract",
-		"display": "An actually valuable contract for the rights to all Glint from Nexus Red Warp Torch",
-		"description": "This is legally binding! Now that you own the output of the Warp Torch, bring this to Nexus Red official to start collecting your daily Glint.",
-		"base": 0.000001,
-		"drop": 1,
-	    "tags": ["contract"]
-	},
+	'j4a': [['cab0a', 1]],
+	'j2a': [['spine000', 1], ['halfcrate', 1]],
+	'j3a': [ ['tail5', 1]],
 
+	'gilfurl': [],
+	'pj': [['passport', 1]],
 
-	{
-		"name": "eggsvoucher",
-		"img": "jot",
-		"display": "Eggs Voucher",
-		"description": "Take this voucher to Ichiro in Meridian and they'll have your cargo ready. Exchange for a full load.",
-		"base": 0,
-		"drop": 0,
-	    "tags": ["voucher"]
-	},
-	{
-		"name": "1ceggvoucher",
-		"img": "1cvoucher",
-		"display": "Egg Shipment 3C Payment Voucher",
-		"description": "Bring the voucher back to Nexus Co. for payment.",
-		"base": 0.0000000003,
-		"drop": 1,
-	    "tags": ["voucher"]
-	},
+	'j4': [['cab1', 1], ['cab2', 1], ['cab4', 1]],
+	'j2': [['halfcrate', 1], ['spine1', 1]],
+	'j3': [['tail0', 1], ['tail1b', 1]],
 
-	{
-		"name": "aminovoucher",
-		"img": "aminos",
-		"display": "Amino Fluid Voucher",
-		"description": "Take this voucher to the Wayward Farmer and they'll have your cargo ready. Exchange for a full load.",
-		"base": 0,
-		"drop": 0,
-	    "tags": ["voucher"]
-	},
-	{
-		"name": "1kaminovoucher",
-		"img": "1kvoucher",
-		"display": "Amino Shipment 1K Payment Voucher",
-		"description": "Bring the voucher back to Sally for payment.",
-		"base": 0.000000001,
-		"drop": 1,
-	    "tags": ["voucher"]
-	},
+	'cabs': [['cab3', 1], ['cab4', 1], ['cab5', 1], ],
+	'gilgorgan': [['spine1', 1],  ['spinepp', 1], ['spine2a', 1]],
+	'rocketdoc': [['tail0', 1], ['tail1b', 1], ['tail3', 1], ['tailpp', 1],  ['tail4', 1]],
 
-	{
-		"name": "rnavoucher",
-		"img": "contract",
-		"display": "Reverse Transcriptase Voucher",
-		"description": "Take this voucher to the Growlab Consolate on Europa and they'll have your cargo ready. Exchange for a double load, 16.",
-		"base": 0,
-		"drop": 0,
-	    "tags": ["voucher"]
-	},
-	{
-		"name": "1mrnavoucher",
-		"img": "contract",
-		"display": "Reverse Transcriptase 2M Payment Voucher",
-		"description": "Bring the voucher back to the Io Nexus Consignment Officer for payment.",
-		"base": 0.00000002,
-		"drop": 1,
-	    "tags": ["voucher"]
-	},
+	'f1': [['cab5', 1], ['cabpp', 1] ],
+	'f10': [['supercrate', 1]],
+	'f7': [['tail1b', 1], ['tail3', 1], ['tailpp', 1], ['tail4', 1], ['tail2a', 1]],
 
-	{
-		"name": "teslavoucher",
-		"img": "contract",
-		"display": "Tessellation Run Voucher",
-		"description": "Take this voucher to the Yuao Ranger on Io and they'll have your cargo ready. Prepare for a double load +1, 17.",
-		"base": 0,
-		"drop": 0,
-	    "tags": ["voucher"]
-	},
-	{
-		"name": "teslavoucher2",
-		"img": "1kvoucher",
-		"display": "Tessellation Run Part 2",
-		"description": "These 8 little guys go to Chef Strausing back on Earth",
-		"base": 0,
-		"drop": 0,
-	    "tags": ["voucher"]
-	},
-	{
-		"name": "teslavoucher3",
-		"img": "1cvoucher",
-		"display": "Tessellation Run Finale",
-		"description": "Alright now get this receipt and these wings back to Eioki-Donna 'Joe' Lyn on DEMI.<br><br>But don't set off without a fast booster or a freezer, these wings spoil after 3 days!<br><br>If they spoil you'll need to replace them by sourcing from a meat dealer.",
-		"base": 0,
-		"drop": 0,
-	    "tags": ["voucher"]
-	},
-	{
-		"name": "2mteslavoucher",
-		"img": "contract",
-		"display": "Tessellation Run 8M Payment Voucher",
-		"description": "Bring the voucher back to the Io Nexus Consignment Officer for payment. <br><br>Wow that was under like 13 parsecs. My Han to God I've almost never seen that before.",
-		"base": 0.00000008,
-		"drop": 1,
-	    "tags": ["voucher"]
-	},
+	'io20': [/*['cab1', 1], ['cab2', 1], ['cab3', 1], ['cab4', 1],   ['cab5', 1],*/ ['cabpp', 1], ['cab6', 1], ['cab7', 1]],
+	'io19': [/*['spine000', 1], ['halfcrate', 1], ['spine1', 1], ['spinepp', 1], ['spine5a', 1],*/       ['spine2a', 1], /*['supercrate', 1],*/['spine4a', 1]],
+	'io21': [/*['tail0', 1], ['tail1b', 1], ['tail3', 1], ['tailpp', 1], */      ['tail4', 1], ['tail2a', 1],['tail6b', 1]],
+
+	'max': [
+		['nutsbolts', 8], ['strawberry', 1]],
+
+	'd14': [['eurocrate', 1],['halfcrate', 1], ['spine5a', 1]],
+
+	'daniels': [['jbar', 1], 
+	/*['ironshards', 1],['ironbars', 1],['ironcore', 1], 
+	['molyshards', 1],['molybars', 1],['molycore', 1], 
+	['promshards', 1],['prombars', 1],['promcore', 1], */
+	['flashpaste', 1]],
+	'fredericks': [['scribble', 1], ['book1', 1], ['book2', 1], ['bookarcphys', 1], ['flashpaste', 1]],
+	'seiple': [['boxlocked', 2], ['jbar', 1], ['flashpaste', 1]],
+
+	'camden': [],
+
+	'forge': [['jot', 1]],
+	'bouldwin': [],
+	'scalding': [],
+	'gilroy': [['ironbars', 8]],
+	'arnold': [],
+	'pl1': [
+	['meatpork', 1], 
+ ['meatchicken', 1], 
+ ['meatshrimp', 1],
+ ['meatbacon', 1],
+ ['meatsausage', 1],
+ ['meatcrab', 1],
+  ['meatsaltedfish', 1], 
+  ['carcass', 1],
+   ['crab', 1],
+ ['meatoyster', 1],
+		],
+	'pl2': [],
+	'pl3': [
+
+		['cherry', 1],
+		['tomato', 1],
+		['strawberry', 1],
+		['spicebutter', 1],
+		['oil', 1],
+		['eggs', 1], ['carrot', 1], ['celery', 1], ['onion', 1], 
+		['spicesugar', 1],
+		['spicesalt', 1],
+		['spicepepper', 1],
+		['breadcrumbs', 1],
+	['flashpaste', 1], 
+	],
+	'pl4': [
+		['coffeeespresso', 1],
+		['martini', 1],['oldfashion', 1],['manhattan', 1],
+		 ['shotglass', 1] ,
+		 ['kit', 1] ,
+	 ],
+
+	'pl5': [],
+	'pl6': [
+		['olives', 1], ['orangepeel', 1],
+		['liquor0', 1], 
+		['liquor0', 1], 
+		['liquor1', 1],
+		['spicesugar', 1],
+		 ['bitters', 2], ['port', 2], ['sieve', 1],
+		 ['jbar', 1],
+		['flashpaste', 2], 
+],
+	'pl7': [ ['hat', 1] ],
+	'pl8': [],
+	'pl10': [],
+	'pl11': [],
+	'pl12': [],
+	'pl13': [],
+	'pl14': [['cookie', 1], ['coffee', 1], ['smokeables', 1]],
+	'gg3': [ 
+	/*['katsudon', 1], 
+	['tonkatsu', 1], */
+	['garlic', 1], 
+	['garnish', 2], 
+	['noodles', 2], 
+	
+	['water', 4], 
+	['spicesugar', 2],
+	['flashpaste', 3], 
+	['rice', 1], ['ricewine', 1],  ['eggs', 3], ['carrot', 1], ['celery', 1], ['onion', 1], ['fat', 1], ['breadcrumbs', 1],
+	['spicesalt', 1], ['spicepepper', 1], ['spicechili', 1], ['spicebutter', 1], ['spiceblue', 1], ['spicesage', 1], ['spicebay', 1],
+		['oil', 1], ['narutorecipe', 1]
+	],
+	'gg5': [],
+	'gg6': [['coffeemilk', 1], ['katsudonrecipe', 1]],
+	'gg7': [['ramen0', 1], ['ramen1', 1]],
+	'gg8': [],
+	'gg9': [['steak', 1]],
+	'gg10': [['nutsbolts', 1], ['coffeenice', 1]],
+	'imf1': [['ironbarsvoucher', 1], ['corestartup-note', 1]],
+	'shipping': [
+		['1cvoucher', 1],
+		['1ceggvoucher', 1],
+	],
+
+	'd7': [
+		['vegdisk1', 1],
+		['vegdisk2', 1],
+		['vegdisk3', 1],
+		['vegdisk4', 1],
+		['vegdisk5', 1],
+		['vegdisk6', 1],
+		['vegdisk7', 1],
+		['vegdisk8', 1],
+		['vegdisk9', 1],
+		['vegdisk10', 1],
+		['vegdisk11', 1],
+		['vegdisk12', 1],
+	],
+	'd22': [
+		['coffeemilk', 1],
+		['soda1', 1],
+		['pint', 1], 
+		['burger', 1], 
+		/*['bluesausage', 1], */
+		['schnitzel', 1], 
+		['spiceblue', 1], 
+		['soda2', 1],
+		['carcass', 1]
+	 ],
 
 
+	'pl9': [
 
-	{
-		"name": "corestartup-note",
-		"img": "kit",
-		"display": "License To Begin Iron Coring Machine",
-		"description": "Bring this license to Gingerella in Promi-found Base.",
-		"base": 0,
-		"drop": 0,
-	    "tags": []
-	},
-	{
-		"name": "coreformula0",
-		"img": "kit",
-		"display": "Iron Core Machine Guide",
-		"description": "Thanks, hauler. This thing is up and running now. Have you used a Core Machine before? It's easy as long as you know the right formula for input.  The Iron Core Machine input is simple: 8 Iron Bars.<br><br>Come back to Promi-found Base and use the Core Machine all you want!",
-		"base": 0,
-		"drop": 0,
-	    "tags": ["recipe"],
-	    "recipe": [["ironbars", 8]]
-	},
-	{
-		"name": "ironcorepin",
-		"img": "pin1",
-		"display": "Iron Core Machine Key",
-		"description": "This is an Iron Core Machine Key needed to turn on the Coring Machine. Attach it to the machine!",
-		"base": 0,
-		"drop": 1,
-	    "tags": ["pin"]
-	},
+		/*['gunsys-radio1', 1],
+		['gunsys-radio4', 1],
+		['gunsys-channel', 1],*/
 
-	{
-		"name": "molycorepin",
-		"img": "molycorepin",
-		"display": "Molybdenum Core Machine Key",
-		"description": "This is a Molybdenum Core Machine Key needed to turn on the Coring Machine. Attach it to the machine!",
-		"base": 300,
-		"drop": 0,
-	    "tags": ["pin"]
-	},
-	{
-		"name": "logic",
-		"display": "Molybdenum Core Logic Diagram",
-		"description": "This is a Molybdenum Core Machine Logic Diagram needed to turn on the Coring Machine. Attach it to the machine!",
-		"base": 100,
-		"drop": 0,
-	    "tags": ["pin"]
-	},
-	{
-		"name": "foldmap",
-		"display": "Molybdenum Core Foldmap",
-		"description": "Reality needs a little kicker to ignite the Molybdenum Core Machine. Attach the Foldmap to the machine!",
-		"base": 0,
-		"drop": 0,
-	    "tags": ["pin"]
-	},
+		['lockpick', 1],
+		['burner', 1],
+		['bar', 1],
+		['coffeemaker', 1],
+		['watch', 1],
+		/*['vga', 1],*/
+	],
+	'jordax': [['molybars', 1], ['molyshards', 1], ['molycorepin', 1]],
+	'f13': [['hottip', 1]],
 
-	{
-		"name": "promcorepin",
-		"img": "promcorepin",
-		"display": "Promium Core Machine Key",
-		"description": "This is a Promium Core Machine Key needed to turn on the Coring Machine. Attach it to the machine!",
-		"base": 1,
-		"drop": 0,
-	    "tags": ["pin"]
-	},
+	'm9': [
 
-	{
-		"name": "nutsbolts",
-		"display": "Nuts and bolts",
-		"description": "This is some metal junk basically",
-		"base": 0.01,
-		"drop": 1,
-	    "tags": ["scrap", "metal"]
-	},
-	{
-		"name": "passport",
-		"display": "Exit Earth Orbit Papers",
-		"description": "This passport allows you to exit Earth orbit. Every hauler needs their passport and medallion, but then it's open sky.<br><br>Bring this to Commander Gilfurl.",
-		"base": 1100,
-		"drop": 1,
-	    "tags": ["passport", "key"]
-	},
-	{
-		"name": "outerpass",
-		"display": "Outer Consolate Prayer Book",
-		"description": "Speak these verses to gain safe passage among the outer ring construct culture.",
-		"base": 100000,
-		"drop": 1,
-	    "tags": ["passport", "key"]
-	},
-	{
-		"name": "promshards",
-		"display": "Promium Shards",
-		"base": 1000,
-		"drop": 1,
-	    "tags": ["shards", "metal", "promium"]
-	},
-	{
-		"name": "prombars",
-		"display": "Promium Cubes",
-		"base": 10000,
-		"drop": 1,
-	    "tags": ["bullion", "metal", "promium"]
-	},
-	{
-		"name": "promcore",
-		"display": "Promium Core",
-		"base": 100000,
-		"drop": 1,
-	    "tags": ["core", "metal", "promium"]
-	},
+		['gunsys-rapid2', 1],
+		/*['gunsys-rail6', 1],*/
+		['gunsys-rail2', 1]
+	],
 
-	{
-		"name": "molyshards",
-		"display": "Molybdenum Shards",
-		"base": 100,
-		"drop": 1,
-	    "tags": ["shards", "metal", "molybdenum"]
-	},
-	{
-		"name": "molybars",
-		"display": "Molybdenum Ingots",
-		"base": 1000,
-		"drop": 1,
-	    "tags": ["bullion", "metal", "molybdenum"]
-	},
-	{
-		"name": "molycore",
-		"display": "Molybdenum Core",
-		"base": 10000,
-		"drop": 1,
-	    "tags": ["core", "metal", "molybdenum"]
-	},
-	{
-		"name": "ironshards",
-		"display": "Iron Shards",
-		"base": 10,
-		"drop": 1,
-	    "tags": ["shards", "metal", "scrap"]
-	},
-	{
-		"name": "ironbars",
-		"display": "Iron Ingots",
-		"base": 100,
-		"drop": 1,
-	    "tags": ["bullion", "metal"]
-	},
-	{
-		"name": "ironcore",
-		"display": "Iron Core",
-		"description": "An Iron Core you made in the Iron Core Machine on Earth in Promi-found Base. The price for Iron Cores are better on Mars - Look for Jordax.",
-		"base": 1000,
-		"drop": 1,
-	    "tags": ["core", "metal"]
-	},
-	{
-		"name": "jbar",
-		"display": "Jimmy-Bar",
-		"base": 10,
-		"drop": 1,
-	    "tags": ["tool", "metal"]
-	},
-	{
-		"name": "flashpaste",
-		"display": "Flash Paste",
-		"base": 10,
-		"drop": 1,
-	    "tags": ["tool"]
-	},
-	{
-		"name": "boxlocked",
-		"display": "Locked Box",
-		"base": 10,
-		"drop": 0.7,
-	    "tags": ["metal"]
-	},
-	{
-		"name": "boxornate",
-		"display": "Ornate Safe Deposit Box",
-		"base": 1000,
-		"drop": 0.5,
-	    "tags": ["metal"]
-	},
-	{
-		"name": "bookarcphys",
-		"img": "outerpass",
-		"display": "Arcane Physics Codex",
-		"base": 2000,
-		"drop": 0,
-	    "tags": ["book", "arcane"]
-	},
-	{
-		"name": "scribble",
-		"display": "Fredericks's Fool-Proof Box Opener",
-		"description": "Take a standard J-Bar and put it under a Lock Box's padlock. Now...hit it really hard. Whatever's inside is now out!",
-		"base": 0,
-		"drop": 0,
-	    "tags": ["recipe"],
-	    "recipe": [["boxlocked", 1], ["jbar", 1]]
-	},
-	{
-		"name": "promformula",
-		"img": "logic",
-		"display": "Promium Cube Formula",
-		"description": "Promium Cubes form as Aminos injest the Promium Shards.  Give me, the Lab Tech on Io, 1 Promium Shard and 1 Amino Paste to induce the reaction.",
-		"base": 0,
-		"drop": 0,
-	    "tags": ["recipe"],
-	    "recipe": [["promshards", 1], ["aminos", 1]]
-	},
-	{
-		"name": "book1",
-		"display": "Moby Dockhand, A Story Of Whale Why Not",
-		"description": "Call me Fish Mail... that's all I really am isn't it?  <br><br>Portage for creatures beneath me from one pond to the next, am I in service to my superior or am I in service to them, the haul? And is there any difference... <br><br>Well today's not the day to wax poetic, afterall there's about a half ton of red spotted blue I need to help make an appointment with a wooden hammer. Sometimes I name them...the fourth or fifth next one in line. Daniel well he had a solid upbringing but when he moved out he had a rough go of it balancing the finance and then one day SPLAATTT struck by lighting. <br><br>At least my lighting hammer makes Queeq work of them. Lucky bastards...Free from the myth of porpoise.",
-		"base": 30,
-		"drop": 0,
-	    "tags": ["book", "whales"]
-	},
-	{
-		"name": "book2",
-		"display": "Command Spells Vol. 1 by Dirk Fengler",
-		"description": "Chapter 1: No 'Man' Without ComMANd. <br><br>'Command spells are all in the wrist,' Grandma Fengler used to tell us, as she splattered baby terminauts against the brick of our back alley, a reddish mortar, perpetually damp from organic ooze. 'Just remember to keep eye contact at all times. Otherwise things can get out of hand faster than a riffer sucks the shake off a brand new nitrogen belt.'  <br><br>Nana wasn't interested in learning the politically correct manner of communicating things she already knew how to say more straightforwardlike. Maybe it was that keen sense of saying only what was important that earned her the moniker 'The Queen Of Command' down in Gemini Gutter 142 where we all grew up ...",
-		"base": 50,
-		"drop": 0,
-	    "tags": ["book", "magic"]
-	},
-	{
-		"name": "book3",
-		"img": "bookarcphys",
-		"display": "Diary Of A Metal Hauler",
-		"description": "I, Ron.  <br><br>Born Ronald Pugerino, 'Pugs,' the kids used to call me, to a simple backwood family of crab trap runners, never having even imagined the unknowable pleasures of the hauler lifestyle I do today, bumbling along in my simple hot-taped loomer Rig, I was then simply oblivious to the stars. That all changed the day I first met a Promi, Doctor Carbonella, the physics instructor at Candle High. <br><br>She was subtle in a direct way, never once led a lecture without using her trademark differential equation pun, 'Is that a FACT-OR what?' and as the other broodlings squacked, my mouth gaped. I was entrenched.  Whatever I needed to do to run at Carbonella's level, I swore I'd get it done. That night I tore my crab contract to shreds and signed a cold 11'er with Nexus.  I was going to space, 80 thousand tons of Iron in tow. For a brief moment, as the tomato farms of Terminex outskirts dwindled to specks behind me I wondered if I had been a fool for chasing my Promi infactuation, but when I soon discovered how much of a good time a 'Nexus 1C Voucher' could buy all that bewilderment turned to drive.  Killer drive.  <br><br>A Terminal's drive.",
-		"base": 500,
-		"drop": 0,
-	    "tags": ["book"]
-	},
+	'sally': [
+		['molybarsvoucher', 1]
+	],
+	'm10': [
+		['1kvoucher', 1],
+		['1kaminovoucher', 1],
+	],
+	'poliktep': [],
+	'rupturella': [['book3', 1], ['logic', 1] ],
+	'm15': [['foldmap', 1]],
 
-	{
-		"name": "crash1",
-		"display": "Nexus Trusted Networks",
-		"base": 1500,
-		"drop": 0,
-	    "tags": ["book"]
-	},
-	{
-		"name": "crash2",
-		"display": "Inter-system Index Environments",
-		"base": 800,
-		"drop": 0,
-	    "tags": ["book"]
-	},
-	{
-		"name": "crash3",
-		"display": "Devil Book - DEMI Bible",
-		"base": 1300,
-		"drop": 0,
-	    "tags": ["book"]
-	},
-	{
-		"name": "crash4",
-		"display": "Computer Security Criteria: Promi Standards",
-		"base": 112,
-		"drop": 0,
-	    "tags": ["book"]
-	},
-	{
-		"name": "crash5",
-		"display": "Pink Shirt Book: Guide to VegOS PC's",
-		"base": 6000,
-		"drop": 0,
-	    "tags": ["book"]
-	},
+	'd2': [
+		/*['gunsys-rail6', 1],*/
+		['gunsys-radio4', 1],
+		['gunsys-channel', 1],
+		['translator', 1],
+		['freezer', 1],
+		['ramenrecipe', 1],
+	],
+	'io13': [
+		['nitrogen', 6],
+		['spiceblue', 4]
+	],
 
-	{
-		"name": "rom1",
-		"display": "Mesca-Sim",
-		"description": "If you get caught using this you're on your own.",
-		"base": 11000,
-		"drop": 0,
-	    "tags": ["software"]
-	},
-	{
-		"name": "boot",
-		"display": "BootDawg Diagnostics Kit",
-		"description": "",
-		"base": 3000,
-		"drop": 0,
-	    "tags": ["tool"]
-	},
-	{
-		"name": "rom2",
-		"display": "80Gb Augmentation",
-		"description": "Brain augmentation stream, do not overload.",
-		"base": 18000,
-		"drop": 0,
-	    "tags": ["software"]
-	},
-	{
-		"name": "rom3",
-		"display": "Mixtape Classic: Jungle, Ambient, Acid, 303's",
-		"description": "Nothin on this mixtape fails to excite. We've got Trust Brothers, a little Undermono, Wideman Skin. Haul and sprawl baby!",
-		"base": 250,
-		"drop": 0,
-	    "tags": ["software"]
-	},
+	'quirst': [
+		['spiceblue', 1],
+		['soda3', 1],
+		['boxornate', 1],
+		['rom2', 1]
+	],
 
-	{
-		"name": "file",
-		"display": "VegOS Plant Operation Manual",
-		"description": "Veg Lab spindrels are each engineered to support the needs of the roving DEMI station.  Glucose, Protein, as well as Mineral output are all achievable with the appropriate physical catalyst.<br><br><u>Apply Nitrogen fertalizer</u>: produce a consolidated glucose supply.<br><br><u>Apply Spice</u>: protein-based growths will form.<br><br><u>Apply Nano-fuel Glint</u>: excrete refinable metalic filings.<br><br>",
-		"base": 0,
-		"drop": 0,
-		"recipe": [],
-	    "tags": ["recipe"]
-	},
-	{
-		"name": "hottip",
-		"img": "jot",
-		"display": "Hot Tip",
-		"description": "Pirates tend to orbit a specific planet.  They get a bit nasty the further out you go past Mars.<br><br>If you ever lose your haul, you can always get some bigger guns and take back what you lost.<br><br>Pirates only attack you if you're carrying something.  ",
-		"base": 0,
-		"drop": 0,
-	    "tags": ["recipe"],
-	    "recipe": []
-	},
-	{
-		"name": "vegdisk1",
-		"img": "disk",
-		"display": "VegOS Disk 1",
-		"base": 1,
-		"drop": 0,
-	    "tags": ["software"]
-	},
-	{
-		"name": "vegdisk2",
-		"img": "disk",
-		"display": "VegOS Disk 2",
-		"base": 1,
-		"drop": 0,
-	    "tags": ["software"]
-	},
-	{
-		"name": "vegdisk3",
-		"img": "disk",
-		"display": "VegOS Disk 3",
-		"base": 1,
-		"drop": 0,
-	    "tags": ["software"]
-	},
-	{
-		"name": "vegdisk4",
-		"img": "disk",
-		"display": "VegOS Disk 4",
-		"base": 1,
-		"drop": 0,
-	    "tags": ["software"]
-	},
-	{
-		"name": "vegdisk5",
-		"img": "disk",
-		"display": "VegOS Disk 5",
-		"base": 1,
-		"drop": 0,
-	    "tags": ["software"]
-	},
-	{
-		"name": "vegdisk6",
-		"img": "disk",
-		"display": "VegOS Disk 6",
-		"base": 1,
-		"drop": 0,
-	    "tags": ["software"]
-	},
-	{
-		"name": "vegdisk7",
-		"img": "disk",
-		"display": "VegOS Disk 7",
-		"base": 1,
-		"drop": 0,
-	    "tags": ["software"]
-	},
-	{
-		"name": "vegdisk8",
-		"img": "disk",
-		"display": "VegOS Disk 8",
-		"base": 1,
-		"drop": 0,
-	    "tags": ["software"]
-	},
-	{
-		"name": "vegdisk9",
-		"img": "disk",
-		"display": "VegOS Disk 9",
-		"base": 1,
-		"drop": 0,
-	    "tags": ["software"]
-	},
-	{
-		"name": "vegdisk10",
-		"img": "disk",
-		"display": "VegOS Disk 10",
-		"base": 1,
-		"drop": 0,
-	    "tags": ["software"]
-	},
-	{
-		"name": "vegdisk11",
-		"img": "disk",
-		"display": "VegOS Disk 11",
-		"base": 1,
-		"drop": 0,
-	    "tags": ["software"]
-	},
-	{
-		"name": "vegdisk12",
-		"img": "disk",
-		"display": "VegOS Disk 12",
-		"base": 1,
-		"drop": 0,
-	    "tags": ["software"]
-	},
+	'seville': [
+		['crash4', 1],
+		['crash2', 1],
+		['crash5', 1]
+	],
 
+	'd13': [
+		['spiceblue', 1],
+		['rom3', 1],
+		['rom1', 1],
+		['boot', 1],
+		['wiring', 1],
+	],
 
-	{
-		"name": "jot",
-		"display": "Left-Behind Note",
-		"description": "Add flash paste to 2 Iron shards on your own workbench and avoid these Nexus fees. Hack the planet(s)!",
-		"base": 0,
-		"drop": 0,
-	    "tags": ["recipe"],
-	    "recipe": [["flashpaste", 1], ["ironshards", 2]]
-	},
-	{
-		"name": "crabsouprecipe",
-		"display": "Recipe for crab & tomato soup",
-		"description": "Recipe for Geoffries's favorite Red-spotted Blue Crab & tomato soup. Write this down by saving it to your Workbench so you don't need to keep it around forever. It's so easy when you use choice ingredients: 1 Plump Tomato and 1 Red-spotted Blue Crab Meat.",
-		"base": 0,
-		"drop": 0,
-	    "tags": ["recipe"],
-	    "recipe": [["meatcrab", 1], ["tomato", 1]]
-	},
-	{
-		"name": "katsudonrecipe",
-		"img": "crabsouprecipe",
-		"display": "Katsudon Recipe",
-		"description": "Step 1: make Tonkatsu. Step 2: combine Tonkatsu with rice, water, heat it up, and add garnish. Step 3: Eat up. If you're a good chef it will be delicious.",
-		"base": 0,
-		"drop": 0,
-	    "tags": ["recipe"],
-	    "recipe": [["tonkatsu", 1], ["rice", 1], ["water", 1], ["garnish", 1], ["flashpaste", 1]]
-	},
-	{
-		"name": "narutorecipe",
-		"img": "naruto",
-		"display": "Instructions For Fresh Naruto",
-		"description": "Grandma knows best so don't deviate from her instructions: combine Rice, Eggs, a little Sugar, Heated Water, then and mash together the Fish Filets (Raw) with Rice Wine until doughy!",
-		"base": 6,
-		"drop": 0,
-	    "tags": ["recipe"],
-	    "recipe": [["rice", 1], ["meatsaltedfish", 1], ["ricewine", 1], ["eggs", 1], ["spicesugar", 1], ["water", 1], ["flashpaste", 1]]
-	},
-	{
-		"name": "ramenrecipe",
-		"img": "contract",
-		"display": "Open Source Century Ramen",
-		"description": "!!! Hackers unite. Just build out the parts and you got it.  <br><br>Prepare: 1 Tonkatsu. 1 Naruto. 1 Gemeni Stock. Now combine them all with noodles and eggs.  This is the real deal guys!",
-		"base": 0,
-		"drop": 0,
-	    "tags": ["recipe"],
-	    "recipe": [["tonkatsu", 1], ["noodles", 1], ["stock", 1], ["eggs", 1], ["naruto", 1]]
-	},
-	{
-		"name": "shrimptempurarecipe",
-		"display": "Recipe for Ebi Tempura",
-		"description": "Recipe for Lin Shu's pretty good Shrimp Tempura. There's nothing to it just Shrimp, Breadcrumbs, Salt, Eggs, Oil, and blast it with Flashpaste! Mmmm hot and tasty.",
-		"base": 0,
-		"drop": 0,
-	    "tags": ["recipe"],
-	    "recipe": [["meatshrimp", 1], ["spicesalt", 1], ["breadcrumbs", 1], ["eggs", 1], ["oil", 1], ["flashpaste", 1]]
-	},
-	{
-		"name": "tonkatsurecipe",
-		"img": "jot",
-		"display": "Recipe for Pork Tonkatsu",
-		"description": "This one is so easy! The best Gemini cooks use Pork Cutlet, Breadcrumbs, and Eggs! Then, use any heatsource like Flashpaste or a Portable Stove of course.",
-		"base": 0,
-		"drop": 0,
-	    "tags": ["recipe"],
-	    "recipe": [["meatpork", 1], ["breadcrumbs", 1], ["eggs", 1], ["flashpaste", 1]]
-	},
-	{
-		"name": "kit",
-		"display": "Takei's Take-home Libations Kit",
-		"description": "Recipe for Takei-Donna Lyn's completely reasonable-strength Martini: 1 oz Of Vodka, 1 Compliment of Olives, 1 Terminex Vermouth.",
-		"base": 0,
-		"drop": 0,
-	    "tags": ["recipe"],
-	    "recipe": [["shotglass", 1], ["olives", 1], ["port", 1]]
-	},
-	{
-		"name": "oldfashion-jot",
-		"display": "Takei's Mars Old Fashioned Formula",
-		"description": "Lin Shu carefully observed Takei-Donna Lyn making Mars Old Fashioneds for 10 years now. It's gotta be this: 1 Brown Liquor, 1 Orange Peel, 1 Sugar Cubes, Bitters, and then ignite the fruit with Flashpaste! Hey even if it's not Takei's exact secret, it is delicious.",
-		"base": 0,
-		"drop": 0,
-	    "tags": ["recipe"],
-	    "recipe": [["liquor0", 1], ["orangepeel", 1], ["bitters", 1], ["spicesugar", 1], ["flashpaste", 1]]
-	},
-	{
-		"name": "manhattan-jot",
-		"img": "jot",
-		"display": "Takei's Five Boroughs Formula",
-		"description": "Lin Shu carefully observed Takei-Donna Lyn making Five Boroughs for 10 years now. It's gotta be this: 1 Brown Liquor, 1 Cherry, 1 Vermouth, and Bitters! Hey even if it's not Takei's exact secret, it is delicious.",
-		"base": 0,
-		"drop": 0,
-	    "tags": ["recipe"],
-	    "recipe": [["liquor0", 1], ["cherry", 1], ["port", 1], ["bitters", 1]]
-	},
-	{
-		"name": "stock-jot",
-		"img": "scribble",
-		"display": "How To Make A Solid Gemini Stock",
-		"description": "Lin Shu remembers working as a line cook in the Gemini Gutter for years. The Stock is so easy. It's Celery, Carrot, Onion, a Sea Carcass, then heat it with Flashpaste in Water!",
-		"base": 0,
-		"drop": 0,
-	    "tags": ["recipe"],
-	    "recipe": [["water", 1], ["carrot", 1], ["celery", 1], ["onion", 1], ["flashpaste", 1], ["carcass", 1]]
-	},
+	'scar': [
+		['handplans', 1],
+	],
 
+	'io1': [['strawberry', 1], ['cake', 1], ['coffeenice', 1], /*['beancube', 1]*/],
 
-	{
-		"name": "spicesugar",
-		"display": "Sugar Cubes",
-		"base": 2,
-		"drop": 1,
-	    "tags": ["spice"]
-	},
-	{
-		"name": "orangepeel",
-		"display": "Orange Peel",
-		"base": 2,
-		"drop": 1,
-	    "tags": ["spice"],
-	    "decays": ["mud", 15]
-	},
-	{
-		"name": "shotglass",
-		"display": "1oz of Vodka",
-		"base": 10,
-		"drop": 1,
-	    "neuros": [-1, 0, 2],
-	    "tags": ["liquor", "drink"]
-	},
-	{
-		"name": "pint",
-		"display": "Space Pint",
-		"base": 25,
-		"drop": 1,
-	    "neuros": [-1, -1, 2],
-	    "tags": ["liquor", "drink"]
-	},
-	{
-		"name": "soda1",
-		"display": "Nexus Cola",
-		"base": 50,
-		"drop": 1,
-	    "neuros": [1, 0, 0],
-	    "tags": ["drink"]
-	},
-	{
-		"name": "soda2",
-		"display": "Io Gew",
-		"base": 125,
-		"drop": 1,
-	    "neuros": [0, 2, 0],
-	    "tags": ["drink"]
-	},
-	{
-		"name": "soda3",
-		"display": "Crystal Nexus",
-		"base": 100,
-		"drop": 0,
-	    "neuros": [0, 2, 0],
-	    "tags": ["drink"]
-	},
-	{
-		"name": "port",
-		"display": "Terminex Hydro Farms's Vermouth",
-		"base": 8,
-		"drop": 1,
-	    "tags": ["liquor"]
-	},
-	{
-		"name": "liquor0",
-		"display": "Brown Alcohol",
-		"base": 15,
-		"drop": 1,
-	    "neuros": [-1, -1, 3],
-	    "tags": ["liquor", "drink"]
-	},
-	{
-		"name": "liquor1",
-		"display": "Liquorice Liqueur",
-		"base": 25,
-		"drop": 1,
-	    "neuros": [0, -1, 3],
-	    "tags": ["liquor", "drink"]
-	},
-	{
-		"name": "ricewine",
-		"display": "Rice Wine",
-		"base": 13,
-		"drop": 1,
-	    "tags": ["liquor"]
-	},
-	{
-		"name": "olives",
-		"display": "Full Compliment Of Olives",
-		"base": 9,
-		"description": "Something you should never leave port without.",
-		"drop": 1,
-	    "tags": ["food"],
-	    "decays": ["mud", 7]
-	},
-	{
-		"name": "martini",
-		"display": "Straight Martini",
-		"base": 30,
-		"drop": 1,
-	    "neuros": [0, -2, 4],
-	    "tags": ["liquor", "drink"]
-	},
-	{
-		"name": "oldfashion",
-		"display": "A Mars Old Fashioned",
-		"base": 100,
-		"drop": 1,
-	    "neuros": [1, -6, 8],
-	    "tags": ["liquor", "drink"]
-	},
-	{
-		"name": "absinthe",
-		"display": "The Green Dream",
-		"base": 80,
-		"drop": 1,
-	    "neuros": [-2, -4, 7],
-	    "tags": ["liquor", "drink"]
-	},
-	{
-		"name": "bitters",
-		"display": "Organic Bitters",
-		"base": 6,
-		"drop": 1,
-	    "tags": ["liquor", "spice"]
-	},
-	{
-		"name": "manhattan",
-		"display": "A Five Boroughs",
-		"base": 80,
-		"drop": 1,
-	    "neuros": [0, -5, 5],
-	    "tags": ["liquor", "drink"]
-	},
+	'nexusio': [
+		['rnavoucher', 1],
+	],
+	'io16': [
+		['1mrnavoucher', 1],
+		['2mteslavoucher', 1],
+	],
 
-	{
-		"name": "smokeables",
-		"display": "Terra-Lite Smokeables",
-		"base": 2,
-		"drop": 1,
-	    "tags": ["food"],
-	    "neuros": [2, -2, -4]
-	},
-	{
-		"name": "cherry",
-		"display": "Sweet Cherries",
-		"base": 5,
-		"drop": .2,
-	    "tags": ["food", "dessert"],
-	    "neuros": [1, 0, 1],
-	    "decays": ["mud", 5]
-	},
-	{
-		"name": "blackfruit",
-		"display": "Blackfruit",
-		"base": 500,
-		"drop": 1,
-	    "tags": ["food", "dessert"],
-	    "neuros": [0, 3, 0],
-	    "decays": ["mud", 5]
-	},
-	{
-		"name": "strawberry",
-		"display": "Delicious Strawberries",
-		"base": 50,
-		"drop": .2,
-	    "tags": ["food", "dessert"],
-	    "neuros": [2, 0, 0],
-	    "decays": ["mud", 2]
-	},
-	{
-		"name": "wiring",
-		"display": "Metal Wiring",
-		"base": 1,
-		"drop": 1,
-	    "tags": ["tool", "metal"],
-	},
-	{
-		"name": "sieve",
-		"display": "Filter Sieve",
-		"base": 10,
-		"drop": 1,
-	    "tags": ["tool", "metal"],
-	},
-	{
-		"name": "woodbars",
-		"display": "Wood",
-		"base": 5,
-		"drop": 1,
-	    "tags": ["wood"],
-	},
-	{
-		"name": "crate",
-		"display": "Crab Trap Crate",
-		"base": 20,
-		"drop": 1,
-	    "tags": ["tool", "wood"],
-	},
-	{
-		"name": "nitrogen",
-		"display": "Nitrogen plant feed",
-		"base": 200,
-		"drop": 1,
-	    "tags": ["fertalizer"],
-	},
-	{
-		"name": "crab",
-		"display": "Red-spotted Blue Crab",
-		"base": 8,
-		"drop": 1,
-	    "tags": ["animal"],
-	    "decays": ["carcass", 2] //bones
-	},
-	{
-		"name": "meatcrab",
-		"display": "Red-spotted Blue Crab Meat",
-		"base": 8,
-		"drop": 1,
-	    "tags": ["meat"],
-	    "decays": ["mud", 2]
-	},
-	{
-		"name": "meatchicken",
-		"display": "Game Thighs",
-		"base": 10,
-		"drop": 1,
-	    "tags": ["meat"],
-	    "decays": ["mud", 4]
-	},
-	{
-		"name": "chick",
-		"display": "Beautiful G'engineered Night Silkie Chick",
-		"base": 1000,
-		"drop": 1,
-	    "tags": ["animal"]
-	},
-	{
-		"name": "chick2",
-		"display": "Adult Night Silkie Caller",
-		"base": 10000,
-		"drop": 1,
-	    "tags": ["animal"]
-	},
-	{
-		"name": "meatsaltedfish",
-		"display": "Fish Filets, Raw",
-		"base": 40,
-		"drop": 0.3,
-	    "tags": ["meat"],
-	    "decays": ["mud", 9]
-	},
-	{
-		"name": "meatbacon",
-		"display": "Sliced Bacon",
-		"base": 12,
-		"drop": 1,
-	    "tags": ["meat"],
-	    "decays": ["oil", 8]
-	},
-	{
-		"name": "meathab",
-		"img": "meat",
-		"display": "Meat-Hab Cube",
-		"base": 100,
-		"drop": 1,
-	    "tags": ["meat"],
-	    "decays": ["mud", 1]
-	},
-	{
-		"name": "meatsausage",
-		"display": "Spiced Sausage",
-		"base": 20,
-		"drop": 1,
-	    "tags": ["meat", "food"],
-	    "neuros": [1, 0, 0],
-	},
-	{
-		"name": "meatpork",
-		"display": "Pork Cutlet",
-		"base": 15,
-		"drop": 1,
-	    "tags": ["meat"],
-	    "decays": ["mud", 4]
-	},
-	{
-		"name": "meatshrimp",
-		"display": "Fresh Shrimp",
-		"base": 25,
-		"drop": 1,
-	    "tags": ["meat"],
-	    "decays": ["carcass", 4]
-	},
-	{
-		"name": "meatoyster",
-		"display": "Valvebeast Meat",
-		"base": 50,
-		"drop": 1,
-	    "tags": ["meat", "food"],
-	    "neuros": [-1, 0, 2],
-	    "decays": ["mud", 4]
-	},
+	'labtech': [
+		['promformula', 1],
+	],
 
-	{
-		"name": "tomato",
-		"display": "Plump Tomato",
-		"base": 2,
-		"drop": 1,
-	    "tags": ["food"],
-	    "neuros": [1, 0, 0],
-	    "decays": ["mud", 2]
-	},
-	{
-		"name": "spicebay",
-		"display": "Bay Leaf",
-		"base": 4,
-		"drop": 1,
-	    "tags": ["spice"]
-	},
-	{
-		"name": "spiceblue",
-		"display": "Spice",
-		"base": 100,
-		"drop": 1,
-	    "tags": ["spice"]
-	},
-	{
-		"name": "spicebutter",
-		"display": "Butter",
-		"base": 3,
-		"drop": 1,
-	    "tags": ["food"],
-	    "neuros": [1, 0, -1],
-	    "decays": ["oil", 4]
-	},
-	{
-		"name": "spicechili",
-		"display": "Chili Pepper",
-		"base": 10,
-		"drop": 1,
-	    "tags": ["spice"]
-	},
-	{
-		"name": "spicecoco",
-		"display": "Coco Powder",
-		"base": 4,
-		"drop": 1,
-	    "tags": ["spice"]
-	},
-	{
-		"name": "spicesage",
-		"display": "Sage",
-		"base": 8,
-		"drop": 1,
-	    "tags": ["spice"]
-	},
-	{
-		"name": "spicesalt",
-		"display": "Salt",
-		"base": 1,
-		"drop": 1,
-	    "tags": ["spice"]
-	},
-	{
-		"name": "spicepepper",
-		"display": "Pepper",
-		"base": 1,
-		"drop": 1,
-	    "tags": ["spice"]
-	},
-	{
-		"name": "rice",
-		"display": "Bag Of Rice",
-		"base": 17,
-		"drop": 1,
-	    "tags": ["grain"]
-	},
-	{
-		"name": "breadcrumbs",
-		"display": "Breadcrumbs",
-		"base": 11,
-		"drop": 1,
-	    "tags": ["grain"]
-	},
+	'io10': [
+		['snow', 1],
+	],
 
+	'con5': [
+		['contract1', 1],
+		['contract2', 1],
+		['contract3', 1],
+		['contract4', 1],
+		['contract5', 1],
+		['contract6', 1],
+		['contract7', 1],
+		['contract8', 1],
+		['contract9', 1],
+		['contract10', 1]
+	],
+	'torchoutput': [
+	  ['glint', 6]
+	],
+	'z1': [
+	['promcorepin', 1]
 
-	{
-		"name": "oil",
-		"display": "Cooking-grade Oil",
-		"base": 1,
-		"drop": 1,
-	    "tags": ["spice"]
-	},
-	{
-		"name": "fat",
-		"display": "Rendered Animal Fat",
-		"base": 50,
-		"drop": 1,
-	    "tags": ["spice"]
-	},
-	{
-		"name": "carcass",
-		"display": "Sea Carcass",
-		"base": 1,
-		"drop": 1,
-	    "tags": ["spice"]
-	},
+	],
+	'promcorem': [['promcorepin', 2]],
 
-	{
-		"name": "eggs",
-		"display": "Assorted Eggs",
-		"base": 9,
-		"drop": 1,
-	    "tags": ["food"],
-	    "neuros": [1, 0, -2],
-	    "decays": ["mud", 20]
-	},
-	{
-		"name": "water",
-		"display": "Space-Safe Water",
-		"base": 5,
-		"drop": 1,
-	    "tags": ["drink"]
-	},
-	{
-		"name": "carrot",
-		"display": "Fresh Carrot",
-		"base": 5,
-		"drop": 1,
-	    "tags": ["food"],
-	    "neuros": [1, 0, -1],
-	    "decays": ["mud", 8]
-	},
-	{
-		"name": "pickle",
-		"display": "Pickle, Rich In Flavor",
-		"description": "Pickle Rich In Flavor!",
-		"base": 1,
-		"drop": 0,
-	    "tags": ["food"],
-	    "neuros": [-3, 1, 0],
-	    "decays": ["mud", 8]
-	},
-	{
-		"name": "snow",
-		"display": "Snowcrash",
-		"description": "",
-		"base": 0,
-		"drop": 1,
-	    "tags": ["food"],
-	    "neuros": [-10, 10, -10]
-	},
-	{
-		"name": "celery",
-		"display": "Celery Stalk",
-		"base": 2,
-		"drop": 1,
-	    "tags": ["food"],
-	    "neuros": [1, 0, -1],
-	    "decays": ["mud", 8]
-	},
-	{
-		"name": "onion",
-		"display": "Onion",
-		"base": 1,
-		"drop": 1,
-	    "tags": ["food"],
-	    "neuros": [1, 0, -2],
-	    "decays": ["mud", 8]
-	},
-	{
-		"name": "garlic",
-		"display": "Clove Of Garlic",
-		"base": 1,
-		"drop": 1,
-	    "tags": ["spice"]
-	},
-	{
-		"name": "garnish",
-		"display": "Pungent Garnish",
-		"base": 3,
-		"drop": 1,
-	    "tags": ["food"],
-	    "decays": ["mud", 8]
-	},
-	{
-		"name": "noodles",
-		"display": "Uncooked Noodles",
-		"base": 2,
-		"drop": 1,
-	    "tags": ["grain"]
-	},
-	{
-		"name": "naruto",
-		"display": "Beautiful Ricecake",
-		"base": 12,
-		"drop": 1,
-	    "tags": ["food", "dessert"]
-	},
+	'p-redbeard': 		[['coffee', 1], ['coin', 2]],
+	'p-blackbeard': 	[['molyshards', 5]],
+	'p-bluebeard': 		[['tomato', 1], ['gunsys-radio1', 1]],
 
+	'p-goldbeard': 		[['vga', 1], ['tomato', 1]],
+	'p-greenbeard': 	[['molybarsvoucher', 2], ['pickle', 1]],
 
-	{
-		"name": "stock",
-		"display": "A Stock Goin!",
-		"base": 10,
-		"description": "Virtually limitless potential now. You could make almost anything with this delicious base.",
-		"drop": 1,
-	    "tags": ["food", "soup"],
-	    "neuros": [2, 0, 0],
-	    "decays": ["mud", 1]
-	},
-	{
-		"name": "ramen0",
-		"display": "Tonkotsu Ramen",
-		"base": 500,
-		"drop": 1,
-	    "tags": ["food", "ramen", "soup"],
-	    "neuros": [4, 0, 2],
-	    "decays": ["mud", 1]
-	},
-	{
-		"name": "ramen1",
-		"display": "Century Ramen",
-		"base": 500,
-		"drop": 1,
-	    "tags": ["food", "ramen", "soup"],
-	    "neuros": [8, 0, 5],
-	    "decays": ["mud", 1]
-	},
-	{
-		"name": "souptomato",
-		"display": "Red-spotted Blue Crab & Tomato Soup",
-		"base": 5,
-		"drop": 1,
-	    "tags": ["food", "soup"],
-	    "neuros": [4, 0, 5],
-	    "decays": ["mud", 1]
-	},
-	{
-		"name": "shrimptempura",
-		"display": "Hot Shrimp Tempura",
-		"base": 25,
-		"drop": 1,
-	    "tags": ["food"],
-	    "neuros": [4, 0, 2],
-	    "decays": ["mud", 2]
-	},
-	{
-		"name": "tonkatsu",
-		"display": "Piping Hot Tonkatsu",
-		"base": 40,
-		"drop": 1,
-	    "tags": ["food"],
-	    "neuros": [4, 0, 2],
-	    "decays": ["mud", 2]
-	},
-	{
-		"name": "schnitzel",
-		"display": "Chicken Schnitzel",
-		"base": 140,
-		"drop": 1,
-	    "tags": ["food"],
-	    "neuros": [3, 0, 3],
-	    "decays": ["mud", 2]
-	},
-	{
-		"name": "burger",
-		"display": "Meat-Hab Burger",
-		"base": 340,
-		"drop": 1,
-	    "tags": ["food"],
-	    "neuros": [-5, -1, -4],
-	    "decays": ["mud", 2]
-	},
-	{
-		"name": "bluesausage",
-		"display": "Pickled Blue Crab Sausage",
-		"base": 100,
-		"drop": 1,
-	    "tags": ["food"],
-	    "neuros": [-2,-1, 4],
-	    "decays": ["mud", 2]
-	},
-	{
-		"name": "katsudon",
-		"display": "Katsu Don Meal",
-		"base": 60,
-		"drop": 1,
-	    "tags": ["food"],
-	    "neuros": [7, 0, 4],
-	    "decays": ["mud", 2]
-	},
-	{
-		"name": "steak",
-		"display": "Steak Dinner",
-		"base": 80,
-		"drop": 1,
-	    "tags": ["food"],
-	    "neuros": [6, -3, 0],
-	    "decays": ["mud", 3]
-	},
-	{
-		"name": "cake",
-		"display": "Perfect Slice Of Cake",
-		"base": 10,
-		"drop": 1,
-	    "tags": ["food", "dessert"],
-	    "neuros": [1, 0, 0],
-	    "decays": ["mud", 4]
-	},
-	{
-		"name": "beancube",
-		"display": "Robot-favorable Puce Bean Dessert",
-		"base": 10000,
-		"drop": .1,
-	    "tags": ["food", "dessert"],
-	    "neuros": [-5, 0, 0],
-	    "decays": ["promshards", 10]
-	},
-	{
-		"name": "cookie",
-		"display": "Crunchy Cookie",
-		"base": 1,
-		"drop": 1,
-	    "tags": ["food", "dessert"],
-	    "neuros": [1, -1, 0],
-	    "decays": ["mud", 10]
-	},
-	{
-		"name": "cookieseiple",
-		"img": "cookie",
-		"display": "Seiple's Favorite Type Of Cookie",
-		"base": 1,
-		"drop": 1,
-	    "tags": ["food", "dessert"],
-	    "neuros": [1, -1, 0],
-	    "decays": ["mud", 10]
-	},
-	{
-		"name": "coin",
-		"display": "Some...rare coin?",
-		"base": 200,
-		"drop": 1,
-	    "tags": ["coin"]
-	},
-	{
-		"name": "coin2",
-		"display": "Looks like...a REALLY rare coin",
-		"base": 9000,
-		"drop": 1,
-	    "tags": ["coin"]
-	},
-	{
-		"name": "coffee",
-		"display": "Cup Of Coffee",
-		"base": 2,
-		"drop": 1,
-	    "tags": ["drink", "coffee"],
-	    "neuros": [-2, 3, 0],
-	    "decays": ["coffeeold", 3]
-	},
-	{
-		"name": "coffeemilk",
-		"display": "Cafe Au Lait",
-		"base": 3,
-		"drop": 1,
-	    "tags": ["drink", "coffee"],
-	    "neuros": [-1, 4, 1],
-	    "decays": ["coffeeold", 3]
-	},
-	{
-		"name": "coffeenice",
-		"display": "Good Coffee",
-		"description": "This...is a pretty okay cup of coffee.",
-		"base": 20,
-		"drop": 1,
-	    "tags": ["drink", "coffee"],
-	    "neuros": [0, 6, 1],
-	    "decays": ["coffeeold", 3]
-	},
-	{
-		"name": "coffeeespresso",
-		"display": "Espresso",
-		"base": 15,
-		"drop": 1,
-	    "tags": ["drink", "coffee"],
-	    "neuros": [0, 1, 0],
-	    "decays": ["coffeeold", 3]
-	},
-	{
-		"name": "coffeeold",
-		"display": "Moldy Coffee",
-		"description": "We think at one point it had been something close to coffee.",
-		"base": 1,
-		"drop": 1,
-	    "neuros": [-4, -2, -8],
-	    "tags": ["drink", "coffee"]
-	},
-	{
-		"name": "mud",
-		"display": "Organic Sludge",
-		"base": 1,
-		"drop": 1,
-	    "tags": ["food", "dirt"],
-	    "neuros": [0, -1, -10],
-	    "decays": ["aminos", 10]
-	},
-	{
-		"name": "aminos",
-		"display": "Amino Paste",
-		"base": 1,
-		"drop": 1,
-	    "neuros": [0, 0, -5],
-	    "tags": ["food"]
-	},
-	{
-		"name": "rna",
-		"display": "Self-aware Globule Of Reverse Transcriptase",
-		"description": "Probably be careful with these...",
-		"base": 0,
-		"drop": 1,
-	    "tags": []
-	},
-
-
-	{
-		"name": "cab0a",
-		"display": "Camden Tech Umlout Cab",
-		"base": 800,
-		"drop": 1,
-	    "tags": ["equip", "cab"],
-	    "description": "The Camden Technologies Umlout-Class Line is a rugged, sturdy, dependable hauler's workhorse. Available in tangerine orange for cruising in style.",
-	    "chips": 2,
-	    "mounts": 0,
-	},
-	{
-		"name": "cab1",
-		"display": "Nexus Banner Factory Cab",
-		"base": 1000,
-		"drop": 1,
-	    "tags": ["equip", "cab"],
-	    "description": "Nexus Trade Co. offers its dedicated drivers an exclusive offer on this official Nexus emblem cab. Flaunt your contractual status to all the space passers-by in this bright tug.",
-	    "chips": 3,
-	    "mounts": 0,
-	},
-	{
-		"name": "cab2",
-		"display": "Foot Hur-Ama'aa Light Cruiser",
-		"base": 500,
-		"drop": 1,
-	    "tags": ["equip", "cab"],
-	    "description": "A streamlined delivery model for the distinguished light-duty hauler. No Kit Slots, no frills, tomorrow is today!",
-	    "chips": 0,
-	    "mounts": 0,
-	},
-	{
-		"name": "cab4",
-		"display": "Promi Rad Counter",
-		"base": 1000,
-		"drop": 1,
-	    "tags": ["equip", "cab"],
-	    "description": "The Promi design for purpose and the Rad Counter is an effective dual-duty deep space cab / nuclear blast zone clean room.",
-	    "chips": 3,
-	    "mounts": 0,
-	},
-	{
-		"name": "cab3",
-		"display": "Drone Warrior Slug Crew Cab",
-		"base": 1800,
-		"drop": 1,
-	    "tags": ["equip", "cab"],
-	    "description": "Drone Warrior Riding Crew RIG tech enthusiast club releases competativly spec'd build-your-own engineering plans and some locales boast Chief Drone Engineers who will sell the pre-built final product.",
-	    "chips": 4,
-	    "mounts": 0,
-	},
-	{
-		"name": "cab5",
-		"display": "Junix Ridgeline Bridge",
-		"base": 1800,
-		"drop": 1,
-	    "tags": ["equip", "cab"],
-	    "description": "Junix Electronics Group enter the hauler market with an exciting, sleek, luxury line. The full Ridgeline set gives space truckers the confidence of a Wall Street argonaut and enough USB class F circuits to power an array of service Kit. "Junix: There is a difference."",
-	    "chips": 4,
-	    "mounts": 0,
-	},
-	{
-		"name": "cabpp",
-		"display": "Recon Bridge",
-		"base": 4000,
-		"drop": 1,
-	    "tags": ["equip", "cab"],
-	    "description": "This heavily capable DEMI-built recon scout is hot-swappable as a cargo pull cab because hackers for some reason build gear to have unreasonable features.",
-	    "chips": 5,
-	    "mounts": 0,
-	},
-	{
-		"name": "cab6",
-		"display": "Lodestar Nightengale",
-		"base": 10500,
-		"drop": 1,
-	    "tags": ["equip", "cab"],
-	    "description": "Earth Mil contract recipient, Maryland-based Lodestar offers the finest deep cruising models at the finest of price points. The banner motto in the Lodestar design department is: Unrelenting Dominance.",
-	    "chips": 7,
-	    "mounts": 0,
-	},
-	{
-		"name": "cab7",
-		"display": "Ioan Planet Hopper",
-		"base": 15000,
-		"drop": 1,
-	    "tags": ["equip", "cab"],
-	    "description": "In their persuit of a better way of life, Io Habs have grown the deepest integration between man and machine. Io tech as such appears to achieve 100-fold improvements on power distribution while simulteneously enabling effortless control systems and unsurpased reliability.",
-	    "chips": 10,
-	    "mounts": 0,
-	},
-
-	{
-		"name": "spine000",
-		"display": "A Repurposed Loader",
-		"base": 50,
-		"drop": 1,
-	    "tags": ["equip", "spine"],
-	    "description": "A personal consumer-grade loader retrofitted for zero atmosphere duty.",
-	    "slots": 4
-	},
-	{
-		"name": "eurocrate",
-		"display": "Narrow Guage Euro-crate",
-		"base": 200,
-		"drop": 1,
-	    "tags": ["equip", "spine"],
-	    "description": "A slimline crate standard created for tight spaces, which isn't really needed in space. But you can buy one for cheap.",
-	    "slots": 6
-	},
-	{
-		"name": "halfcrate",
-		"display": "A Standard Halfcrate",
-		"base": 250,
-		"drop": 1,
-	    "tags": ["equip", "spine"],
-	    "description": ""The Mars-go Road" was paved with Earth's original shipping-use crate format. Multi-colored trains of corrugated steel reached out to Mars in the First Expansion. Own a piece of history that still hauls Iron!",
-	    "slots": 8
-	},
-	{
-		"name": "spine5a",
-		"display": "Promi Cold Recombinator",
-		"base": 400,
-		"drop": 1,
-	    "tags": ["equip", "spine"],
-	    "description": "Promi have built in superconducting mags to this cargo crate to raise max hauling ratio over total mass.",
-	    "slots": 10
-	},
-	{
-		"name": "spine1",
-		"display": "Standard Hauler Fullcrate",
-		"base": 1000,
-		"drop": 1,
-	    "tags": ["equip", "spine"],
-	    "description": "Nothing says space trucker like hitching up a Singapore-blue Fullcrate and hauling Iron Bars from Meridian to Gemini. Play to type complete with a cup of coffee and a tip of the hat to the haulers running back the other.",
-	    "slots": 12
-	},
-	{
-		"name": "spinepp",
-		"display": "Scorched Carapace",
-		"base": 2000,
-		"drop": 1,
-	    "tags": ["equip", "spine"],
-	    "description": "Somewhat mysterious design but this loadout packs heavy-format crates with more efficiency than standard tetra-shaped boxers.",
-	    "slots": 14
-	},
-	{
-		"name": "spine2a",
-		"display": "Lodestar Hexpod",
-		"base": 4000,
-		"drop": 1,
-	    "tags": ["equip", "spine"],
-	    "description": "The Lodestar team refuses to compromise once again, packing cargo outside the structural frame to save on overall bone mass without inducing any speed-variant moments of inertia. Hexpod drives like a Hotshop but hauls a planet.",
-	    "slots": 16
-	},
-	{
-		"name": "supercrate",
-		"display": "Camden Zuperkrate",
-		"base": 5000,
-		"drop": 1,
-	    "tags": ["equip", "spine"],
-	    "description": ""This is simple and it just works," the DEMI visionary engineer stated in the Press Release. With some automated welding techniques and a vast supply of standard crates making their way to the Outer Rim, this comparatively innexpensive, gigantic cargo hold is a Camden exclusive.",
-	    "slots": 18
-	},
-	{
-		"name": "spine4a",
-		"display": "Io Labs Super-containment",
-		"base": 10000,
-		"drop": 1,
-	    "tags": ["equip", "spine"],
-	    "description": "Tech de-build teams haven't yet figured out how the Ioans have fit more space inside of this machine than out. Some non-euclidian vector folding is the best theory? It's big, orange, expensive, and badass.",
-	    "slots": 24
-	},
-
-	{
-		"name": "tail5",
-		"display": "Questionable Nozzle",
-		"base": 50,
-		"drop": 1,
-	    "tags": ["equip", "tail", "booster"],
-	    "description": "It appears Pedge "It'll Fly" Johnson may have gaffer-taped together an injection manifold to a nitrogen torch. Seems to make the ship move though?",
-	    "drive": .5
-	},
-	{
-		"name": "tail0",
-		"display": "Camden Tech UL 6",
-		"base": 1000,
-		"drop": 1,
-	    "tags": ["equip", "tail", "booster"],
-	    "description": "The Camden UL 6 is the latest in the line of easy-to-maintain, efficient boosters available for the public market.",
-	    "drive": 1
-	},
-	{
-		"name": "tail1b",
-		"display": "Promi Fire-Emblem JUMP",
-		"base": 1500,
-		"drop": 1,
-	    "tags": ["equip", "tail", "booster"],
-	    "description": "No marketing materials exist for any of the Promi gear, so no one seems to know why there is a raised, gold-plated fireburst emblem on this Promi JUMP drive. But scrappers have found units where pirates have sawed off the gold bit seem otherwise in tact but fail to ignite. So apparently it's important.",
-	    "drive": 2
-	},
-	{
-		"name": "tailpp",
-		"display": "Recon Cutter",
-		"base": 4500,
-		"drop": 1,
-	    "tags": ["equip", "tail", "booster"],
-	    "description": "A solid boost machine built on DEMI for cross-purpose markets.",
-	    "drive": 3
-	},
-	{
-		"name": "tail3",
-		"display": "Junix Ridgeline Nacelle",
-		"base": 4500,
-		"drop": 1,
-	    "tags": ["equip", "tail", "booster"],
-	    "description": "Junix Electronics Group driver styled to suit the Ridgeline-class hauler. Speed in style.",
-	    "drive": 3
-	},
-	{
-		"name": "tail4",
-		"display": "Drone Warrior BFR",
-		"base": 5000,
-		"drop": 1,
-	    "tags": ["equip", "tail", "booster"],
-	    "description": "Statistically more stable than it appears to be, the Drone Warrior build-at-home B. F. Rocket outperforms all other corporate nonsense out there.",
-	    "drive": 4
-	},
-	{
-		"name": "tail2a",
-		"display": "Lodestar 4600 TL",
-		"base": 9000,
-		"drop": 1,
-	    "tags": ["equip", "tail", "booster"],
-	    "description": "The Lodestar design team don't care if it's about as long as a skyscraper because a good engine only needs to do one thing right, accelerate.",
-	    "drive": 5
-	},
-	{
-		"name": "tail6b",
-		"display": "Ioan Planet Cruiser",
-		"base": 15000,
-		"drop": 1,
-	    "tags": ["equip", "tail", "booster"],
-	    "description": "With its system-wide unbeaten drive capability combined with low rod-burn and unsurpased landing control systems, escaping port in a Planet Cruiser announces to all, "I win."",
-	    "drive": 8
-	},
-
-	{
-		"name": "hcab0",
-		"display": "Cobbled-Together Wheeled Hauler",
-		"base": 10,
-		"drop": 1,
-		"wheeled": true,
-	    "tags": ["equip", "cab"],
-	    "description": "You welded this up from some outdated pond farm equipment. PLUS, it runs!",
-	    "chips": 0,
-	    "mounts": 0,
-	},
-	{
-		"name": "hcab1",
-		"display": "Camden Tech Wheeled Burnout Hotshop",
-		"base": 100,
-		"drop": 1,
-		"wheeled": true,
-	    "tags": ["equip", "cab"],
-	    "description": "Nine-to-Five meets 3s Zero-to-Sixty. A hauling-duty cab that can put down a coat of rubber paint on Lower Level K Drive.",
-	    "chips": 0,
-	    "mounts": 0,
-	},
-	{
-		"name": "hspine0",
-		"display": "Rusty Wheeled Trailer",
-		"base": 10,
-		"drop": 1,
-		"wheeled": true,
-	    "tags": ["equip", "spine"],
-	    "description": "She's no spaceship but she hauls crabs good.",
-	    "slots": 2
-	},
-	{
-		"name": "htail0",
-		"display": "Rusty Wheeled Endcap Roller",
-		"base": 10,
-		"drop": 1,
-		"wheeled": true,
-	    "tags": ["equip", "tail"],
-	    "drive": 0.01
-	},
-
-	{
-		"name": "lockpick",
-		"display": "Pneumatic Lock Pick",
-		"base": 60,
-		"drop": 0,
-		"badge": true,
-		"negate": ["jbar"],
-	    "description": "This powered lock picking rig removes the need to smash up a Jimmy-Bar to open Locked Boxes. If Lock Pick is Active, just place the Locked Box on your Workbench and it will open!",
-	    "tags": ["tool", "module"]
-	},
-	{
-		"name": "burner",
-		"display": "Portable Stove",
-		"base": 200,
-		"drop": 0,
-		"badge": true,
-		"negate-food": ["flashpaste"],
-	    "description": "A portable, reliable heatsource that removes the need to use Flashpaste with your cooking recipes.",
-	    "tags": ["tool", "module"]
-	},
-	{
-		"name": "bar",
-		"display": "Barkeep's Brewkit",
-		"base": 200,
-		"drop": 0,
-		"badge": true,
-		"negate-food": ["bitters", "port"],
-	    "description": "This continuous bubbling lab keeps your RIG stocked with Bitters and Vermouth. So, no need to buy those ingredients for cocktails anymore, just mix up everything else and Bitters or Vermouth are covered.",
-	    "tags": ["tool", "module"]
-	},
-	{
-		"name": "coffeemaker",
-		"display": "Auto Coffee-Tron",
-		"base": 500,
-		"drop": 0,
-		"badge": true,
-		"bioboost": [0, 2, 0],
-	    "description": "Smash the day with your own in-cab coffee steamer. Activating this Kit gives you a +2 Foresight Bio-Neural Flexor every morning.",
-	    "tags": ["tool", "module"]
-	},
-	{
-		"name": "watch",
-		"display": "Sleep Timer",
-		"base": 800,
-		"drop": 0,
-		"badge": true,
-	    "description": "While in a town, adds an option to Sleep (and skip to tomorrow). Merchants tend to restock overnight so you could hit the restock early!",
-	    "tags": ["tool", "module"]
-	},
-	{
-		"name": "translator",
-		"display": "Construct Language Translator",
-		"base": 800,
-		"drop": 0,
-		"badge": true,
-	    "description": "Somewhat indispensable gadget (if you ever want to trade with Europan constructs). Activating this Translator will allow you to decipher their strange language.",
-	    "tags": ["tool", "module"]
-	},
-	{
-		"name": "hat",
-		"display": "Good Old Hat",
-		"base": 25,
-		"drop": 0,
-		"badge": true,
-		"bioboost": [1, 1, 1],
-	    "description": "Having old hatty around just makes ya feel better. Not in any particular... but in a certain sorta undefinable. Activating Good Old Hat starts all your Bio-Neural Flexors at 1 instead of 0 each day.",
-	    "tags": ["module"]
-	},
-	{
-		"name": "vga",
-		"display": "VGA Mode",
-		"base": 10000,
-		"drop": 0,
-		"badge": true,
-	    "description": "Enables VGA mode.",
-	    "tags": ["module"]
-	},
-	{
-		"name": "freezer",
-		"display": "Modular Freeze Bay",
-		"base": 10000,
-		"drop": 0,
-		"badge": true,
-	    "description": "A Cold Storage fail-safe refrigeration bay.  Activating this freezer prevents all food from decaying during your travels across space.",
-	    "tags": ["module"]
-	},
-	{
-		"name": "hand",
-		"display": "Gauntlet Of Terminal Control",
-		"base": 10000,
-		"drop": 0,
-		"badge": true,
-	    "description": "Activating Gauntlet Of Terminal Control <u>multiplies</u> your Bio-Neural Flexor negotiation bonus by 3333. <br><br>(When you're feeling good, you will be able to buy almost anything you want, not unlike a real Terminus!)",
-	    "tags": ["module"]
-	},
-	{
-		"name": "handplans",
-		"display": "Plans For: Gauntlet Of Terminal Control",
-		"base": 10000,
-		"drop": 0,
-	    "description": "Combine on your Workbench: These plans, 3 Molybdenum Ingots, Metal Wiring, 1 BootDawg Diagnostics Kit, Flashpaste, and a Jimmy-Bar.  Then prepare to be awesomeized.<br><br>"I love the Gauntlet Of Terminal Control"",
-	    "tags": ["recipe"]
-	},
-
-	{
-		"name": "gunsys-rapid2",
-		"img": "rapid",
-		"display": "Support Weapons Control: 2 Rapid Mass Driver",
-		"base": 2000,
-		"drop": 0,
-		"badge": true,
-		"guns": [["rapid", 2]],
-	    "description": "Weapons control system for dorsal, ventral Rapid Hard Shot pair / accurate but mild damage.",
-	    "tags": ["module", "gun"]
-	},
-	{
-		"name": "gunsys-rail6",
-		"img": "gun0",
-		"display": "Main Weapons Control: 6 Simple Rail Array",
-		"base": 24000,
-		"drop": 0,
-		"badge": true,
-		"guns": [["gun0", 6]],
-	    "description": "Weapons control system for a six-wide Simple Rail / dodgy targeting and medium damage.",
-	    "tags": ["module", "gun"]
-	},
-	{
-		"name": "gunsys-rail2",
-		"img": "gun0",
-		"display": "Support Weapons Control: 2 Simple Rail Array",
-		"base": 4000,
-		"drop": 0,
-		"badge": true,
-		"guns": [["gun0", 2]],
-	    "description": "Weapons control system for dorsal, ventral Simple Rail / dodgy targeting and medium damage.",
-	    "tags": ["module", "gun"]
-	},
-	{
-		"name": "gunsys-radio1",
-		"img": "gun1",
-		"display": "Support Weapons Control: Promi Radio Beam",
-		"base": 10000,
-		"drop": 0,
-		"badge": true,
-		"guns": [["gun1", 1]],
-	    "description": "Weapons control system for a dorsal Promi Folded Radio Cascade Beam / low misfire and good damage.",
-	    "tags": ["module", "gun"]
-	},
-	{
-		"name": "gunsys-radio4",
-		"img": "gun1",
-		"display": "Main Weapons Control: 4 Promi Radio Beam",
-		"base": 40000,
-		"drop": 0,
-		"badge": true,
-		"guns": [["gun1", 4]],
-	    "description": "Weapons control system for a dorsal Promi Folded Radio Cascade Beam / low misfire and good damage.",
-	    "tags": ["module", "gun"]
-	},
-	{
-		"name": "gunsys-channel",
-		"img": "gun-f",
-		"display": "Main Weapons Control: Forced-quasar Channel Beam",
-		"base": 24000,
-		"drop": 0,
-		"badge": true,
-		"guns": [["gun-f", 1]],
-	    "description": "Weapons control system for focused Forced-quasar Channel Beam / low misfire and high damage.",
-	    "tags": ["module", "gun"]
-	},
-	{
-		"name": "rapid",
-		"display": "Rapid Mass Driver",
-	    "description": "Rapid Mass Driver, accurate but mild damage.",
-	    "ammo": "rapid",
-	    "snd": "rapid",
-	    "miss": .05,
-	    "dmg": 1,
-	    "tags": ["gun"]
-	},
-	{
-		"name": "gun0",
-		"img": "gun0",
-		"display": "Simple Rail",
-	    "description": "Simple Rail, dodgy targeting and medium damage.",
-	    "ammo": "mass",
-	    "snd": "mass",
-	    "miss": .3,
-	    "dmg": 3,
-	    "tags": ["gun"]
-	},
-	{
-		"name": "gun1",
-		"img": "gun1",
-		"display": "Promi Radio Beam",
-	    "description": "Promi Folded Radio Cascade Beam, low misfire and good damage.",
-	    "ammo": "energy",
-	    "snd": "energy",
-	    "beam": "lime",
-	    "miss": .15,
-	    "dmg": 5,
-	    "tags": ["gun"]
-	},
-	{
-		"name": "gun-f",
-		"display": "Forced-quasar Channel",
-	    "description": "Forced-quasar Channel Beam, low misfire and high damage.",
-	    "ammo": "beam",
-	    "snd": "deep",
-	    "beam": "red",
-	    "miss": 0,
-	    "dmg": 12,
-	    "tags": ["gun"]
-	}
-]
-
+	'p-violentbeard': 	[['carcass', 8], ['coin2', 1]],
+	'p-whitebeard': 	[['gunsys-rail6', 1]],
+	'p-darkbeard': 		[],
+}
