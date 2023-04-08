@@ -30,9 +30,9 @@ from uuid import uuid4
 df['id'] = [str(uuid4()) for _ in range(len(df))]
 
 print(df)
-
+#exit()
 # Define index name
-index_name = 'sea2'
+index_name = 'sea3'
 
 # Initialize connection to Pinecone
 pinecone.init(api_key=PINECONE_API_KEY, environment=PINECONE_API_ENV)

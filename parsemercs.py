@@ -1,7 +1,8 @@
 import json
-
+import pandas as pd
 from gamedata import *
 
+from uuid import uuid4
 
 with open('itemsgood.json', 'r') as f:
     # Load the JSON data into a Python dictionary
@@ -54,9 +55,14 @@ def json_to_english(json_data):
             for thing in cargolist[obj.get('name')]:
                 description += f"{name} has this item for sale: \"{thing['display']}\""
                 if 'description' in thing:
-                    description += f" which is known for: \"{thing['description']}\". "
+                    description += f" which is known for: \"{thing['description']}\""
+                    if 'tags' in thing:
+                        proplist = ", ".join(thing['tags'])
+                        description += f" and has the properties: \"{proplist}\". "
+                    else:
+                        description += ". "
                 else:
-                    description += f". "
+                    description += ". "
 
         #if 'quests' in obj:
         #    description += f"Quests: {', '.join(obj['quests'])}\n"
@@ -73,18 +79,35 @@ def json_to_english(json_data):
                 result = index_obj.get('result', '')
                 description += f"When asking {name} \"{topic}\", {name} says: \"{result}\". "
 
-        description += "\n"
-        description += "\n"
+        #description += "\n"
+        #description += "\n"
         descriptions.append(description)
-    return "".join(descriptions)
+    #return "".join(descriptions)
+    return descriptions
 
 with open('mercs.json', 'r') as f:
     # Load the JSON data into a Python dictionary
     json_data = json.load(f)
 
-    
-print(json_to_english(json_data))
+rows=[]
+rows = json_to_english(json_data)
 
-with open('output.txt', 'w') as f:
+#df['id'] = [str(uuid4()) for _ in range(len(df))]
+ids = list(range(len(rows)))
+
+
+# Create a dataframe from the list of texts
+df = pd.DataFrame(columns = ['id', 'text'])
+
+
+# Set the text column to be the raw text with the newlines removed
+df['id'] = ids #remove_newlines(df.text)
+df['text'] = rows #remove_newlines(df.text)
+
+
+df.to_csv('processed/rows.csv')
+df.head()
+
+#with open('output.txt', 'w') as f:
     # Write some text to the file
-    f.write(json_to_english(json_data))
+#    f.write(json_to_english(json_data))
