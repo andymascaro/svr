@@ -160,7 +160,7 @@ with open('data/hard.csv', 'r') as file:
     for index, row in enumerate(reader):
         answers.append({
             'q': row[0],
-            'v': [],
+            'v': [], 
             'r': '',
             't': row[1].lower()
         })

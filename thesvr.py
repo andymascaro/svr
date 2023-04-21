@@ -20,7 +20,7 @@ server = "127.0.0.1"
 # Generation parameters
 # Reference: https://huggingface.co/docs/transformers/main_classes/text_generation#transformers.GenerationConfig
 params = {
-    'max_new_tokens': 20,
+    'max_new_tokens': 20, 
     'do_sample': True,
     'temperature': 0.72,
     'top_p': 0.73,
